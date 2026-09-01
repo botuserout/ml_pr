@@ -338,6 +338,10 @@ tab1, tab2, tab3, tab4 = st.tabs([
 
 rec_features = ["calories_kcal", "protein_g", "fat_g", "carbohydrate_g", "fiber_g", "sugar_g", "sodium_mg"]
 
+# Initialize Session State Presets
+if "target_preset" not in st.session_state:
+    st.session_state["target_preset"] = "balanced"
+
 # ==============================================================================
 # TAB 1: FOOD RECOMMENDER
 # ==============================================================================
@@ -348,10 +352,25 @@ with tab1:
     c_left, c_right = st.columns([1, 2.2])
     
     with c_left:
+        st.markdown("#### Quick Target Presets")
+        pr_col1, pr_col2, pr_col3 = st.columns(3)
+        if pr_col1.button("⚡ High Protein"):
+            st.session_state["cal"] = 300
+            st.session_state["prot"] = 30.0
+            st.session_state["fib"] = 8.0
+        if pr_col2.button("🔥 Low Calorie"):
+            st.session_state["cal"] = 150
+            st.session_state["prot"] = 15.0
+            st.session_state["fib"] = 5.0
+        if pr_col3.button("🌾 High Fiber"):
+            st.session_state["cal"] = 250
+            st.session_state["prot"] = 15.0
+            st.session_state["fib"] = 15.0
+            
         st.markdown("#### 1. Target Nutrient Dial (per 100g)")
-        t_cal = st.slider("Calories (kcal)", 0, 900, 300, step=10)
-        t_prot = st.slider("Protein (g)", 0.0, 50.0, 20.0, step=0.5)
-        t_fib = st.slider("Dietary Fiber (g)", 0.0, 30.0, 8.0, step=0.5)
+        t_cal = st.slider("Calories (kcal)", 0, 900, st.session_state.get("cal", 300), step=10, key="cal_slider")
+        t_prot = st.slider("Protein (g)", 0.0, 50.0, st.session_state.get("prot", 20.0), step=0.5, key="prot_slider")
+        t_fib = st.slider("Dietary Fiber (g)", 0.0, 30.0, st.session_state.get("fib", 8.0), step=0.5, key="fib_slider")
         t_carb = st.slider("Carbohydrates (g)", 0, 100, 30, step=2)
         t_fat = st.slider("Fat (g)", 0.0, 50.0, 10.0, step=1.0)
         t_sug = st.slider("Sugar (g)", 0.0, 50.0, 5.0, step=0.5)
@@ -368,11 +387,22 @@ with tab1:
         if use_constraints:
             max_cal = st.number_input("Max Calories Limit", value=400)
             min_prot = st.number_input("Min Protein Requirement", value=10.0)
+            if max_cal < min_prot * 4:
+                st.caption("⚠️ Note: Low calorie limit relative to high protein requirement.")
 
     with c_right:
         st.markdown("#### 3. Recommended Food Results")
         
-        if not food_df.empty and rec_scaler is not None:
+        target_sum = t_cal + t_prot + t_fib + t_carb + t_fat + t_sug + t_sod
+        
+        # Edge Case 1: All Zero Parameters
+        if target_sum == 0:
+            st.info("ℹ️ All target nutrient sliders are set to 0. Please adjust at least one nutrient slider (e.g. Protein, Calories, or Fiber) above to receive personalized recommendations!")
+        # Edge Case 2: Extreme / Maximum Values Selected
+        elif t_cal >= 850 and t_prot >= 45 and t_fib >= 25:
+            st.caption("🔥 High Macro Density Target Selected: Finding foods with peak nutrient concentration.")
+            
+        if target_sum > 0 and not food_df.empty and rec_scaler is not None:
             target_dict = {
                 "calories_kcal": t_cal, "protein_g": t_prot, "fat_g": t_fat,
                 "carbohydrate_g": t_carb, "fiber_g": t_fib, "sugar_g": t_sug, "sodium_mg": t_sod
@@ -431,8 +461,6 @@ with tab1:
             display_cols = [c for c in ["food_name", "collection_location", "calories_kcal", "protein_g", "fiber_g", "quality_label", "similarity"] if c in recs.columns]
             with st.expander("🔍 View Raw Recommendation Data Table"):
                 st.dataframe(recs[display_cols], use_container_width=True)
-        else:
-            st.error("Dataset or Scaler model not loaded.")
 
 # ==============================================================================
 # TAB 2: INDIAN MEAL SUGGESTER
@@ -500,53 +528,57 @@ with tab3:
     cp1, cp2 = st.columns(2)
     with cp1:
         st.markdown("#### Input Dish Parameters")
-        p_cal = st.number_input("Calories (kcal)", value=250.0, step=10.0)
-        p_fat = st.number_input("Fat (g)", value=8.0, step=0.5)
-        p_carb = st.number_input("Carbohydrates (g)", value=35.0, step=1.0)
-        p_fib = st.number_input("Fiber (g)", value=4.5, step=0.5)
-        p_sug = st.number_input("Sugar (g)", value=3.0, step=0.5)
-        p_sod = st.number_input("Sodium (mg)", value=250.0, step=10.0)
+        p_cal = st.number_input("Calories (kcal)", value=250.0, min_value=0.0, step=10.0)
+        p_fat = st.number_input("Fat (g)", value=8.0, min_value=0.0, step=0.5)
+        p_carb = st.number_input("Carbohydrates (g)", value=35.0, min_value=0.0, step=1.0)
+        p_fib = st.number_input("Fiber (g)", value=4.5, min_value=0.0, step=0.5)
+        p_sug = st.number_input("Sugar (g)", value=3.0, min_value=0.0, step=0.5)
+        p_sod = st.number_input("Sodium (mg)", value=250.0, min_value=0.0, step=10.0)
         
     with cp2:
         st.markdown("#### Real-time ML Evaluation")
         if st.button("✨ Compute Predictions", type="primary", use_container_width=True):
-            input_features = pd.DataFrame([{
-                "calories_kcal": p_cal, "fat_g": p_fat, "carbohydrate_g": p_carb,
-                "fiber_g": p_fib, "sugar_g": p_sug, "sodium_mg": p_sod
-            }])
-            
-            # Predict Protein
-            if reg_model is not None:
-                pred_prot = reg_model.predict(input_features)[0]
-                st.markdown(f"""
-                <div style="background: rgba(16, 185, 129, 0.1); border: 1px solid rgba(52, 211, 153, 0.3); border-radius: 16px; padding: 1.25rem; margin-bottom: 1rem;">
-                    <div style="color: #34d399; font-weight: 600; font-size: 0.9rem;">REGRESSION MODEL OUTPUT</div>
-                    <div style="font-size: 2rem; font-weight: 800; color: #f8fafc;">{pred_prot:.2f} g Protein</div>
-                    <div style="color: #94a3b8; font-size: 0.8rem;">Predicted by Random Forest Regressor ($R^2$ = 0.7976)</div>
-                </div>
-                """, unsafe_allow_html=True)
+            if p_cal == 0 and p_fat == 0 and p_carb == 0 and p_fib == 0 and p_sug == 0 and p_sod == 0:
+                st.warning("⚠️ All parameters are 0. Please enter non-zero nutrient values for meaningful prediction.")
             else:
-                st.warning("Protein Regressor joblib model not loaded.")
-                
-            # Classify Quality Grade
-            if cls_model is not None:
-                cls_input = pd.DataFrame([{
-                    "calories_kcal": p_cal, "protein_g": pred_prot if reg_model else 10.0,
-                    "fat_g": p_fat, "carbohydrate_g": p_carb, "fiber_g": p_fib,
-                    "sugar_g": p_sug, "sodium_mg": p_sod
+                input_features = pd.DataFrame([{
+                    "calories_kcal": p_cal, "fat_g": p_fat, "carbohydrate_g": p_carb,
+                    "fiber_g": p_fib, "sugar_g": p_sug, "sodium_mg": p_sod
                 }])
-                pred_label = cls_model.predict(cls_input)[0]
                 
-                label_color = "#34d399" if pred_label == "High" else ("#fbbf24" if pred_label == "Medium" else "#f87171")
-                st.markdown(f"""
-                <div style="background: rgba(15, 23, 42, 0.8); border: 2px solid {label_color}; border-radius: 16px; padding: 1.5rem; text-align: center;">
-                    <div style="color: #94a3b8; font-weight: 600; font-size: 0.9rem;">CLASSIFICATION MODEL GRADE</div>
-                    <div style="font-size: 2.8rem; font-weight: 800; color: {label_color}; margin: 0.25rem 0;">{pred_label} Quality</div>
-                    <div style="color: #64748b; font-size: 0.85rem;">Gradient Boosting Classifier (96.77% Accuracy)</div>
-                </div>
-                """, unsafe_allow_html=True)
-            else:
-                st.warning("Quality Classifier joblib model not loaded.")
+                # Predict Protein
+                if reg_model is not None:
+                    pred_prot = reg_model.predict(input_features)[0]
+                    pred_prot = float(np.clip(pred_prot, 0.0, 100.0))
+                    st.markdown(f"""
+                    <div style="background: rgba(16, 185, 129, 0.1); border: 1px solid rgba(52, 211, 153, 0.3); border-radius: 16px; padding: 1.25rem; margin-bottom: 1rem;">
+                        <div style="color: #34d399; font-weight: 600; font-size: 0.9rem;">REGRESSION MODEL OUTPUT</div>
+                        <div style="font-size: 2rem; font-weight: 800; color: #f8fafc;">{pred_prot:.2f} g Protein</div>
+                        <div style="color: #94a3b8; font-size: 0.8rem;">Predicted by Random Forest Regressor ($R^2$ = 0.7976)</div>
+                    </div>
+                    """, unsafe_allow_html=True)
+                else:
+                    st.warning("Protein Regressor joblib model not loaded.")
+                    
+                # Classify Quality Grade
+                if cls_model is not None:
+                    cls_input = pd.DataFrame([{
+                        "calories_kcal": p_cal, "protein_g": pred_prot if reg_model else 10.0,
+                        "fat_g": p_fat, "carbohydrate_g": p_carb, "fiber_g": p_fib,
+                        "sugar_g": p_sug, "sodium_mg": p_sod
+                    }])
+                    pred_label = cls_model.predict(cls_input)[0]
+                    
+                    label_color = "#34d399" if pred_label == "High" else ("#fbbf24" if pred_label == "Medium" else "#f87171")
+                    st.markdown(f"""
+                    <div style="background: rgba(15, 23, 42, 0.8); border: 2px solid {label_color}; border-radius: 16px; padding: 1.5rem; text-align: center;">
+                        <div style="color: #94a3b8; font-weight: 600; font-size: 0.9rem;">CLASSIFICATION MODEL GRADE</div>
+                        <div style="font-size: 2.8rem; font-weight: 800; color: {label_color}; margin: 0.25rem 0;">{pred_label} Quality</div>
+                        <div style="color: #64748b; font-size: 0.85rem;">Gradient Boosting Classifier (96.77% Accuracy)</div>
+                    </div>
+                    """, unsafe_allow_html=True)
+                else:
+                    st.warning("Quality Classifier joblib model not loaded.")
 
 # ==============================================================================
 # TAB 4: RESEARCH ANALYTICS
