@@ -1,0 +1,401 @@
+meal_id,raw_ingredient,matched_food_id,confidence,score
+IND_MEAL_001,Hot tea (Garam Chai),IND_FOOD_1,exact,1.0
+IND_MEAL_001,Lemonade,IND_FOOD_8,exact,1.0
+IND_MEAL_002,Instant coffee,IND_FOOD_2,exact,1.0
+IND_MEAL_002,Banana milkshake (Kele milkshake),IND_FOOD_15,exact,1.0
+IND_MEAL_003,Espreso coffee,IND_FOOD_3,exact,1.0
+IND_MEAL_003,Cheese and chilli sandwich,IND_FOOD_22,exact,1.0
+IND_MEAL_004,Iced tea,IND_FOOD_4,exact,1.0
+IND_MEAL_004,Rainbow sandwich,IND_FOOD_29,exact,1.0
+IND_MEAL_005,Raw mango drink (Aam panna),IND_FOOD_5,exact,1.0
+IND_MEAL_005,Egg and tomato sandwich (Ande aur tamatar ka sandwich),IND_FOOD_36,exact,1.0
+IND_MEAL_006,Fruit Punch (with fresh juices),IND_FOOD_6,exact,1.0
+IND_MEAL_006,Pea keema sandwich (toasted) (Matar aur keema ka sandwich),IND_FOOD_43,exact,1.0
+IND_MEAL_007,Fruit Punch (with squashes),IND_FOOD_7,exact,1.0
+IND_MEAL_007,Rice flakes (Chiwda/Aval),IND_FOOD_50,exact,1.0
+IND_MEAL_008,Lemonade,IND_FOOD_8,exact,1.0
+IND_MEAL_008,Scrambled egg (Ande ki bhurji),IND_FOOD_57,exact,1.0
+IND_MEAL_009,Lem-o-gin,IND_FOOD_9,exact,1.0
+IND_MEAL_009,Jam and fruit pancake,IND_FOOD_64,exact,1.0
+IND_MEAL_010,Cumin infused water (Jeere/Zeere ka pani),IND_FOOD_10,exact,1.0
+IND_MEAL_010,Chicken consomme (Clear chicken soup),IND_FOOD_71,exact,1.0
+IND_MEAL_011,Coco pine cooler,IND_FOOD_11,exact,1.0
+IND_MEAL_011,Minestrone soup,IND_FOOD_78,exact,1.0
+IND_MEAL_012,Summer cooler,IND_FOOD_12,exact,1.0
+IND_MEAL_012,Cold summer garden soup,IND_FOOD_85,exact,1.0
+IND_MEAL_013,Hot cocoa,IND_FOOD_13,exact,1.0
+IND_MEAL_013,Sprouted moong parantha/paratha,IND_FOOD_92,exact,1.0
+IND_MEAL_014,Cold coffee with ice cream,IND_FOOD_14,exact,1.0
+IND_MEAL_014,Methi poori,IND_FOOD_99,exact,1.0
+IND_MEAL_015,Banana milkshake (Kele milkshake),IND_FOOD_15,exact,1.0
+IND_MEAL_015,Mushroom pulao,IND_FOOD_106,exact,1.0
+IND_MEAL_016,Mango milkshake (Aam milkshake),IND_FOOD_16,exact,1.0
+IND_MEAL_016,Vegetable biryani/biriyani,IND_FOOD_113,exact,1.0
+IND_MEAL_017,Pineapple milkshake (Ananas milkshake),IND_FOOD_17,exact,1.0
+IND_MEAL_017,Macroni cheese pie,IND_FOOD_120,exact,1.0
+IND_MEAL_018,Orange milkshake (Narangi milkshake),IND_FOOD_18,exact,1.0
+IND_MEAL_018,Chicken lasagne,IND_FOOD_127,exact,1.0
+IND_MEAL_019,Egg nog,IND_FOOD_19,exact,1.0
+IND_MEAL_019,Onion tomato uttapam,IND_FOOD_134,exact,1.0
+IND_MEAL_020,Sweet Lassi (Meethi lassi),IND_FOOD_20,exact,1.0
+IND_MEAL_020,Mixed dal,IND_FOOD_141,exact,1.0
+IND_MEAL_021,Lassi (salted),IND_FOOD_21,exact,1.0
+IND_MEAL_021,Chickpeas curry (Safed channa curry),IND_FOOD_148,exact,1.0
+IND_MEAL_022,Cheese and chilli sandwich,IND_FOOD_22,exact,1.0
+IND_MEAL_022,Sprouted moong dal chat,IND_FOOD_155,exact,1.0
+IND_MEAL_023,Egg sandwich (Ande ka sandwich),IND_FOOD_23,exact,1.0
+IND_MEAL_023,Dry potato (Sookhe aloo),IND_FOOD_162,exact,1.0
+IND_MEAL_024,Cucumber sandwich (Kheere ka sandwich),IND_FOOD_24,exact,1.0
+IND_MEAL_024,Stuffed round gourd (Bharwa tinde),IND_FOOD_169,exact,1.0
+IND_MEAL_025,Cheese and pineapple sandwich (Cheese aur ananas ka sandwich),IND_FOOD_25,exact,1.0
+IND_MEAL_025,Pea curry (Matar ki sabzi),IND_FOOD_176,exact,1.0
+IND_MEAL_026,Cheese and tomato sandwich (Cheese aur tamatar ke sandwich),IND_FOOD_26,exact,1.0
+IND_MEAL_026,Paneer kofta curry,IND_FOOD_183,exact,1.0
+IND_MEAL_027,Chicken sandwich,IND_FOOD_27,exact,1.0
+IND_MEAL_027,Vegetarian egg kofta curry,IND_FOOD_190,exact,1.0
+IND_MEAL_028,Peanut and tomato sandwich (Moongfali aur tamatar ka sandwich),IND_FOOD_28,exact,1.0
+IND_MEAL_028,Dum aloo,IND_FOOD_197,exact,1.0
+IND_MEAL_029,Rainbow sandwich,IND_FOOD_29,exact,1.0
+IND_MEAL_029,Shahi paneer,IND_FOOD_204,exact,1.0
+IND_MEAL_030,Club sandwich,IND_FOOD_30,exact,1.0
+IND_MEAL_030,Spinach mutton (Palak mutton),IND_FOOD_211,exact,1.0
+IND_MEAL_031,Vegetarian club sandwich,IND_FOOD_31,exact,1.0
+IND_MEAL_031,Mutton chops,IND_FOOD_218,exact,1.0
+IND_MEAL_032,Pin wheel sandwich,IND_FOOD_32,exact,1.0
+IND_MEAL_032,Chicken kebab,IND_FOOD_225,exact,1.0
+IND_MEAL_033,Carrot apple sandwich (Gajar aur seb ka sandwich),IND_FOOD_33,exact,1.0
+IND_MEAL_033,Baked fish with cheese sauce,IND_FOOD_232,exact,1.0
+IND_MEAL_034,Salami sandwich,IND_FOOD_34,exact,1.0
+IND_MEAL_034,Hawain salad,IND_FOOD_239,exact,1.0
+IND_MEAL_035,Vegetable and mayonnaise sandwich,IND_FOOD_35,exact,1.0
+IND_MEAL_035,Coleslaw,IND_FOOD_246,exact,1.0
+IND_MEAL_036,Egg and tomato sandwich (Ande aur tamatar ka sandwich),IND_FOOD_36,exact,1.0
+IND_MEAL_036,Carrot and spinach raita (Gajar aur palak ka raita),IND_FOOD_253,exact,1.0
+IND_MEAL_037,Sweet open sandwich,IND_FOOD_37,exact,1.0
+IND_MEAL_037,Saunth/Sonth chutney with tamarind/imli,IND_FOOD_260,exact,1.0
+IND_MEAL_038,Mushroom and cheese sandwich (toasted),IND_FOOD_38,exact,1.0
+IND_MEAL_038,Carrot kheer (Gajar ki kheer),IND_FOOD_267,exact,1.0
+IND_MEAL_039,Cheese and tomato sandwich (toasted) (Cheese aur tamatar ke sandwich (toasted)),IND_FOOD_39,exact,1.0
+IND_MEAL_039,Egg halwa (Ande ka halwa),IND_FOOD_274,exact,1.0
+IND_MEAL_040,Pea potato sandwich (toasted) (Matar aloo ka sandwich),IND_FOOD_40,exact,1.0
+IND_MEAL_040,Chocolate ice cream,IND_FOOD_281,exact,1.0
+IND_MEAL_041,Paneer pea sandwich (toasted) (Paneer matar ka sandwich),IND_FOOD_41,exact,1.0
+IND_MEAL_041,Chocolate souffle,IND_FOOD_288,exact,1.0
+IND_MEAL_042,Chicken sandwich (toasted),IND_FOOD_42,exact,1.0
+IND_MEAL_042,Triffle pudding,IND_FOOD_295,exact,1.0
+IND_MEAL_043,Pea keema sandwich (toasted) (Matar aur keema ka sandwich),IND_FOOD_43,exact,1.0
+IND_MEAL_043,Bread and butter pudding,IND_FOOD_302,exact,1.0
+IND_MEAL_044,Classic club sandwich,IND_FOOD_44,exact,1.0
+IND_MEAL_044,Hot chocolate souffle,IND_FOOD_309,exact,1.0
+IND_MEAL_045,Sesame toast,IND_FOOD_45,exact,1.0
+IND_MEAL_045,Gram flour burfi (Besan burfi),IND_FOOD_316,exact,1.0
+IND_MEAL_046,Cracked wheat porridge (Meetha daliya),IND_FOOD_46,exact,1.0
+IND_MEAL_046,Ghujia/Lavang latika,IND_FOOD_323,exact,1.0
+IND_MEAL_047,Semolina porridge (Suji/Rava daliya),IND_FOOD_47,exact,1.0
+IND_MEAL_047,Mixed vegetable pakora/pakoda,IND_FOOD_330,exact,1.0
+IND_MEAL_048,Oatmeal Porridge,IND_FOOD_48,exact,1.0
+IND_MEAL_048,Potato samosa (Aloo ka samosa),IND_FOOD_337,exact,1.0
+IND_MEAL_049,Cornflakes with milk,IND_FOOD_49,exact,1.0
+IND_MEAL_049,Peanut cutlet (Mungfali ke cutlet),IND_FOOD_344,exact,1.0
+IND_MEAL_050,Rice flakes (Chiwda/Aval),IND_FOOD_50,exact,1.0
+IND_MEAL_050,Vegetable seekh kebab,IND_FOOD_351,exact,1.0
+IND_MEAL_051,Wheat flakes,IND_FOOD_51,exact,1.0
+IND_MEAL_051,Dry mango chutney (Sookhe aam ki chutney),IND_FOOD_358,exact,1.0
+IND_MEAL_052,Murmura (Puffed rice),IND_FOOD_52,exact,1.0
+IND_MEAL_052,Orange cream tart,IND_FOOD_365,exact,1.0
+IND_MEAL_053,Puffed wheat (Murmure/Moori),IND_FOOD_53,exact,1.0
+IND_MEAL_053,Chocolate meringue pie,IND_FOOD_372,exact,1.0
+IND_MEAL_054,Boiled egg (Ubla anda),IND_FOOD_54,exact,1.0
+IND_MEAL_054,Hot potato souffle,IND_FOOD_379,exact,1.0
+IND_MEAL_055,Fried Egg,IND_FOOD_55,exact,1.0
+IND_MEAL_055,Orange cake,IND_FOOD_386,exact,1.0
+IND_MEAL_056,Poached egg,IND_FOOD_56,exact,1.0
+IND_MEAL_056,Swiss roll,IND_FOOD_393,exact,1.0
+IND_MEAL_057,Scrambled egg (Ande ki bhurji),IND_FOOD_57,exact,1.0
+IND_MEAL_057,Sweet plain biscuit,IND_FOOD_400,exact,1.0
+IND_MEAL_058,Baked egg,IND_FOOD_58,exact,1.0
+IND_MEAL_058,Masala biscuit,IND_FOOD_407,exact,1.0
+IND_MEAL_059,Plain omelette/omlet,IND_FOOD_59,exact,1.0
+IND_MEAL_059,Ginger biscuit (Adarak ke biscuit),IND_FOOD_414,exact,1.0
+IND_MEAL_060,Stuffed egg omelette/omlet,IND_FOOD_60,exact,1.0
+IND_MEAL_060,Rice moong dal cheela (Chawal aur moong dal ka cheela),IND_FOOD_421,exact,1.0
+IND_MEAL_061,Pancake,IND_FOOD_61,exact,1.0
+IND_MEAL_061,Sprouted moong poha,IND_FOOD_428,exact,1.0
+IND_MEAL_062,Keema pancake,IND_FOOD_62,exact,1.0
+IND_MEAL_062,Steeped hot coffee,IND_FOOD_435,exact,1.0
+IND_MEAL_063,Vegetable pancake,IND_FOOD_63,exact,1.0
+IND_MEAL_063,Mintade,IND_FOOD_442,exact,1.0
+IND_MEAL_064,Jam and fruit pancake,IND_FOOD_64,exact,1.0
+IND_MEAL_064,Rice upma,IND_FOOD_449,exact,1.0
+IND_MEAL_065,Khoa and coconut pancake,IND_FOOD_65,exact,1.0
+IND_MEAL_065,Indian style egg bhujia (Anda bhujia (Indian style)),IND_FOOD_456,exact,1.0
+IND_MEAL_066,Brown stock,IND_FOOD_66,exact,1.0
+IND_MEAL_066,Meat stock,IND_FOOD_463,exact,1.0
+IND_MEAL_067,Vegetable stock,IND_FOOD_67,exact,1.0
+IND_MEAL_067,Mixed vegetable soup,IND_FOOD_470,exact,1.0
+IND_MEAL_068,Chicken stock,IND_FOOD_68,exact,1.0
+IND_MEAL_068,Cold cucumber cream soup,IND_FOOD_477,exact,1.0
+IND_MEAL_069,Clear tomato soup (Tamatar ka soup),IND_FOOD_69,exact,1.0
+IND_MEAL_069,Gram flour poori (Besan poori),IND_FOOD_484,exact,1.0
+IND_MEAL_070,Lentil soup,IND_FOOD_70,exact,1.0
+IND_MEAL_070,Minced meat pancake (with chicken),IND_FOOD_491,exact,1.0
+IND_MEAL_071,Chicken consomme (Clear chicken soup),IND_FOOD_71,exact,1.0
+IND_MEAL_071,Mutton pulao,IND_FOOD_498,exact,1.0
+IND_MEAL_072,Cream of tomato soup,IND_FOOD_72,exact,1.0
+IND_MEAL_072,Masala dosa paneer fillings,IND_FOOD_505,exact,1.0
+IND_MEAL_073,Cream of green peas soup,IND_FOOD_73,exact,1.0
+IND_MEAL_073,Spaghetti with paneer balls and tomato sauce,IND_FOOD_512,exact,1.0
+IND_MEAL_074,Cream of spinach soup,IND_FOOD_74,exact,1.0
+IND_MEAL_074,Moong dal with vadi,IND_FOOD_519,exact,1.0
+IND_MEAL_075,Cream of mixed vegetable soup,IND_FOOD_75,exact,1.0
+IND_MEAL_075,Dry masala chops,IND_FOOD_526,exact,1.0
+IND_MEAL_076,Cream of mushroom soup,IND_FOOD_76,exact,1.0
+IND_MEAL_076,Soya chunks sweet and sour (Nutrinugget sweet and sour),IND_FOOD_533,exact,1.0
+IND_MEAL_077,Chicken sweet corn soup,IND_FOOD_77,exact,1.0
+IND_MEAL_077,Roast chicken,IND_FOOD_540,exact,1.0
+IND_MEAL_078,Minestrone soup,IND_FOOD_78,exact,1.0
+IND_MEAL_078,Chicken korma,IND_FOOD_547,exact,1.0
+IND_MEAL_079,Egg drop soup,IND_FOOD_79,exact,1.0
+IND_MEAL_079,Crispy baked fish,IND_FOOD_554,exact,1.0
+IND_MEAL_080,Chinese cabbage and meat ball soup,IND_FOOD_80,exact,1.0
+IND_MEAL_080,Yam kofta curry (Zimikand/Suran kofta curry),IND_FOOD_561,exact,1.0
+IND_MEAL_081,French onion soup,IND_FOOD_81,exact,1.0
+IND_MEAL_081,Dry arbi (Sookhi arbi),IND_FOOD_568,exact,1.0
+IND_MEAL_082,Hot and sour soup,IND_FOOD_82,exact,1.0
+IND_MEAL_082,Jackfruit/Kathal (dry),IND_FOOD_575,exact,1.0
+IND_MEAL_083,Talaumein soup,IND_FOOD_83,exact,1.0
+IND_MEAL_083,Cauliflower basket,IND_FOOD_582,exact,1.0
+IND_MEAL_084,Cold cucumber soup (Thanda kheere ka soup),IND_FOOD_84,exact,1.0
+IND_MEAL_084,Creamed spinach and mushroom,IND_FOOD_589,exact,1.0
+IND_MEAL_085,Cold summer garden soup,IND_FOOD_85,exact,1.0
+IND_MEAL_085,Tossed green salad,IND_FOOD_596,exact,1.0
+IND_MEAL_086,Chapati/Roti,IND_FOOD_86,exact,1.0
+IND_MEAL_086,French dressing,IND_FOOD_603,exact,1.0
+IND_MEAL_087,Plain parantha/paratha,IND_FOOD_87,exact,1.0
+IND_MEAL_087,Bathua raita,IND_FOOD_610,exact,1.0
+IND_MEAL_088,Potato parantha/paratha (Aloo ka parantha/paratha),IND_FOOD_88,exact,1.0
+IND_MEAL_088,Pumpkin kheer (Kaddu ki kheer),IND_FOOD_617,exact,1.0
+IND_MEAL_089,Radish parantha/paratha (Mooli ka parantha/paratha),IND_FOOD_89,exact,1.0
+IND_MEAL_089,Choconut ice cream,IND_FOOD_624,exact,1.0
+IND_MEAL_090,Cauliflower parantha/paratha (Phoolgobhi ka parantha/paratha),IND_FOOD_90,exact,1.0
+IND_MEAL_090,Vanilla ice cream with apples in hot cherry sauce,IND_FOOD_631,exact,1.0
+IND_MEAL_091,Dal parantha/paratha,IND_FOOD_91,exact,1.0
+IND_MEAL_091,Cold orange souffle,IND_FOOD_638,exact,1.0
+IND_MEAL_092,Sprouted moong parantha/paratha,IND_FOOD_92,exact,1.0
+IND_MEAL_092,Apple crumb pudding,IND_FOOD_645,exact,1.0
+IND_MEAL_093,Pea parantha/paratha (Matar ka parantha/paratha),IND_FOOD_93,exact,1.0
+IND_MEAL_093,Rajbogh,IND_FOOD_652,exact,1.0
+IND_MEAL_094,Keema parantha/paratha,IND_FOOD_94,exact,1.0
+IND_MEAL_094,Khoa ladoo,IND_FOOD_659,exact,1.0
+IND_MEAL_095,Paneer parantha/paratha,IND_FOOD_95,exact,1.0
+IND_MEAL_095,Chicken pakora/pakoda,IND_FOOD_666,exact,1.0
+IND_MEAL_096,Besan and spinach parantha/paratha (Besan aur palak ka parantha/paratha),IND_FOOD_96,exact,1.0
+IND_MEAL_096,Vegetable samosa,IND_FOOD_673,exact,1.0
+IND_MEAL_097,Poori,IND_FOOD_97,exact,1.0
+IND_MEAL_097,Coriander chutney (Hare dhaniye ki chutney),IND_FOOD_680,exact,1.0
+IND_MEAL_098,Spinach poori (Palak poori),IND_FOOD_98,exact,1.0
+IND_MEAL_098,Curd vegetable dip,IND_FOOD_687,exact,1.0
+IND_MEAL_099,Methi poori,IND_FOOD_99,exact,1.0
+IND_MEAL_099,Spicy chutney sandwich,IND_FOOD_694,exact,1.0
+IND_MEAL_100,Dal stuffed poori,IND_FOOD_100,exact,1.0
+IND_MEAL_100,Sunset and sunrise open sandwich,IND_FOOD_701,exact,1.0
+IND_MEAL_101,Potato stuffed poori (Aloo ki poori),IND_FOOD_101,exact,1.0
+IND_MEAL_101,Chocolate pastry,IND_FOOD_708,exact,1.0
+IND_MEAL_102,Tandoori parantha/paratha,IND_FOOD_102,exact,1.0
+IND_MEAL_102,Chocolate eggless cake,IND_FOOD_715,exact,1.0
+IND_MEAL_103,Boiled rice (Uble chawal),IND_FOOD_103,exact,1.0
+IND_MEAL_103,Gingerman biscuit,IND_FOOD_722,exact,1.0
+IND_MEAL_104,Plain pulao,IND_FOOD_104,exact,1.0
+IND_MEAL_104,Chocolate cream shells,IND_FOOD_729,exact,1.0
+IND_MEAL_105,Mixed vegetable pulao,IND_FOOD_105,exact,1.0
+IND_MEAL_105,Orange cream flan,IND_FOOD_736,exact,1.0
+IND_MEAL_106,Mushroom pulao,IND_FOOD_106,exact,1.0
+IND_MEAL_106,Choux swans,IND_FOOD_743,exact,1.0
+IND_MEAL_107,Sprouted moong pulao,IND_FOOD_107,exact,1.0
+IND_MEAL_107,Sajina,IND_FOOD_750,exact,1.0
+IND_MEAL_108,Paneer pulao,IND_FOOD_108,exact,1.0
+IND_MEAL_108,Lentils and semolina porridge (Dal suji porridge/daliya),IND_FOOD_757,exact,1.0
+IND_MEAL_109,Peanut pulao,IND_FOOD_109,exact,1.0
+IND_MEAL_109,Chickpea flour cookies (Sweet besan rounds/cookies),IND_FOOD_764,exact,1.0
+IND_MEAL_110,Navratan pulao,IND_FOOD_110,exact,1.0
+IND_MEAL_110,Wheat flour and nuts ladoos (Atta nuts ladoos),IND_FOOD_771,exact,1.0
+IND_MEAL_111,Green chickpeas pulao (Choliya pulao/Hare chane ka pulao),IND_FOOD_111,exact,1.0
+IND_MEAL_111,Semolina idli (Suji/Rava idli),IND_FOOD_778,exact,1.0
+IND_MEAL_112,Mutton biryani/biriyani,IND_FOOD_112,exact,1.0
+IND_MEAL_112,Orange milkshake with ice cream (Narangi milkshake ice cream ke saath),IND_FOOD_785,exact,1.0
+IND_MEAL_113,Vegetable biryani/biriyani,IND_FOOD_113,exact,1.0
+IND_MEAL_113,Nannari sharbat,IND_FOOD_792,exact,1.0
+IND_MEAL_114,"Lemon rice (Pulihora, Elumichai sadam, Chitranna)",IND_FOOD_114,exact,1.0
+IND_MEAL_114,Putharekulu,IND_FOOD_799,exact,1.0
+IND_MEAL_115,Sweet rice (Meethe chawal),IND_FOOD_115,exact,1.0
+IND_MEAL_115,Chhena poda,IND_FOOD_806,exact,1.0
+IND_MEAL_116,Curd rice (Dahi bhaat/Dahi chawal/ Perugu annam/Daddojanam/Thayir saadam),IND_FOOD_116,exact,1.0
+IND_MEAL_116,Fish sandwich,IND_FOOD_813,exact,1.0
+IND_MEAL_117,Tamarind rice (Chintapandu pulihora/Puliyodharai/Puli sadam/Huli anna),IND_FOOD_117,exact,1.0
+IND_MEAL_117,Pumpkin cookies,IND_FOOD_820,exact,1.0
+IND_MEAL_118,Spanish rice,IND_FOOD_118,exact,1.0
+IND_MEAL_118,Olive biscuit,IND_FOOD_827,exact,1.0
+IND_MEAL_119,Chinese fried rice,IND_FOOD_119,exact,1.0
+IND_MEAL_119,Date pickle (Khajoor ka achaar),IND_FOOD_834,exact,1.0
+IND_MEAL_120,Macroni cheese pie,IND_FOOD_120,exact,1.0
+IND_MEAL_120,Pickled cabbage,IND_FOOD_841,exact,1.0
+IND_MEAL_121,Vegetable chowmein,IND_FOOD_121,exact,1.0
+IND_MEAL_121,Chicken manchurian,IND_FOOD_848,exact,1.0
+IND_MEAL_122,Chicken chowmein,IND_FOOD_122,exact,1.0
+IND_MEAL_122,Corn omelette/omlet,IND_FOOD_855,exact,1.0
+IND_MEAL_123,Cheese noodle ring,IND_FOOD_123,exact,1.0
+IND_MEAL_123,Sauteed radishes with green beans,IND_FOOD_862,exact,1.0
+IND_MEAL_124,Spaghetti and cheese balls in tomato sauce,IND_FOOD_124,exact,1.0
+IND_MEAL_124,Cabbage raita (Pattagobhi raita),IND_FOOD_869,exact,1.0
+IND_MEAL_125,Penne platter,IND_FOOD_125,exact,1.0
+IND_MEAL_125,Chicken and cheese souffle,IND_FOOD_876,exact,1.0
+IND_MEAL_126,Pasta hot pot,IND_FOOD_126,exact,1.0
+IND_MEAL_126,Khakhra,IND_FOOD_883,exact,1.0
+IND_MEAL_127,Chicken lasagne,IND_FOOD_127,exact,1.0
+IND_MEAL_127,Banana appam,IND_FOOD_890,exact,1.0
+IND_MEAL_128,Fettuccine with spinach sauce,IND_FOOD_128,exact,1.0
+IND_MEAL_128,Jackfruit fritters (Ponsa mulik/Kathal ka pakora),IND_FOOD_897,exact,1.0
+IND_MEAL_129,Naan,IND_FOOD_129,exact,1.0
+IND_MEAL_129,Honey cake,IND_FOOD_904,exact,1.0
+IND_MEAL_130,Bhatura,IND_FOOD_130,exact,1.0
+IND_MEAL_130,Pumpkin soup,IND_FOOD_911,exact,1.0
+IND_MEAL_131,Idli,IND_FOOD_131,exact,1.0
+IND_MEAL_131,Dal makhani,IND_FOOD_918,exact,1.0
+IND_MEAL_132,Masala dosa,IND_FOOD_132,exact,1.0
+IND_MEAL_132,Sev (Omapodi/Karapusa),IND_FOOD_925,exact,1.0
+IND_MEAL_133,Semolina dosa (Suji/Rava dosa),IND_FOOD_133,exact,1.0
+IND_MEAL_133,Garlic chickpea soup (Lahasun aur chane ka shoraba),IND_FOOD_932,exact,1.0
+IND_MEAL_134,Onion tomato uttapam,IND_FOOD_134,exact,1.0
+IND_MEAL_134,Mustard sauce,IND_FOOD_939,exact,1.0
+IND_MEAL_135,Paneer kaathi roll,IND_FOOD_135,exact,1.0
+IND_MEAL_135,Thousand island dressing,IND_FOOD_946,exact,1.0
+IND_MEAL_136,Makki ki roti,IND_FOOD_136,exact,1.0
+IND_MEAL_136,Royal icing,IND_FOOD_953,exact,1.0
+IND_MEAL_137,Washed moong dal (Dhuli moong ki dal),IND_FOOD_137,exact,1.0
+IND_MEAL_137,Vegetable soup,IND_FOOD_960,exact,1.0
+IND_MEAL_138,Washed urad dal (Dhuli urad ki dal),IND_FOOD_138,exact,1.0
+IND_MEAL_138,Cracked wheat khichri/khichdi (Dalia khichri/khichdi),IND_FOOD_967,exact,1.0
+IND_MEAL_139,Split bengal gram with bottle gourd (Channa dal with ghiya/lauki),IND_FOOD_139,exact,1.0
+IND_MEAL_139,Lemon and ginger squash (Nimbu aur adrak ka squash),IND_FOOD_974,exact,1.0
+IND_MEAL_140,Dry washed urad,IND_FOOD_140,exact,1.0
+IND_MEAL_140,Gooseberry marmalade (Amla murabba),IND_FOOD_981,exact,1.0
+IND_MEAL_141,Mixed dal,IND_FOOD_141,exact,1.0
+IND_MEAL_141,Tomato sauce,IND_FOOD_988,exact,1.0
+IND_MEAL_142,Whole moong (Moong ki dal),IND_FOOD_142,exact,1.0
+IND_MEAL_142,Tartare sauce,IND_FOOD_995,exact,1.0
+IND_MEAL_143,Whole masoor (Masoor ki dal),IND_FOOD_143,exact,1.0
+IND_MEAL_143,Onion tomato baghar (Pyaaz tamatar ka tadka),IND_FOOD_1002,exact,1.0
+IND_MEAL_144,Whole moth (Moth ki dal),IND_FOOD_144,exact,1.0
+IND_MEAL_144,Brinjal pickle (Baingan ka achaar),IND_FOOD_1009,exact,1.0
+IND_MEAL_145,Whole urad (Urad ki dal),IND_FOOD_145,exact,1.0
+IND_MEAL_145,Instant coffee,IND_FOOD_2,exact,1.0
+IND_MEAL_146,Moti mahal dal (Urad rajmah mix dal),IND_FOOD_146,exact,1.0
+IND_MEAL_146,Lem-o-gin,IND_FOOD_9,exact,1.0
+IND_MEAL_147,Black channa curry/Bengal gram curry (Kale chane ki curry),IND_FOOD_147,exact,1.0
+IND_MEAL_147,Mango milkshake (Aam milkshake),IND_FOOD_16,exact,1.0
+IND_MEAL_148,Chickpeas curry (Safed channa curry),IND_FOOD_148,exact,1.0
+IND_MEAL_148,Egg sandwich (Ande ka sandwich),IND_FOOD_23,exact,1.0
+IND_MEAL_149,Lobia curry,IND_FOOD_149,exact,1.0
+IND_MEAL_149,Club sandwich,IND_FOOD_30,exact,1.0
+IND_MEAL_150,Soyabean curry,IND_FOOD_150,exact,1.0
+IND_MEAL_150,Sweet open sandwich,IND_FOOD_37,exact,1.0
+IND_MEAL_151,Kidney bean curry (Rajmah curry),IND_FOOD_151,exact,1.0
+IND_MEAL_151,Classic club sandwich,IND_FOOD_44,exact,1.0
+IND_MEAL_152,Sambar,IND_FOOD_152,exact,1.0
+IND_MEAL_152,Wheat flakes,IND_FOOD_51,exact,1.0
+IND_MEAL_153,Besan kadhi with pakodies,IND_FOOD_153,exact,1.0
+IND_MEAL_153,Baked egg,IND_FOOD_58,exact,1.0
+IND_MEAL_154,Khatta channa,IND_FOOD_154,exact,1.0
+IND_MEAL_154,Khoa and coconut pancake,IND_FOOD_65,exact,1.0
+IND_MEAL_155,Sprouted moong dal chat,IND_FOOD_155,exact,1.0
+IND_MEAL_155,Cream of tomato soup,IND_FOOD_72,exact,1.0
+IND_MEAL_156,Potato cauliflower (Aloo gobhi),IND_FOOD_156,exact,1.0
+IND_MEAL_156,Egg drop soup,IND_FOOD_79,exact,1.0
+IND_MEAL_157,Potato capsicum (Shimla mirch aloo),IND_FOOD_157,exact,1.0
+IND_MEAL_157,Chapati/Roti,IND_FOOD_86,exact,1.0
+IND_MEAL_158,Cabbage and peas (Pattagobhi aur matar),IND_FOOD_158,exact,1.0
+IND_MEAL_158,Pea parantha/paratha (Matar ka parantha/paratha),IND_FOOD_93,exact,1.0
+IND_MEAL_159,Carrot and fenugreek leaves (Gajar methi),IND_FOOD_159,exact,1.0
+IND_MEAL_159,Dal stuffed poori,IND_FOOD_100,exact,1.0
+IND_MEAL_160,Potato fenugreek (Aloo methi),IND_FOOD_160,exact,1.0
+IND_MEAL_160,Sprouted moong pulao,IND_FOOD_107,exact,1.0
+IND_MEAL_161,Brinjal bhartha (Baingan ka bhartha),IND_FOOD_161,exact,1.0
+IND_MEAL_161,"Lemon rice (Pulihora, Elumichai sadam, Chitranna)",IND_FOOD_114,exact,1.0
+IND_MEAL_162,Dry potato (Sookhe aloo),IND_FOOD_162,exact,1.0
+IND_MEAL_162,Vegetable chowmein,IND_FOOD_121,exact,1.0
+IND_MEAL_163,Beans with coconut (Nariyal aur sem/phali; Beans thoran),IND_FOOD_163,exact,1.0
+IND_MEAL_163,Fettuccine with spinach sauce,IND_FOOD_128,exact,1.0
+IND_MEAL_164,Cauliflower with coconut (Nariyal ke saath phoolgobhi),IND_FOOD_164,exact,1.0
+IND_MEAL_164,Paneer kaathi roll,IND_FOOD_135,exact,1.0
+IND_MEAL_165,Carrot and cabbage with coconut (Nariyal ke saath pattagobhi aur gajar),IND_FOOD_165,exact,1.0
+IND_MEAL_165,Whole moong (Moong ki dal),IND_FOOD_142,exact,1.0
+IND_MEAL_166,Raw turnip with coconut,IND_FOOD_166,exact,1.0
+IND_MEAL_166,Lobia curry,IND_FOOD_149,exact,1.0
+IND_MEAL_167,Raw papaya with coconut (Papaya thoran),IND_FOOD_167,exact,1.0
+IND_MEAL_167,Potato cauliflower (Aloo gobhi),IND_FOOD_156,exact,1.0
+IND_MEAL_168,Stuffed okra (Bharwa bhindi),IND_FOOD_168,exact,1.0
+IND_MEAL_168,Beans with coconut (Nariyal aur sem/phali; Beans thoran),IND_FOOD_163,exact,1.0
+IND_MEAL_169,Stuffed round gourd (Bharwa tinde),IND_FOOD_169,exact,1.0
+IND_MEAL_169,Stuffed capsicum (Bharwa shimla mirch),IND_FOOD_170,exact,1.0
+IND_MEAL_170,Stuffed capsicum (Bharwa shimla mirch),IND_FOOD_170,exact,1.0
+IND_MEAL_170,Pea vadi curry,IND_FOOD_177,exact,1.0
+IND_MEAL_171,Stuffed brinjal (Bharwa baingan),IND_FOOD_171,exact,1.0
+IND_MEAL_171,Lotus stem kofta curry (Kamal kakdi kofta curry),IND_FOOD_184,exact,1.0
+IND_MEAL_172,Stuffed tomatoes (Bharwa tamatar),IND_FOOD_172,exact,1.0
+IND_MEAL_172,Baked vegetables,IND_FOOD_191,exact,1.0
+IND_MEAL_173,Pea potato curry (Aloo matar),IND_FOOD_173,exact,1.0
+IND_MEAL_173,Spinach paneer (Palak paneer),IND_FOOD_198,exact,1.0
+IND_MEAL_174,Pea paneer curry (Matar paneer),IND_FOOD_174,exact,1.0
+IND_MEAL_174,Paneer in butter sauce,IND_FOOD_205,exact,1.0
+IND_MEAL_175,Pea mushroom curry (Matar mushroom),IND_FOOD_175,exact,1.0
+IND_MEAL_175,Pea keema curry (Matar keema ki sabzi),IND_FOOD_212,exact,1.0
+IND_MEAL_176,Pea curry (Matar ki sabzi),IND_FOOD_176,exact,1.0
+IND_MEAL_176,Shammi kebab,IND_FOOD_219,exact,1.0
+IND_MEAL_177,Pea vadi curry,IND_FOOD_177,exact,1.0
+IND_MEAL_177,Chilli chicken,IND_FOOD_226,exact,1.0
+IND_MEAL_178,Paneer curry,IND_FOOD_178,exact,1.0
+IND_MEAL_178,Fish tikka,IND_FOOD_233,exact,1.0
+IND_MEAL_179,Lotus stem curry (Kamal kakdi curry),IND_FOOD_179,exact,1.0
+IND_MEAL_179,Mixed pulse and vegetable salad,IND_FOOD_240,exact,1.0
+IND_MEAL_180,Gravy for kofta,IND_FOOD_180,exact,1.0
+IND_MEAL_180,Fruit salad (Phalon ka salaad),IND_FOOD_247,exact,1.0
+IND_MEAL_181,Pea kofta curry (Matar kofta curry),IND_FOOD_181,exact,1.0
+IND_MEAL_181,Mint raita (Pudinay ka raita),IND_FOOD_254,exact,1.0
+IND_MEAL_182,Spinach kofta curry (Palak kofta curry),IND_FOOD_182,exact,1.0
+IND_MEAL_182,Rice kheer (Chawal ki kheer),IND_FOOD_261,exact,1.0
+IND_MEAL_183,Paneer kofta curry,IND_FOOD_183,exact,1.0
+IND_MEAL_183,Cauliflower kheer (Phoolgobhi ki kheer),IND_FOOD_268,exact,1.0
+IND_MEAL_184,Lotus stem kofta curry (Kamal kakdi kofta curry),IND_FOOD_184,exact,1.0
+IND_MEAL_184,Potato halwa (Aloo ka halwa),IND_FOOD_275,exact,1.0
+IND_MEAL_185,Raw banana kofta curry (Kela kofta curry),IND_FOOD_185,exact,1.0
+IND_MEAL_185,Mango ice cream,IND_FOOD_282,exact,1.0
+IND_MEAL_186,Cauliflower kofta curry (Phoolgobhi kofta curry),IND_FOOD_186,exact,1.0
+IND_MEAL_186,Pineapple souffle,IND_FOOD_289,exact,1.0
+IND_MEAL_187,Cabbage kofta curry (Pattagobhi kofta curry),IND_FOOD_187,exact,1.0
+IND_MEAL_187,Snow flakes pudding,IND_FOOD_296,exact,1.0
+IND_MEAL_188,Ghiya/Lauki Kofta Curry,IND_FOOD_188,exact,1.0
+IND_MEAL_188,Queen of pudding,IND_FOOD_303,exact,1.0
+IND_MEAL_189,Spinach paneer kofta curry (Palak paneer kofta curry),IND_FOOD_189,exact,1.0
+IND_MEAL_189,Hot vanilla souffle,IND_FOOD_310,exact,1.0
+IND_MEAL_190,Vegetarian egg kofta curry,IND_FOOD_190,exact,1.0
+IND_MEAL_190,Semolina ladoo with khoya (Suji/Rava aur khoye ke ladoo ),IND_FOOD_317,exact,1.0
+IND_MEAL_191,Baked vegetables,IND_FOOD_191,exact,1.0
+IND_MEAL_191,Gulab Jamun with khoya,IND_FOOD_324,exact,1.0
+IND_MEAL_192,Cauliflower musallam (Phoolgobhi musallam),IND_FOOD_192,exact,1.0
+IND_MEAL_192,Spinach pakora/pakoda (Palak pakoda),IND_FOOD_331,exact,1.0
+IND_MEAL_193,Baked vegetables with spinach,IND_FOOD_193,exact,1.0
+IND_MEAL_193,Minced meat samosa (Keema ka samosa),IND_FOOD_338,exact,1.0
+IND_MEAL_194,Baked potato with skin,IND_FOOD_194,exact,1.0
+IND_MEAL_194,Fish cutlet (Machli ka cutlet),IND_FOOD_345,exact,1.0
+IND_MEAL_195,Shepherd's pie (vegetarian),IND_FOOD_195,exact,1.0
+IND_MEAL_195,Masala vada,IND_FOOD_352,exact,1.0
+IND_MEAL_196,Baked brinjal in tomato sauce,IND_FOOD_196,exact,1.0
+IND_MEAL_196,Peanut chutney (Mungfali ki chutney),IND_FOOD_359,exact,1.0
+IND_MEAL_197,Dum aloo,IND_FOOD_197,exact,1.0
+IND_MEAL_197,Pineapple tart,IND_FOOD_366,exact,1.0
+IND_MEAL_198,Spinach paneer (Palak paneer),IND_FOOD_198,exact,1.0
+IND_MEAL_198,Cream puffs,IND_FOOD_373,exact,1.0
+IND_MEAL_199,Methi chaman,IND_FOOD_199,exact,1.0
+IND_MEAL_199,Hot fish souffle,IND_FOOD_380,exact,1.0
+IND_MEAL_200,Sarson ka saag,IND_FOOD_200,exact,1.0
+IND_MEAL_200,Fruit Loaf,IND_FOOD_387,exact,1.0

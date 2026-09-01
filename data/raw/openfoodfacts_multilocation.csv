@@ -1,0 +1,101 @@
+food_id,food_name,brand,categories,countries,collection_location,calories_kcal,protein_g,carbohydrate_g,fat_g,fiber_g,sugar_g,sodium_mg,saturated_fat_g,salt_g,nutriscore,nova_group,serving_size,quantity,source
+8901719134845,Parle-G Biscuit,Parle,Dry biscuits,India,India,454.0,6.9,77.3,13.0,,25.5,0.296,6.0,0.74,e,4.0,,45gm,Open Food Facts
+8901719134852,Parle G biscuit,Parle,Biscuits,India,India,3.4,6.9,77.3,13.0,0.0,25.5,0.0,6.0,0.0,d,,180,,Open Food Facts
+8901063139329,bourbon,britannia,Biscuits,India,India,492.0,4.7,73.4,19.9,,37.0,118.0,7.7,295.0,e,4.0,10g,50g,Open Food Facts
+8902080000227,Sting Energy,Sting,Energy drink with sugar,India,India,28.0,0.0,7.0,0.0,,6.8,0.053,0.0,0.1325,e,4.0,,1,Open Food Facts
+8906010500764,balaji wafers chataka pataka,Balaji,"Biscuits, Crisps, Crackers (Appetizers), namkeen",India,India,514.0,7.0,63.3,25.0,4.0,2.0,0.868,12.0,2.17,e,4.0,30g,25g,Open Food Facts
+8901063093522,Good Day - Cashew Cookies,Britannia,"Biscuits or cookies variety packs, Biscuit mixes, Biscuits/Cookies (Shelf Stable)",India,India,512.0,7.0,67.0,24.0,0.0,22.0,0.0,11.0,0.0,unknown,4.0,15g,52.5 g,Open Food Facts
+8901058017687,maggi,Maggi,"Noodles, Maggi, Maggie",India,India,384.0,8.2,59.4,12.5,,1.8,1.0,8.2,2.5,e,4.0,1 portion (70 g),75,Open Food Facts
+8901063162914,Marie Gold Biscuit,Britannia,Biscuits,"India, United Kingdom",India,445.0,7.9,79.5,10.6,0.0,21.2,0.316,5.1,0.79,e,4.0,15 g,64 g,Open Food Facts
+8906010500559,Mung Dal,Balaji,"Snacks, Food",India,India,504.0,22.7,54.5,17.5,,1.0,0.385,8.0,0.963,d,,,25 g,Open Food Facts
+8901764042911,Thums up,Thums up,"Carbonated waters, Colas, Sweetened beverages",India,India,39.0,0.0,9.7,0.0,0.0,9.5,0.022,0.0,0.055,e,4.0,250 ml,250 ml,Open Food Facts
+8906010500245,Balaji Wafers Masala Sev Murmura,Balaji Wafers,Wafers,"France, India",India,482.0,10.9,53.8,23.2,7.0,9.4,0.811,10.5,2.0275,e,,25,40 g,Open Food Facts
+8906010502232,Balaji wafers panjabi tadka,Balaji,"Crisps, Namkeen",India,India,608.0,7.7,42.3,43.9,6.5,2.0,1.033,20.7,2.582,e,4.0,22,22g,Open Food Facts
+8906010500900,Wheelos Masala Flavour,Balaji Wafers,Appetizers,India,India,484.0,7.5,62.6,21.5,0.0,2.0,1.423,10.0,3.558,e,4.0,,22 g,Open Food Facts
+8906010500023,POTATO WAFERS,Balaji,"Appetizers, POTATO WAFERS",India,India,,7.7,53.4,32.9,7.2,0.8,385.0,15.7,962.5,e,3.0,,,Open Food Facts
+8901764032912,Sprite,"Coca-Cola, sprite","Sodas, Sweetened beverages",India,India,49.0,0.0,12.2,0.0,,11.7,0.0101,0.0,0.02525,e,4.0,,250 ml,Open Food Facts
+7622202225512,Original Oreo,Cadbury,"Filled biscuits, Des","India, United States",India,483.0,5.2,71.9,19.6,,38.9,0.42,9.7,1.05,e,4.0,12 biscuits (100 g),,Open Food Facts
+8904043901015,Tata Salt,Tata,"Table salts, Groceries",India,India,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,not-applicable,2.0,1 g,1 kg,Open Food Facts
+8901058000290,maggi,Nestlé,"Instant noodles, Instant Noodles with Seasoning",India,India,,,,,,,,,,e,4.0,70 g,70,Open Food Facts
+3948764032912,Sprite,"Coca-Cola, Sprite",Sodas,India,India,,,,,,,,,,unknown,,,250ml,Open Food Facts
+8901063092853,Good Day cashew cookie,Britannia,Biscuits,"India, United Kingdom",India,504.0,7.0,65.0,24.0,,22.0,0.218,11.0,0.545,e,4.0,,30.2 g,Open Food Facts
+8906017290040,Bisleri 1ltr MADE IN INDIA,Bisleri,Waters,"France, India",India,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,b,1.0,,1,Open Food Facts
+3948764042911,thums up,thumsup,"Colas, Sweetened beverages",India,India,39.0,0.0,9.7,0.0,0.0,9.5,0.022,0.0,0.055,e,,,250ml,Open Food Facts
+8901719129988,Happy happy - Parl,Parle,"Biscuits, Happy happy biscuit",India,India,469.0,6.1,75.2,15.9,0.0,31.0,0.205,8.6,0.0,e,4.0,18g,31.5 g,Open Food Facts
+7622202334009,dairy milk,"Cadbury, Dairy Milk",Milk chocolates,India,India,525.0,6.8,62.6,27.9,0.0,58.8,0.107,18.7,0.2675,e,,1 mini (11 g),11 g,Open Food Facts
+8906010500627,Chataka Pataka Tangy Tomato,Balaji,"Crisps, Chatapataka, Chis",India,India,554.0,6.5,56.2,33.2,,5.0,0.71,16.0,1.775,e,4.0,30 g,,Open Food Facts
+8901030921667,kissan,Kissan,"Ketchup, Tomato & Chill Ketchup",India,India,133.333333333333,1.33333333333333,30.6666666666667,0.666666666666667,0.666666666666667,29.3333333333333,0.946666666666667,0.0,2.36666666666667,e,4.0,15 g,1,Open Food Facts
+8901764092206,Maaza,"Mazza, The Coca-Cola Company","Juices and nectars, juice",India,India,63.0,0.0,15.8,0.0,,14.9,0.0249,,0.06225,e,4.0,200,600 ml,Open Food Facts
+8901030535895,Bru Instant Coffee,Bru,"Coffees, Instant coffees",India,India,,,,,,,,,,unknown,1.0,,1.2 g,Open Food Facts
+8901030897542,kissan fresh tomato,Kissan,Tomato Ketchup,India,India,133.0,1.1,31.0,0.4,0.6,29.2,0.948,0.03,2.37,e,4.0,15g,90g,Open Food Facts
+8901764082405,Kinley Mineral Water 1ltr,Kinley,Waters,India,India,0.0,0.0,0.0,0.0,,0.0,0.0001,0.0,0.00025,b,1.0,,6,Open Food Facts
+8906010500337,Aloo Sev,Balaji,"Snacks, Snack Mixes, indian",India,India,594.0,8.8,45.7,39.9,8.5,0.9,0.681,20.8,1.7025,e,,,22g,Open Food Facts
+8901063029255,Jimjam 57g (57),Britannia,Biscuits,India,India,483.0,5.0,73.0,19.0,0.0,32.9,211.0,9.5,0.0,d,4.0,,57 g,Open Food Facts
+8901491100519,Kurkure,Kurkure,"Crisps, Namkeen","Canada, France, India, Nepal, Spain",India,557.0,6.0,57.7,33.7,0.0,2.2,0.796,7.7,1.99,e,4.0,20 g,78 g,Open Food Facts
+8901262010016,Amul Pasteurized Butter,Amul,Butters,"Bahrain, Hong Kong, India, Kuwait, Malaysia, New Zealand, Oman, Qatar, Singapore, Sri Lanka, United Arab Emirates, United States",India,714.28571,0.0,0.0,78.57143,0.0,0.0,0.821428,50.0,2.05357,e,4.0,100g,100.0 g,Open Food Facts
+8901764042904,Thumsup,Coca-Cola,Sodas,India,India,39.0,0.0,9.7,0.0,0.0,9.5,0.022,0.0,0.055,e,,100ml,1 litter,Open Food Facts
+8901262200196,Amul Masti Spiced Buttermilk 200ml,Amul,"Beverages, Milks, Buttermilks","India, United States",India,28.5,1.5,1.8,1.5,,1.8,0.25,0.95,0.625,c,4.0,200mL,200mL,Open Food Facts
+8906010502119,Chataka pataka,Balaji,"Crisps, Chataka pataka","India, United States",India,551.0,6.8,55.5,32.7,1.0,1.0,0.4,15.0,1.0,d,,,25,Open Food Facts
+8901764032707,Sprite,Coca Cola,"Artificially sweetened beverages, Sodas, Still fruit soft drink with reduced sugar and with 10-50% of fruit juice, Sweetened beverages",India,India,40.0,0.0,10.0,0.0,,9.8,0.014,,0.035,e,4.0,200ml,600 ml,Open Food Facts
+8906010502294,Flaming hot nachos,,Crisps,"India, United Kingdom",India,557.0,9.0,57.0,30.9,,0.1,0.716,14.0,1.79,e,4.0,,,Open Food Facts
+8906010500078,Balaji Farali Chivda,Balaji Namkeen,Snacks,India,India,589.0,15.2,8.0,38.9,7.6,8.0,0.404,14.0,1.01,d,3.0,,22g,Open Food Facts
+8901491366052,Puffcorn,Kurkure,"Crackers (Appetizers), Corn chips, Puffed salty snacks",India,India,555.0,6.0,56.2,34.5,,1.0,0.892,16.0,2.23,e,4.0,,58 g,Open Food Facts
+8901719135248,Krackjack,Parle,Biscuits,India,India,489.0,6.8,70.5,19.9,,19.6,0.371,9.4,0.9275,e,4.0,100 g,56.7g,Open Food Facts
+8906010501570,Balaji Wafers Crunchex,Balaji,"Crisps, Salty snacks made from potato, Kurkure",India,India,545.0,7.5,55.0,30.7,9.3,3.8,0.000967,14.4,0.0024175,d,4.0,,32g,Open Food Facts
+8996001312506,Malkist Cheese Flavoured Crunchy Layered Cracker Biscuits,Mayora,"Biscuits, Crackers (Appetizers), cream-biscuit",India,India,491.0,7.7,63.7,22.8,,16.5,0.543,15.3,1.3575,e,4.0,1 biscuit (18 g),144g,Open Food Facts
+8901058005233,Kitkat mini chocolate coated wafer,"KitKat, Nestle nutrition","Chocolate candies, Bars, Chocolate biscuits, Dark chocolate bar",India,India,438.0,6.4,47.4,24.8,0.0,35.1,0.0974,24.5,0.2435,e,4.0,11.9 g,11.9g,Open Food Facts
+8902080104581,Pepsi,Pepsi Cola,"Carbonated waters, Carbonated soft drinks without fruit juice, Cola with sugar, Diet cola soft drink, Sweetened beverages",India,India,43.0,0.0,10.9,0.0,,10.9,0.003,0.0,0.0075,e,4.0,200ml,400ml,Open Food Facts
+8901063023901,Marie Gold,Britannia,"Biscuits, Snack biscuit with fruits filling",India,India,445.0,8.4,78.9,10.7,,21.9,0.319,5.2,0.7975,e,4.0,,250,Open Food Facts
+8901030921797,kissan fresh tomato,"Kissan, Unilever",Tomato Ketchup,India,India,133.0,1.1,31.0,0.4,0.6,55.2,0.948,0.03,2.37,e,4.0,,,Open Food Facts
+8901719135118,MONACO,Parle,"Appetizers, Biscuits, Monaco-biscuit",India,India,492.0,7.9,68.0,20.9,0.0,8.4,0.0,9.7,0.0,d,3.0,52.3,,Open Food Facts
+8901063162532,Marie gold,Britannia,Biscuits,India,India,445.0,7.9,79.5,10.6,0.0,21.2,0.0,5.1,0.0,d,,,33g,Open Food Facts
+5025125000006,White Ciabattin,Jason's Sourdough,"Sourdough breads, White breads","Ireland, United Kingdom, United States",UK,230.0,10.1,44.1,0.8,2.9,2.4,0.362,0.1,0.92,b,3.0,1 slice (48 g),580 g,Open Food Facts
+5025125000037,Sourdough Grains & Seeds,Jason's,"Sliced breads, Vegan, Vegetarian",United Kingdom,UK,237.0,10.7,40.2,2.7,4.7,1.4,0.336,0.3,0.84,a,3.0,1 serving (100 g),580 g,Open Food Facts
+5025125000112,Proper Sourdough,Jason's,Sourdough breads,United Kingdom,UK,237.777777777778,9.7,46.4,0.7,3.0,2.1,0.315,0.1,0.8,b,3.0,1 portion (100 g),450 g,Open Food Facts
+7622210584724,Dark chocolate,GREEN & BLACK'S ORGANIC,"Chocolate candies, Dark chocolates","Belgium, France, Ireland, United Kingdom",UK,600.169959634586,10.0,24.0,50.0,13.0,14.0,0.051,30.0,0.1275,d,3.0,6 squares (18 g),90g,Open Food Facts
+5740900404465,Spreadable,Lurpak,Butters,United Kingdom,UK,679.0,0.5,0.6,75.0,,0.6,0.354,35.0,0.885,e,2.0,1 serving (100 g),400g,Open Food Facts
+7622210578464,Organic 70% Dark Chocolate Bar,Green & Black's,Dark chocolate bar with more than 70% cocoa,"France, Ireland, Sweden, United Kingdom",UK,580.0,9.1,36.0,42.0,10.0,29.0,1e-05,25.0,0.01,e,3.0,1 packet (90 g),90g,Open Food Facts
+4088600246291,Seeded Sourdough Bread,Specially Selected,Sourdough breads,United Kingdom,UK,244.827586206897,8.62068965517241,42.9310344827586,3.79310344827586,5.51724137931035,0.517241379310345,0.000862068965517241,0.517241379310345,0.0021551724137931,a,3.0,1 portion (58 g),500g,Open Food Facts
+5010029000016,Weetabix,Weetabix,Breakfast cereals,"France, Ireland, United Kingdom",UK,413.513513513513,12.0,69.0,2.0,10.0,4.2,0.112,0.6,0.28,a,3.0,2 biscuits (38 g),430 g,Open Food Facts
+5025125000129,JASON'S SOURDOUGH,JASON'S SOURDOUGH,Sourdough sliced breads,"Ireland, United Kingdom, United States",UK,116.666666666667,9.33416303671437,44.803982576229,1.08898568761668,3.57809583074051,2.64467952706907,0.192439327940261,0.15556938394524,0.481098319850653,a,3.0,1 slice (64.28 g),450 g,Open Food Facts
+5025125000150,Everyday White Rolls,Jason's,White breads,United Kingdom,UK,245.0,10.0,48.8,0.7,1.8,3.4,0.307,0.1,0.7675,b,3.0,1 portion (80 g),320g,Open Food Facts
+5013665100065,Organic Lightly Salted Wholegrain Low Fat Rice Cakes,kallø,Puffed wholegrain rice cakes,"France, United Kingdom",UK,1900.0,8.5,82.3,2.7,0.0,0.5,0.118,0.7,0.295,b,3.0,1 portion (100 g),130 g,Open Food Facts
+50457236,Tomato Ketchup,Heinz,"Tomato Ketchup, Groceries","Ireland, United Kingdom",UK,102.0,1.2,23.2,0.1,0.0,22.8,0.72,0.0,1.8,d,3.0,1 serving (15 g),800 ml,Open Food Facts
+8719200269743,BUTTERY,Flora,"Salted spreads, Margarines",United Kingdom,UK,677.0,0.5,0.5,75.0,,0.5,0.511,28.0,1.2775,e,4.0,1 portion (100 g),450 g,Open Food Facts
+4056489148739,Creamy Greek Style Natural Yogurt,Milbona,Greek-style yogurts,United Kingdom,UK,126.4,4.1,4.6,10.0,0.5,4.1,0.039,6.7,0.0975,c,1.0,1 portion (100 g),1kg,Open Food Facts
+5010003064744,Seed Sensations Seven Seeds,Hovis,Multigrain sliced breads,"France, Ireland, United Kingdom",UK,277.272727272727,10.0,42.0,6.6,5.3,3.8,0.00088,0.6,0.0022,a,4.0,1 slice (44 g),800g,Open Food Facts
+7394376616228,The original oat-ly barista edition oat drink,Oatly,Oat-based drinks,"France, Germany, Ireland, United Kingdom",UK,61.0,1.1,7.1,3.0,0.8,3.4,0.039,0.3,0.0975,d,3.0,1 serving (100 ml),1l,Open Food Facts
+5010044000701,Original Crumpets,Warburtons,"Breads, Crumpets, Crumpets","France, Spain, United Kingdom",UK,176.0,6.0,35.3,0.8,2.0,2.0,0.582,0.2,1.48,c,4.0,1 crumpet (55 g),6,Open Food Facts
+5034467000216,NAKED ORGANIC TOFU,The Tofoo Co.,"Meat analogues, Plain tofu","France, Ireland, United Kingdom",UK,145.714285714286,16.5,1.1,7.8,1.9,0.1,6e-05,1.2,0.00015,a,3.0,70 g,280g,Open Food Facts
+5000157024671,Beanz in a rich tomato sauce,Heinz,"Vegetables based foods, Baked beans in tomato sauce, Canned common beans","Bulgaria, France, Germany, Portugal, Spain, Sweden, United Kingdom",UK,79.0,4.7,12.9,0.2,3.7,5.0,0.24,0.1,0.6,a,4.0,0.5 Can (207 g),415g,Open Food Facts
+5057967395088,Rye and Mixed Seed Sourdough Bread,finest,"Rye-and-wheat breads, Rye breads, Sourdough",United Kingdom,UK,203.333333333333,9.0,42.6,3.8,6.8,2.2,0.354,0.4,0.78,a,3.0,1 Slice (50 g),400 g,Open Food Facts
+50457250,Tomato Ketchup,Heinz,"Tomato Ketchup, Groceries","Netherlands, United Kingdom",UK,100.0,1.2,23.2,0.1,,22.8,0.708,0.1,1.77,d,3.0,1 serving(s) (15 g),700g,Open Food Facts
+5020364010113,New York Bakery Co The Original Plain Bagels,New York Bakery Co,Bagel breads,"France, United Kingdom",UK,265.0,9.4,51.5,1.6,3.2,4.3,0.244,0.3,0.61,c,3.0,85 g,5,Open Food Facts
+50160884,Vegan Bouillon powder,Marigold,Vegetable bouillon powders,"France, United Kingdom",UK,241.0,9.6,30.6,8.4,0.0,3.9,17.52,0.9,43.8,unknown,3.0,100g,150g,Open Food Facts
+7622201693916,Full fat soft cheese,PHILADELPHIA,"Cheese spreads, Cream cheeses","Ireland, United Kingdom",UK,226.666666666667,5.4,4.3,21.0,0.2,4.3,0.3,14.0,0.75,d,4.0,30 g,165g,Open Food Facts
+0680569854124,Fermented Coconut Yoghurt Alternative,The Coconut Collab,Yogurt drinks,"Finland, France, Ireland, United Kingdom",UK,71.1111111111111,1.2,5.9,10.0,1.0,1.6,0.016,9.0,0.04,e,4.0,100 g,350 g,Open Food Facts
+01318180,MULTISEED WHOLEMEAL FARMHOUSE LOAF,"Sainsbury's, Sainsbury's taste the difference","Multigrain sliced breads, Wholemeal breads","France, United Kingdom",UK,270.0,12.8,34.2,7.5,7.4,4.2,0.336,1.1,0.84,a,4.0,1 slice,800g,Open Food Facts
+5010265002911,Dark Rye Crispbread,RYVITA,"Rye breads, Crispbreads","Ireland, United Kingdom",UK,342.0,8.5,66.6,1.2,1.5,3.0,0.37143,0.2,0.74,c,,100g,250 g,Open Food Facts
+5201054017418,Total 0% fat,FAGE,Greek-style yogurts,"France, Ireland, United Kingdom",UK,54.0,10.3,3.0,0.0,0.0,3.0,0.04,0.0,0.1,a,1.0,1 portion (100 g),450 g,Open Food Facts
+5013665112273,Organic Vegetable Stock Cubes,Kallø,"Broth stock, Dehydrated vegetables bouillon, Vegetable bouillon cubes","France, United Kingdom",UK,7.0,0.0,0.7,0.4,0.01,0.3,0.36,0.2,0.9,unknown,3.0,100ml,88g,Open Food Facts
+5013665115373,Lentil and Pea Cakes with Beetroot and Balsamic Flavour Seasoning,Kallo,"Crackers (Appetizers), Vegetable cakes",United Kingdom,UK,400.0,25.0,51.0,12.0,6.0,3.6,0.433,1.1,0.1035,a,4.0,1 cake (9.4 g),122 g,Open Food Facts
+5059319030517,kelloggs corn flakes,Kellogg's,Corn flakes,"Ireland, United Kingdom",UK,378.0,7.0,84.0,0.9,3.0,8.0,0.44,0.2,1.1,d,3.0,1 portion (30 g),,Open Food Facts
+5060228323799,Heavenly Houmous,Ramona's,Hummus,United Kingdom,UK,272.0,6.4,10.5,21.6,5.0,0.6,0.393,1.8,0.9825,b,4.0,1 serving (100 g),500g,Open Food Facts
+5018357012497,simply nutty muesli,dorset cereals,"Nuts, Mueslis with nuts",United Kingdom,UK,376.0,9.9,64.4,6.8,8.6,14.2,0.012,1.1,0.03,a,1.0,,560 g,Open Food Facts
+5025125000105,Sourdough,Jason's,"Breads mith malted grains, Sourdough bread with malted grains",United Kingdom,UK,255.0,9.3,46.5,2.7,3.6,1.8,0.389,0.8,0.99,c,3.0,1 slice (64.5 g),450 g,Open Food Facts
+50457243,Heinz Ketchup,Heinz,"Tomato Ketchup, Groceries","Ireland, Morocco, United Kingdom",UK,,,,,,,,,,a,3.0,15g,460 g,Open Food Facts
+5070000126579,Granola Super Nutty,Bio&Me,Mueslis,"Ireland, United Kingdom",UK,402.0,10.9,50.2,14.4,14.4,9.6,0.012,2.2,0.03,a,4.0,,360g,Open Food Facts
+5013665112235,Organic Chicken Stock Cubes -  8 Pack,Kallø,"Bouillon cubes, Dehydrated poultry stock, Organic-chicken-stock-cubes, Poultry-stock-for-sauce-and-cooking-dehydrated","France, United Kingdom",UK,7.0,0.1,0.7,0.5,,0.1,0.36,0.2,0.9,unknown,4.0,11g,88 g,Open Food Facts
+5010029000801,Weetabix,Weetabix,Breakfast cereals rich in fibre,"France, Ireland, Portugal, Spain, United Kingdom",UK,354.66667,11.0,68.0,2.0,10.0,4.2,0.112,0.6,0.28,a,3.0,37.5g,860 g,Open Food Facts
+5036589252450,Kefir Fermented Natural Yogurt with Live Kefir Cultures,Yeo Valley Organic,Kefir yogurts,"France, United Kingdom",UK,64.0,4.7,5.4,2.1,,5.4,0.048,1.4,0.12,b,,1 serving (100 g),350g,Open Food Facts
+5059697731860,Dark Chocolate,Tesco finest,Dark chocolate bar,United Kingdom,UK,591.0,6.9,34.7,44.8,10.5,23.6,0.004,27.1,0.01,d,4.0,1 portion (10 g),100g,Open Food Facts
+4088600065991,White Sourdough,Specially Selected,"Breads, Bread flours, Sourdough, Vegetarian",United Kingdom,UK,252.5,9.4,44.6,0.7,4.5,1.9,0.346,0.1,0.865,b,3.0,58 g,500g,Open Food Facts
+8718114724485,mayonnaise,Hellmann's,"Fats, Mayonnaises","France, Ireland, United Kingdom",UK,723.333333333333,1.1,1.4,79.0,,1.3,0.6,6.3,1.5,c,4.0,1 portion (14 g),"750 ml / 705 g, approx. 50 portions",Open Food Facts
+5201054017432,Total 5% Fat Greek Yogurt,FAGE,"Cow milk yogurts, Greek-style yogurts","Greece, Ireland, United Kingdom",UK,93.0,9.0,3.0,5.0,,3.0,0.039,3.6,0.1,b,,1 serving (100 g),450 g,Open Food Facts
+5057967395071,White Sourdough Bread,Tesco finest,Breads,United Kingdom,UK,229.0,8.2,45.1,0.9,3.7,2.7,0.33,0.1,0.7675,b,3.0,1 portion (100 g),400g,Open Food Facts
+4088600247519,Wheat Bisks,Harvest Morn,Cereal flakes,"Ireland, United Kingdom",UK,352.631578947368,12.0,68.0,2.0,10.0,4.4,0.112,0.6,0.28,a,3.0,2 serving (34 g),684 g,Open Food Facts
+5060337220415,kefir drink original,Biotiful gut health,Kefir,"France, Germany, Ireland, Netherlands, United Kingdom",UK,59.0,3.5,4.6,2.9,,2.8,0.0001,2.1,0.00025,b,1.0,2 portion (250 g),500 ml,Open Food Facts
+5010044000404,Wholemeal No Added Sugar,Warburtons,"Sliced breads, Wholemeal breads","France, Spain, United Kingdom",UK,257.142857142857,10.5042016806723,37.8151260504202,2.52100840336134,6.30252100840336,2.52100840336134,1.57142857142857,0.420168067226891,0.945378151260504,a,4.0,1 portion (23.8 g),,Open Food Facts
+5000129341041,Hand finished seeded sourdough bread,Coop,"Breads, Multi-seed-sour-dough-loaf, Seeded bread",United Kingdom,UK,251.0,8.8,43.0,3.9,5.1,3.0,0.303,0.5,0.7575,b,3.0,1 serving (63 g),500 g,Open Food Facts
+5060317350033,HECK 97% 6 SAUSAGES,HECK,"Meats, Pork sausages","France, United Kingdom",UK,245.945945945946,21.6216216216216,0.0,18.018018018018,,0.0,0.576576576576577,6.21621621621622,1.44144144144144,d,3.0,2 Sausages (111 g),400 g,Open Food Facts
+5060055251548,6 Pork Sausages,Finnebrogue Naked,"Meats, Pork sausages",United Kingdom,UK,227.0,15.6,0.2,18.0,1.5,0.2,0.524,6.4,1.31,d,4.0,1 serving (uncooked (100 g),6 sausages 400g,Open Food Facts

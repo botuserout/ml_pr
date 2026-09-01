@@ -1,0 +1,7 @@
+experiment,model,MAE,RMSE,R2
+Baseline (General Data Only),Linear Regression,12.7623,29.4014,-57.0111
+Baseline (General Data Only),Random Forest Regressor,1.4093,1.7368,0.7976
+Baseline (General Data Only),Gradient Boosting Regressor,1.8163,2.4394,0.6007
+Expanded (General + Indian Data),Linear Regression,2.2584,3.1884,0.2364
+Expanded (General + Indian Data),Random Forest Regressor,1.3304,2.109,0.6659
+Expanded (General + Indian Data),Gradient Boosting Regressor,1.5906,2.3563,0.583

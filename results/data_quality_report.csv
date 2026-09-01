@@ -1,0 +1,4 @@
+source,raw_record_count,clean_record_count,duplicates_removed,excluded_rows,final_record_count,missing_core_nutrient_pct
+Open Food Facts,100,100,0,4,96,8.14
+USDA FoodData Central SR Legacy,7793,7793,0,492,7301,18.74
+Indian Food Composition Data,1014,1014,0,0,1014,0.0

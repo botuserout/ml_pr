@@ -1,0 +1,1015 @@
+food_id,food_name,brand,categories,countries,collection_location,calories_kcal,protein_g,carbohydrate_g,fat_g,fiber_g,sugar_g,sodium_mg,saturated_fat_g,salt_g,nutriscore,nova_group,serving_size,quantity,source,region,diet_type
+IND_FOOD_1,Hot tea (Garam Chai),,Indian Food,India,India,16.14,0.39,2.58,0.53,0.0,2.58,3.12,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_2,Instant coffee,,Indian Food,India,India,23.16,0.64,3.65,0.75,0.0,3.62,4.92,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_3,Espreso coffee,,Indian Food,India,India,51.54,1.75,6.62,2.14,0.0,6.53,13.98,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_4,Iced tea,,Indian Food,India,India,10.34,0.03,2.7,0.01,0.0,2.7,0.23,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_5,Raw mango drink (Aam panna),,Indian Food,India,India,35.92,0.16,9.05,0.03,0.61,7.49,79.82,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_6,Fruit Punch (with fresh juices),,Indian Food,India,India,36.12,0.14,9.38,0.03,0.06,9.25,2.63,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_7,Fruit Punch (with squashes),,Indian Food,India,India,23.13,0.07,5.99,0.02,0.17,5.88,2.26,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_8,Lemonade,,Indian Food,India,India,20.8,0.03,5.48,0.01,0.02,5.47,28.52,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_9,Lem-o-gin,,Indian Food,India,India,21.52,0.08,5.55,0.03,0.13,5.38,28.13,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_10,Cumin infused water (Jeere/Zeere ka pani),,Indian Food,India,India,9.09,0.17,1.86,0.11,0.46,1.46,189.6,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_11,Coco pine cooler,,Indian Food,India,India,32.75,0.56,5.72,1.0,0.26,5.52,23.2,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_12,Summer cooler,,Indian Food,India,India,22.43,0.37,5.43,0.04,0.2,5.21,1.57,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_13,Hot cocoa,,Indian Food,India,India,90.1,3.36,9.23,4.56,0.0,9.01,24.2,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_14,Cold coffee with ice cream,,Indian Food,India,India,67.85,1.57,11.24,2.11,0.01,11.18,13.84,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_15,Banana milkshake (Kele milkshake),,Indian Food,India,India,65.31,1.84,9.15,2.37,0.26,7.96,13.61,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_16,Mango milkshake (Aam milkshake),,Indian Food,India,India,56.9,1.73,7.23,2.35,0.26,7.15,13.27,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_17,Pineapple milkshake (Ananas milkshake),,Indian Food,India,India,55.72,1.66,7.62,2.23,0.0,7.6,14.05,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_18,Orange milkshake (Narangi milkshake),,Indian Food,India,India,57.42,1.86,7.11,2.52,0.0,7.08,14.63,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_19,Egg nog,,Indian Food,India,India,97.14,4.78,8.15,5.11,0.02,8.06,40.65,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Non-Vegetarian
+IND_FOOD_20,Sweet Lassi (Meethi lassi),,Indian Food,India,India,35.66,1.29,6.51,0.68,0.0,6.51,18.31,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_21,Lassi (salted),,Indian Food,India,India,18.84,1.35,1.86,0.72,0.02,1.84,65.4,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_22,Cheese and chilli sandwich,,Indian Food,India,India,218.11,6.8,27.4,9.78,2.08,2.38,437.5,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_23,Egg sandwich (Ande ka sandwich),,Indian Food,India,India,285.96,8.69,29.16,15.8,1.88,1.86,461.67,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Non-Vegetarian
+IND_FOOD_24,Cucumber sandwich (Kheere ka sandwich),,Indian Food,India,India,188.6,4.8,25.77,8.0,2.45,1.64,362.64,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_25,Cheese and pineapple sandwich (Cheese aur ananas ka sandwich),,Indian Food,India,India,257.71,8.2,29.1,12.8,2.33,4.1,571.96,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_26,Cheese and tomato sandwich (Cheese aur tamatar ke sandwich),,Indian Food,India,India,243.32,7.92,26.92,12.27,1.97,2.85,549.71,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_27,Chicken sandwich,,Indian Food,India,India,253.27,13.12,25.38,11.75,1.64,1.6,389.67,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Non-Vegetarian
+IND_FOOD_28,Peanut and tomato sandwich (Moongfali aur tamatar ka sandwich),,Indian Food,India,India,291.43,9.53,28.54,16.14,4.03,2.82,364.99,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_29,Rainbow sandwich,,Indian Food,India,India,272.75,7.75,34.26,12.54,2.1,4.05,612.49,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_30,Club sandwich,,Indian Food,India,India,235.32,7.31,18.51,15.12,1.81,2.01,461.66,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_31,Vegetarian club sandwich,,Indian Food,India,India,198.33,5.45,19.68,11.33,2.06,2.08,305.36,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_32,Pin wheel sandwich,,Indian Food,India,India,311.52,8.77,14.0,24.93,0.93,1.45,374.39,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_33,Carrot apple sandwich (Gajar aur seb ka sandwich),,Indian Food,India,India,214.11,5.3,29.04,9.12,3.66,5.3,302.88,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_34,Salami sandwich,,Indian Food,India,India,255.59,8.7,21.54,15.51,1.97,2.0,662.75,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Non-Vegetarian
+IND_FOOD_35,Vegetable and mayonnaise sandwich,,Indian Food,India,India,244.26,4.47,23.2,15.4,2.35,2.35,342.7,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_36,Egg and tomato sandwich (Ande aur tamatar ka sandwich),,Indian Food,India,India,222.11,7.66,25.9,10.51,1.77,2.09,423.26,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Non-Vegetarian
+IND_FOOD_37,Sweet open sandwich,,Indian Food,India,India,244.25,4.99,39.24,8.15,2.36,12.23,205.27,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_38,Mushroom and cheese sandwich (toasted),,Indian Food,India,India,227.42,7.79,21.01,13.01,2.28,2.11,456.57,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_39,Cheese and tomato sandwich (toasted) (Cheese aur tamatar ke sandwich (toasted)),,Indian Food,India,India,224.58,6.82,21.42,12.95,1.78,2.67,457.94,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_40,Pea potato sandwich (toasted) (Matar aloo ka sandwich),,Indian Food,India,India,164.9,4.6,25.17,5.43,2.89,1.33,262.63,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_41,Paneer pea sandwich (toasted) (Paneer matar ka sandwich),,Indian Food,India,India,249.56,12.4,24.05,11.98,2.12,6.4,268.9,,,,,100 g,100 g,Indian Food Composition Data,North Indian,Vegetarian
+IND_FOOD_42,Chicken sandwich (toasted),,Indian Food,India,India,167.37,12.08,18.82,5.32,1.64,2.13,327.55,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Non-Vegetarian
+IND_FOOD_43,Pea keema sandwich (toasted) (Matar aur keema ka sandwich),,Indian Food,India,India,171.78,11.06,20.26,5.61,2.45,1.94,290.07,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Non-Vegetarian
+IND_FOOD_44,Classic club sandwich,,Indian Food,India,India,200.83,6.74,18.49,11.56,1.62,1.86,277.49,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_45,Sesame toast,,Indian Food,India,India,495.19,1.9,11.15,49.38,1.32,1.46,128.78,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_46,Cracked wheat porridge (Meetha daliya),,Indian Food,India,India,81.57,2.64,8.87,4.08,0.62,5.12,15.89,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_47,Semolina porridge (Suji/Rava daliya),,Indian Food,India,India,100.89,3.75,12.39,4.08,0.7,7.54,23.21,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_48,Oatmeal Porridge,,Indian Food,India,India,72.85,2.6,8.77,3.22,0.39,5.2,16.14,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_49,Cornflakes with milk,,Indian Food,India,India,117.33,3.59,14.95,5.12,0.78,9.97,26.55,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_50,Rice flakes (Chiwda/Aval),,Indian Food,India,India,112.44,3.62,15.57,3.99,0.37,7.28,22.4,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_51,Wheat flakes,,Indian Food,India,India,112.44,3.62,15.57,3.99,0.37,7.28,22.4,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_52,Murmura (Puffed rice),,Indian Food,India,India,113.32,3.62,15.67,4.04,0.28,7.31,22.52,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_53,Puffed wheat (Murmure/Moori),,Indian Food,India,India,113.32,3.62,15.67,4.04,0.28,7.31,22.52,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_54,Boiled egg (Ubla anda),,Indian Food,India,India,45.35,4.43,0.12,3.04,0.11,0.0,170.94,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Non-Vegetarian
+IND_FOOD_55,Fried Egg,,Indian Food,India,India,223.67,11.59,0.31,19.62,0.29,0.0,446.96,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Non-Vegetarian
+IND_FOOD_56,Poached egg,,Indian Food,India,India,123.87,11.98,0.37,8.19,0.3,0.05,1163.07,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Non-Vegetarian
+IND_FOOD_57,Scrambled egg (Ande ki bhurji),,Indian Food,India,India,155.97,10.29,1.35,12.21,0.24,1.08,374.66,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Non-Vegetarian
+IND_FOOD_58,Baked egg,,Indian Food,India,India,218.85,11.88,15.42,12.65,1.03,1.66,523.29,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Non-Vegetarian
+IND_FOOD_59,Plain omelette/omlet,,Indian Food,India,India,272.41,9.66,0.64,25.74,0.12,0.51,226.18,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_60,Stuffed egg omelette/omlet,,Indian Food,India,India,203.51,8.6,2.3,17.77,0.75,1.57,267.19,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Non-Vegetarian
+IND_FOOD_61,Pancake,,Indian Food,India,India,203.36,5.68,20.49,10.82,0.65,3.32,143.7,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_62,Keema pancake,,Indian Food,India,India,176.27,9.01,9.56,11.25,0.84,2.2,125.4,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Non-Vegetarian
+IND_FOOD_63,Vegetable pancake,,Indian Food,India,India,125.18,3.87,12.24,6.57,2.48,2.09,116.69,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_64,Jam and fruit pancake,,Indian Food,India,India,162.02,3.79,20.73,7.01,1.21,7.85,93.09,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_65,Khoa and coconut pancake,,Indian Food,India,India,271.98,6.98,27.32,15.29,1.65,16.47,101.0,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_66,Brown stock,,Indian Food,India,India,21.32,1.95,0.25,1.38,0.09,0.14,44.6,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_67,Vegetable stock,,Indian Food,India,India,17.6,0.3,0.96,1.38,0.38,0.44,49.75,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_68,Chicken stock,,Indian Food,India,India,29.88,3.69,0.37,1.51,0.1,0.2,58.58,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Non-Vegetarian
+IND_FOOD_69,Clear tomato soup (Tamatar ka soup),,Indian Food,India,India,80.07,4.79,3.45,12.22,1.96,1.44,5135.74,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_70,Lentil soup,,Indian Food,India,India,31.17,9.65,3.94,11.68,2.57,1.06,10418.84,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_71,Chicken consomme (Clear chicken soup),,Indian Food,India,India,47.94,11.47,1.19,12.02,1.57,0.54,8953.64,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Non-Vegetarian
+IND_FOOD_72,Cream of tomato soup,,Indian Food,India,India,97.81,4.61,3.93,13.12,1.38,1.81,4461.22,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_73,Cream of green peas soup,,Indian Food,India,India,127.84,7.13,6.75,14.78,2.95,1.61,4999.7,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_74,Cream of spinach soup,,Indian Food,India,India,100.54,5.21,3.45,13.31,1.74,1.13,4429.81,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_75,Cream of mixed vegetable soup,,Indian Food,India,India,59.65,6.84,4.93,9.05,2.14,2.1,5655.45,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_76,Cream of mushroom soup,,Indian Food,India,India,117.28,6.64,3.74,15.5,1.34,1.93,5276.06,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_77,Chicken sweet corn soup,,Indian Food,India,India,28.32,14.48,1.63,12.59,0.47,0.27,12205.33,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Non-Vegetarian
+IND_FOOD_78,Minestrone soup,,Indian Food,India,India,42.66,9.3,3.71,11.09,1.92,1.01,8875.06,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_79,Egg drop soup,,Indian Food,India,India,26.64,12.93,1.1,13.52,0.81,0.6,12418.84,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Non-Vegetarian
+IND_FOOD_80,Chinese cabbage and meat ball soup,,Indian Food,India,India,484.31,5.21,1.43,56.57,0.57,0.37,4249.41,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Non-Vegetarian
+IND_FOOD_81,French onion soup,,Indian Food,India,India,55.61,11.41,4.28,14.39,1.01,1.5,11202.89,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_82,Hot and sour soup,,Indian Food,India,India,31.51,3.12,1.78,1.31,0.6,0.66,163.26,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_83,Talaumein soup,,Indian Food,India,India,35.63,10.12,4.17,12.78,1.94,0.77,11088.14,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_84,Cold cucumber soup (Thanda kheere ka soup),,Indian Food,India,India,48.03,2.99,4.58,1.99,0.88,3.34,121.32,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_85,Cold summer garden soup,,Indian Food,India,India,49.19,8.57,2.65,14.08,1.86,0.46,9919.62,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_86,Chapati/Roti,,Indian Food,India,India,202.31,5.88,35.65,3.56,6.31,1.0,1.16,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_87,Plain parantha/paratha,,Indian Food,India,India,298.3,5.06,30.69,16.86,5.43,0.86,62.07,,,,,100 g,100 g,Indian Food Composition Data,North Indian,Vegetarian
+IND_FOOD_88,Potato parantha/paratha (Aloo ka parantha/paratha),,Indian Food,India,India,205.04,3.7,23.92,10.22,4.18,1.15,127.2,,,,,100 g,100 g,Indian Food Composition Data,North Indian,Vegetarian
+IND_FOOD_89,Radish parantha/paratha (Mooli ka parantha/paratha),,Indian Food,India,India,183.52,3.3,20.54,9.53,4.32,1.31,127.03,,,,,100 g,100 g,Indian Food Composition Data,North Indian,Vegetarian
+IND_FOOD_90,Cauliflower parantha/paratha (Phoolgobhi ka parantha/paratha),,Indian Food,India,India,178.07,3.73,18.84,9.47,4.68,1.15,190.03,,,,,100 g,100 g,Indian Food Composition Data,North Indian,Vegetarian
+IND_FOOD_91,Dal parantha/paratha,,Indian Food,India,India,268.24,6.78,30.03,13.05,6.46,1.43,156.13,,,,,100 g,100 g,Indian Food Composition Data,North Indian,Vegetarian
+IND_FOOD_92,Sprouted moong parantha/paratha,,Indian Food,India,India,228.59,4.29,24.31,12.43,4.49,1.47,153.94,,,,,100 g,100 g,Indian Food Composition Data,North Indian,Vegetarian
+IND_FOOD_93,Pea parantha/paratha (Matar ka parantha/paratha),,Indian Food,India,India,190.73,5.59,21.51,8.8,5.61,1.29,109.99,,,,,100 g,100 g,Indian Food Composition Data,North Indian,Vegetarian
+IND_FOOD_94,Keema parantha/paratha,,Indian Food,India,India,238.09,9.41,18.36,13.91,3.44,0.99,140.62,,,,,100 g,100 g,Indian Food Composition Data,North Indian,Non-Vegetarian
+IND_FOOD_95,Paneer parantha/paratha,,Indian Food,India,India,262.97,7.98,24.33,14.62,4.0,3.77,142.52,,,,,100 g,100 g,Indian Food Composition Data,North Indian,Vegetarian
+IND_FOOD_96,Besan and spinach parantha/paratha (Besan aur palak ka parantha/paratha),,Indian Food,India,India,216.49,5.54,21.39,12.09,4.39,1.31,177.19,,,,,100 g,100 g,Indian Food Composition Data,North Indian,Vegetarian
+IND_FOOD_97,Poori,,Indian Food,India,India,737.63,1.35,8.22,77.61,1.46,0.23,31.73,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_98,Spinach poori (Palak poori),,Indian Food,India,India,684.25,1.42,7.76,71.86,1.55,0.24,35.47,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_99,Methi poori,,Indian Food,India,India,710.02,1.45,7.98,74.6,1.61,0.26,35.37,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_100,Dal stuffed poori,,Indian Food,India,India,785.16,2.08,10.14,81.69,1.96,0.29,128.18,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_101,Potato stuffed poori (Aloo ki poori),,Indian Food,India,India,776.74,1.52,9.4,81.35,1.64,0.26,69.86,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_102,Tandoori parantha/paratha,,Indian Food,India,India,295.37,5.08,30.74,16.51,5.44,0.86,1.14,,,,,100 g,100 g,Indian Food Composition Data,North Indian,Vegetarian
+IND_FOOD_103,Boiled rice (Uble chawal),,Indian Food,India,India,117.19,2.6,25.72,0.18,1.25,0.22,1.05,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_104,Plain pulao,,Indian Food,India,India,140.21,2.34,21.82,4.62,1.69,1.15,193.76,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_105,Mixed vegetable pulao,,Indian Food,India,India,113.05,2.72,17.49,3.33,2.67,1.35,187.92,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_106,Mushroom pulao,,Indian Food,India,India,124.29,2.52,19.02,4.03,1.88,1.0,222.36,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_107,Sprouted moong pulao,,Indian Food,India,India,112.97,2.19,17.49,3.61,1.78,1.43,153.16,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_108,Paneer pulao,,Indian Food,India,India,581.91,1.98,8.76,59.81,0.62,1.11,72.28,,,,,100 g,100 g,Indian Food Composition Data,North Indian,Vegetarian
+IND_FOOD_109,Peanut pulao,,Indian Food,India,India,193.28,5.32,21.18,9.51,2.9,1.6,168.4,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_110,Navratan pulao,,Indian Food,India,India,261.71,6.2,36.98,9.45,3.82,2.52,334.26,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_111,Green chickpeas pulao (Choliya pulao/Hare chane ka pulao),,Indian Food,India,India,173.43,4.88,27.57,4.82,3.15,2.48,170.05,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_112,Mutton biryani/biriyani,,Indian Food,India,India,190.76,7.38,22.5,7.72,2.42,2.39,262.64,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Non-Vegetarian
+IND_FOOD_113,Vegetable biryani/biriyani,,Indian Food,India,India,174.61,3.16,18.56,9.51,3.31,2.14,183.79,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_114,"Lemon rice (Pulihora, Elumichai sadam, Chitranna)",,Indian Food,India,India,176.3,4.26,21.62,7.88,2.52,0.78,187.11,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_115,Sweet rice (Meethe chawal),,Indian Food,India,India,215.41,2.1,42.59,4.57,1.13,24.8,3.2,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_116,Curd rice (Dahi bhaat/Dahi chawal/ Perugu annam/Daddojanam/Thayir saadam),,Indian Food,India,India,195.74,5.75,32.93,4.32,2.13,3.91,213.29,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_117,Tamarind rice (Chintapandu pulihora/Puliyodharai/Puli sadam/Huli anna),,Indian Food,India,India,373.04,7.45,65.08,8.53,5.12,11.65,162.41,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_118,Spanish rice,,Indian Food,India,India,164.24,4.19,31.1,2.23,2.78,1.26,96.61,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_119,Chinese fried rice,,Indian Food,India,India,120.58,4.05,13.4,5.43,2.31,1.47,248.36,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_120,Macroni cheese pie,,Indian Food,India,India,170.63,5.85,21.1,7.48,0.4,3.4,200.51,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_121,Vegetable chowmein,,Indian Food,India,India,129.71,3.07,15.44,6.36,1.86,1.97,258.47,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_122,Chicken chowmein,,Indian Food,India,India,151.33,6.33,13.3,8.23,1.64,1.63,288.15,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Non-Vegetarian
+IND_FOOD_123,Cheese noodle ring,,Indian Food,India,India,133.67,6.22,13.96,6.12,1.27,2.84,241.96,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_124,Spaghetti and cheese balls in tomato sauce,,Indian Food,India,India,508.32,2.41,7.82,52.08,0.59,1.83,104.14,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_125,Penne platter,,Indian Food,India,India,177.4,5.04,20.87,8.71,1.09,4.5,283.37,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_126,Pasta hot pot,,Indian Food,India,India,125.17,5.84,11.6,6.47,0.8,5.99,231.17,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_127,Chicken lasagne,,Indian Food,India,India,187.49,10.45,13.9,10.36,0.11,2.74,238.55,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Non-Vegetarian
+IND_FOOD_128,Fettuccine with spinach sauce,,Indian Food,India,India,129.21,3.1,12.19,7.83,0.77,1.18,153.59,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_129,Naan,,Indian Food,India,India,286.45,8.05,51.75,4.99,1.91,5.59,326.11,,,,,100 g,100 g,Indian Food Composition Data,North Indian,Vegetarian
+IND_FOOD_130,Bhatura,,Indian Food,India,India,793.2,1.63,10.73,82.56,0.38,0.69,28.3,,,,,100 g,100 g,Indian Food Composition Data,North Indian,Vegetarian
+IND_FOOD_131,Idli,,Indian Food,India,India,137.54,4.64,28.18,0.33,2.31,0.28,100.83,,,,,100 g,100 g,Indian Food Composition Data,South Indian,Vegetarian
+IND_FOOD_132,Masala dosa,,Indian Food,India,India,164.58,3.29,19.57,7.84,2.52,1.33,191.28,,,,,100 g,100 g,Indian Food Composition Data,South Indian,Vegetarian
+IND_FOOD_133,Semolina dosa (Suji/Rava dosa),,Indian Food,India,India,227.05,7.3,32.84,7.12,4.04,4.37,202.36,,,,,100 g,100 g,Indian Food Composition Data,South Indian,Vegetarian
+IND_FOOD_134,Onion tomato uttapam,,Indian Food,India,India,462.02,1.91,11.32,45.3,1.26,0.8,143.53,,,,,100 g,100 g,Indian Food Composition Data,South Indian,Vegetarian
+IND_FOOD_135,Paneer kaathi roll,,Indian Food,India,India,285.94,6.92,20.1,19.55,2.4,3.29,221.03,,,,,100 g,100 g,Indian Food Composition Data,North Indian,Vegetarian
+IND_FOOD_136,Makki ki roti,,Indian Food,India,India,263.97,3.49,24.19,16.85,5.19,0.7,236.22,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_137,Washed moong dal (Dhuli moong ki dal),,Indian Food,India,India,50.0,2.68,5.91,1.68,1.17,0.12,150.64,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_138,Washed urad dal (Dhuli urad ki dal),,Indian Food,India,India,61.32,2.51,5.84,2.98,1.53,0.32,142.21,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_139,Split bengal gram with bottle gourd (Channa dal with ghiya/lauki),,Indian Food,India,India,73.25,2.79,7.1,3.6,2.72,1.05,149.47,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_140,Dry washed urad,,Indian Food,India,India,124.71,6.85,15.66,3.5,4.06,0.73,295.79,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_141,Mixed dal,,Indian Food,India,India,61.93,2.51,5.79,3.1,1.62,0.34,141.36,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_142,Whole moong (Moong ki dal),,Indian Food,India,India,53.7,2.25,5.22,2.56,2.02,0.59,123.86,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_143,Whole masoor (Masoor ki dal),,Indian Food,India,India,54.05,2.28,5.37,2.52,1.98,0.67,123.72,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_144,Whole moth (Moth ki dal),,Indian Food,India,India,55.0,2.01,5.74,2.62,1.85,0.66,125.08,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_145,Whole urad (Urad ki dal),,Indian Food,India,India,53.8,2.21,5.05,2.62,2.32,0.57,126.12,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_146,Moti mahal dal (Urad rajmah mix dal),,Indian Food,India,India,103.13,3.93,8.74,5.66,3.38,1.7,157.61,,,,,100 g,100 g,Indian Food Composition Data,North Indian,Vegetarian
+IND_FOOD_147,Black channa curry/Bengal gram curry (Kale chane ki curry),,Indian Food,India,India,140.68,5.67,14.11,6.61,7.99,2.36,358.63,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_148,Chickpeas curry (Safed channa curry),,Indian Food,India,India,163.43,6.1,19.98,6.84,4.73,4.78,357.99,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_149,Lobia curry,,Indian Food,India,India,148.99,6.06,17.88,5.62,4.57,2.51,355.41,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_150,Soyabean curry,,Indian Food,India,India,163.28,10.43,6.76,10.19,7.34,2.66,352.69,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_151,Kidney bean curry (Rajmah curry),,Indian Food,India,India,143.73,5.95,16.38,5.77,5.83,2.49,354.6,,,,,100 g,100 g,Indian Food Composition Data,North Indian,Vegetarian
+IND_FOOD_152,Sambar,,Indian Food,India,India,96.92,3.35,10.57,4.38,3.52,3.31,159.54,,,,,100 g,100 g,Indian Food Composition Data,South Indian,Vegetarian
+IND_FOOD_153,Besan kadhi with pakodies,,Indian Food,India,India,403.35,1.64,3.56,42.59,0.81,0.88,60.8,,,,,100 g,100 g,Indian Food Composition Data,North Indian,Vegetarian
+IND_FOOD_154,Khatta channa,,Indian Food,India,India,202.57,6.3,21.14,10.56,5.26,4.75,513.32,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_155,Sprouted moong dal chat,,Indian Food,India,India,32.47,1.35,6.01,0.32,1.35,1.57,87.07,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_156,Potato cauliflower (Aloo gobhi),,Indian Food,India,India,106.18,1.9,5.99,8.13,3.02,0.44,254.76,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_157,Potato capsicum (Shimla mirch aloo),,Indian Food,India,India,125.53,1.41,8.72,9.33,2.02,0.54,277.92,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_158,Cabbage and peas (Pattagobhi aur matar),,Indian Food,India,India,63.88,3.24,6.24,2.64,3.99,0.97,253.73,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_159,Carrot and fenugreek leaves (Gajar methi),,Indian Food,India,India,61.92,2.1,4.17,3.81,4.43,2.11,262.91,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_160,Potato fenugreek (Aloo methi),,Indian Food,India,India,135.15,2.25,8.47,10.04,2.93,0.54,221.93,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_161,Brinjal bhartha (Baingan ka bhartha),,Indian Food,India,India,65.12,1.38,4.4,4.48,3.27,1.82,132.15,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_162,Dry potato (Sookhe aloo),,Indian Food,India,India,103.15,1.62,14.38,4.18,1.88,0.33,199.99,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_163,Beans with coconut (Nariyal aur sem/phali; Beans thoran),,Indian Food,India,India,131.63,2.62,4.39,11.39,5.59,2.06,271.65,,,,,100 g,100 g,Indian Food Composition Data,South Indian,Vegetarian
+IND_FOOD_164,Cauliflower with coconut (Nariyal ke saath phoolgobhi),,Indian Food,India,India,132.11,2.64,3.99,11.56,5.27,1.71,286.06,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_165,Carrot and cabbage with coconut (Nariyal ke saath pattagobhi aur gajar),,Indian Food,India,India,106.61,1.82,4.99,8.62,4.52,2.36,219.6,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_166,Raw turnip with coconut,,Indian Food,India,India,132.15,1.8,5.78,11.47,2.79,4.4,275.55,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_167,Raw papaya with coconut (Papaya thoran),,Indian Food,India,India,132.75,1.54,5.58,11.42,4.31,3.82,270.56,,,,,100 g,100 g,Indian Food Composition Data,South Indian,Vegetarian
+IND_FOOD_168,Stuffed okra (Bharwa bhindi),,Indian Food,India,India,94.34,2.08,3.85,7.66,4.15,0.48,210.03,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_169,Stuffed round gourd (Bharwa tinde),,Indian Food,India,India,72.8,1.1,4.02,5.75,2.1,1.96,180.15,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_170,Stuffed capsicum (Bharwa shimla mirch),,Indian Food,India,India,90.94,1.34,8.26,5.7,2.01,1.21,173.94,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_171,Stuffed brinjal (Bharwa baingan),,Indian Food,India,India,93.0,1.53,3.96,7.73,4.09,0.92,212.88,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_172,Stuffed tomatoes (Bharwa tamatar),,Indian Food,India,India,93.35,3.28,6.19,6.06,2.2,2.68,165.85,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_173,Pea potato curry (Aloo matar),,Indian Food,India,India,100.92,3.48,9.74,5.13,3.61,1.86,154.83,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_174,Pea paneer curry (Matar paneer),,Indian Food,India,India,134.83,6.61,9.29,7.75,3.3,3.89,157.34,,,,,100 g,100 g,Indian Food Composition Data,North Indian,Vegetarian
+IND_FOOD_175,Pea mushroom curry (Matar mushroom),,Indian Food,India,India,93.3,3.87,7.41,5.16,3.86,1.82,155.48,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_176,Pea curry (Matar ki sabzi),,Indian Food,India,India,102.99,4.51,9.2,5.11,4.44,1.98,154.75,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_177,Pea vadi curry,,Indian Food,India,India,101.95,4.64,8.9,5.08,4.28,1.92,149.51,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_178,Paneer curry,,Indian Food,India,India,176.52,7.8,8.4,12.38,1.4,6.29,216.09,,,,,100 g,100 g,Indian Food Composition Data,North Indian,Vegetarian
+IND_FOOD_179,Lotus stem curry (Kamal kakdi curry),,Indian Food,India,India,110.34,1.53,9.24,7.25,3.14,2.09,217.05,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_180,Gravy for kofta,,Indian Food,India,India,125.59,1.75,6.31,10.35,1.96,3.73,312.86,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_181,Pea kofta curry (Matar kofta curry),,Indian Food,India,India,595.66,2.01,4.17,63.39,1.7,0.88,83.07,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_182,Spinach kofta curry (Palak kofta curry),,Indian Food,India,India,571.78,1.09,3.56,61.49,0.92,0.82,104.51,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_183,Paneer kofta curry,,Indian Food,India,India,670.91,2.39,3.27,72.06,0.4,1.98,121.72,,,,,100 g,100 g,Indian Food Composition Data,North Indian,Vegetarian
+IND_FOOD_184,Lotus stem kofta curry (Kamal kakdi kofta curry),,Indian Food,India,India,633.56,0.96,5.01,67.76,1.01,0.88,108.61,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_185,Raw banana kofta curry (Kela kofta curry),,Indian Food,India,India,627.27,0.62,3.4,67.98,0.59,2.3,88.4,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_186,Cauliflower kofta curry (Phoolgobhi kofta curry),,Indian Food,India,India,641.1,1.04,2.62,69.62,1.0,0.83,93.65,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_187,Cabbage kofta curry (Pattagobhi kofta curry),,Indian Food,India,India,639.81,0.98,2.87,69.4,0.9,0.89,92.85,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_188,Ghiya/Lauki Kofta Curry,,Indian Food,India,India,638.71,0.89,2.71,69.4,0.83,0.82,91.43,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_189,Spinach paneer kofta curry (Palak paneer kofta curry),,Indian Food,India,India,606.03,1.43,2.94,65.41,0.75,1.16,99.37,,,,,100 g,100 g,Indian Food Composition Data,North Indian,Vegetarian
+IND_FOOD_190,Vegetarian egg kofta curry,,Indian Food,India,India,627.41,1.33,4.26,67.24,0.64,1.19,95.89,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Non-Vegetarian
+IND_FOOD_191,Baked vegetables,,Indian Food,India,India,88.99,3.67,8.44,4.44,2.34,2.56,124.7,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_192,Cauliflower musallam (Phoolgobhi musallam),,Indian Food,India,India,58.83,1.89,4.48,3.55,3.06,1.71,123.36,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_193,Baked vegetables with spinach,,Indian Food,India,India,77.79,3.22,6.93,4.03,2.33,2.09,122.85,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_194,Baked potato with skin,,Indian Food,India,India,135.77,3.43,11.11,8.5,1.2,1.66,354.5,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_195,Shepherd's pie (vegetarian),,Indian Food,India,India,135.63,5.04,12.03,7.3,2.23,2.78,118.2,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_196,Baked brinjal in tomato sauce,,Indian Food,India,India,38.63,1.58,4.13,1.62,2.34,2.2,79.66,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_197,Dum aloo,,Indian Food,India,India,682.33,0.7,3.33,74.01,0.68,0.71,183.85,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_198,Spinach paneer (Palak paneer),,Indian Food,India,India,77.68,4.03,4.43,4.76,1.91,2.55,166.87,,,,,100 g,100 g,Indian Food Composition Data,North Indian,Vegetarian
+IND_FOOD_199,Methi chaman,,Indian Food,India,India,475.62,1.54,2.78,50.91,0.53,1.79,54.94,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_200,Sarson ka saag,,Indian Food,India,India,87.84,3.0,5.33,5.86,3.69,0.75,165.45,,,,,100 g,100 g,Indian Food Composition Data,North Indian,Vegetarian
+IND_FOOD_201,Jackfruit sabzi (Kathal ki sabzi),,Indian Food,India,India,625.4,0.69,3.4,67.6,1.02,2.59,58.95,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_202,Avial,,Indian Food,India,India,124.56,2.46,8.47,8.94,5.44,3.83,81.5,,,,,100 g,100 g,Indian Food Composition Data,South Indian,Vegetarian
+IND_FOOD_203,Al yakhani,,Indian Food,India,India,147.54,2.86,4.65,13.14,1.27,3.56,206.24,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_204,Shahi paneer,,Indian Food,India,India,156.5,5.06,6.64,12.34,1.4,5.01,215.35,,,,,100 g,100 g,Indian Food Composition Data,North Indian,Vegetarian
+IND_FOOD_205,Paneer in butter sauce,,Indian Food,India,India,145.61,6.99,9.7,8.81,1.5,7.49,151.45,,,,,100 g,100 g,Indian Food Composition Data,North Indian,Vegetarian
+IND_FOOD_206,Methi malai paneer,,Indian Food,India,India,194.98,7.34,8.15,14.76,1.47,6.0,221.16,,,,,100 g,100 g,Indian Food Composition Data,North Indian,Vegetarian
+IND_FOOD_207,Chilli paneer,,Indian Food,India,India,777.51,2.1,3.31,84.01,0.5,1.5,89.04,,,,,100 g,100 g,Indian Food Composition Data,North Indian,Vegetarian
+IND_FOOD_208,Paneer makhana korma,,Indian Food,India,India,775.82,3.24,4.63,82.76,0.21,1.84,77.01,,,,,100 g,100 g,Indian Food Composition Data,North Indian,Vegetarian
+IND_FOOD_209,Kadhai Paneer,,Indian Food,India,India,107.99,4.33,7.34,6.81,2.07,5.54,144.33,,,,,100 g,100 g,Indian Food Composition Data,North Indian,Vegetarian
+IND_FOOD_210,Roghan josh,,Indian Food,India,India,139.59,9.56,4.93,9.02,2.08,2.66,204.31,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_211,Spinach mutton (Palak mutton),,Indian Food,India,India,80.32,5.74,3.45,4.71,2.23,1.42,121.1,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Non-Vegetarian
+IND_FOOD_212,Pea keema curry (Matar keema ki sabzi),,Indian Food,India,India,133.0,8.43,6.24,8.14,2.96,1.82,148.38,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Non-Vegetarian
+IND_FOOD_213,Keema kofta curry,,Indian Food,India,India,154.45,9.77,5.64,10.39,1.51,2.14,311.51,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Non-Vegetarian
+IND_FOOD_214,Kashmiri mutton koftas (Gushtaba),,Indian Food,India,India,97.42,6.33,3.04,6.77,0.62,2.13,130.11,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Non-Vegetarian
+IND_FOOD_215,Mutton yakhni,,Indian Food,India,India,104.13,8.27,0.84,7.7,0.67,0.13,101.02,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Non-Vegetarian
+IND_FOOD_216,Chicken yakhni,,Indian Food,India,India,99.0,10.66,0.78,6.1,0.62,0.12,97.38,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Non-Vegetarian
+IND_FOOD_217,Mutton do piaza,,Indian Food,India,India,183.3,9.39,4.14,14.41,1.93,2.9,118.62,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Non-Vegetarian
+IND_FOOD_218,Mutton chops,,Indian Food,India,India,663.64,4.03,1.48,71.31,0.17,0.42,51.03,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Non-Vegetarian
+IND_FOOD_219,Shammi kebab,,Indian Food,India,India,685.69,4.52,3.54,72.61,1.05,0.31,54.27,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_220,Scotch egg,,Indian Food,India,India,676.89,4.05,1.91,72.62,0.36,0.3,90.67,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Non-Vegetarian
+IND_FOOD_221,Shepherd's pie (with minced meat),,Indian Food,India,India,142.78,7.45,8.06,8.88,1.05,1.7,197.25,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Non-Vegetarian
+IND_FOOD_222,Chicken curry,,Indian Food,India,India,129.22,11.79,3.38,7.57,1.41,1.79,108.0,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Non-Vegetarian
+IND_FOOD_223,Tandoori chicken,,Indian Food,India,India,145.2,16.26,2.34,7.93,0.5,1.58,158.0,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Non-Vegetarian
+IND_FOOD_224,Butter chicken,,Indian Food,India,India,137.0,10.92,3.74,8.7,1.32,2.37,26.21,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Non-Vegetarian
+IND_FOOD_225,Chicken kebab,,Indian Food,India,India,729.41,3.71,1.11,78.89,0.21,0.24,69.76,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Non-Vegetarian
+IND_FOOD_226,Chilli chicken,,Indian Food,India,India,198.83,9.57,2.86,16.56,0.99,0.93,223.75,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Non-Vegetarian
+IND_FOOD_227,Fried chicken with tomato sauce (Fried chicken tamatar ki chutney kay saath),,Indian Food,India,India,125.03,11.48,2.51,7.61,1.13,1.16,107.56,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Non-Vegetarian
+IND_FOOD_228,Fish curry (Machli curry),,Indian Food,India,India,111.13,8.76,3.77,6.69,1.89,2.02,184.71,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Non-Vegetarian
+IND_FOOD_229,Fried fish (Indian style) (Tali hui machli),,Indian Food,India,India,658.54,4.35,5.4,68.88,0.61,0.4,156.94,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Non-Vegetarian
+IND_FOOD_230,Fried fish and Chips (English Style) (Tali hui machli aur chips),,Indian Food,India,India,651.75,3.36,2.77,69.69,0.29,0.17,72.73,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Non-Vegetarian
+IND_FOOD_231,Tomato fish,,Indian Food,India,India,489.79,2.39,3.18,51.91,0.72,1.35,91.47,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Non-Vegetarian
+IND_FOOD_232,Baked fish with cheese sauce,,Indian Food,India,India,113.96,8.64,4.06,7.02,0.08,3.22,209.48,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Non-Vegetarian
+IND_FOOD_233,Fish tikka,,Indian Food,India,India,117.33,16.0,3.91,4.15,1.18,1.18,503.44,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Non-Vegetarian
+IND_FOOD_234,Tandoori fish,,Indian Food,India,India,95.98,11.19,2.37,4.64,0.58,1.6,123.94,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Non-Vegetarian
+IND_FOOD_235,"Paneer, apple and pineapple salad",,Indian Food,India,India,95.08,3.88,8.35,5.07,1.65,6.36,176.63,,,,,100 g,100 g,Indian Food Composition Data,North Indian,Vegetarian
+IND_FOOD_236,Russian salad,,Indian Food,India,India,114.83,4.26,6.5,7.84,2.57,1.66,101.09,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_237,Pasta salad,,Indian Food,India,India,190.36,4.15,12.7,13.92,0.96,2.6,152.31,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_238,Deviled egg,,Indian Food,India,India,98.56,4.97,2.23,7.72,1.15,0.82,117.29,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Non-Vegetarian
+IND_FOOD_239,Hawain salad,,Indian Food,India,India,175.23,4.27,14.35,11.37,3.93,5.24,64.92,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_240,Mixed pulse and vegetable salad,,Indian Food,India,India,83.12,4.74,13.96,0.84,2.96,1.36,127.78,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_241,Sprouted moong salad,,Indian Food,India,India,37.81,2.29,5.48,0.74,0.95,2.13,116.38,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_242,Tossed salad,,Indian Food,India,India,62.96,1.02,4.95,4.22,2.15,1.56,77.5,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_243,Mixed vegetable salad with curd sauce,,Indian Food,India,India,60.28,4.23,7.03,1.5,3.79,2.16,116.66,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_244,Potato salad (Aloo ka salaad),,Indian Food,India,India,89.91,1.4,11.19,4.4,1.32,3.94,125.01,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_245,Waldroff salad,,Indian Food,India,India,141.75,1.47,11.02,10.05,1.87,8.23,13.42,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_246,Coleslaw,,Indian Food,India,India,76.71,1.24,5.59,5.32,2.34,3.62,29.87,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_247,Fruit salad (Phalon ka salaad),,Indian Food,India,India,78.14,0.91,15.96,1.22,1.58,9.78,7.11,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_248,Tomato onion raita (Tamatar aur pyaaz ka raita),,Indian Food,India,India,59.0,3.74,7.08,1.84,0.97,5.98,165.21,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_249,Peanut raita (Mungfali ka raita),,Indian Food,India,India,150.39,8.59,9.3,8.98,1.89,7.11,235.83,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_250,Sprouted moong raita,,Indian Food,India,India,60.89,4.62,6.13,2.19,0.16,5.59,189.2,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_251,Bottle gourd raita (Ghiya/Lauki ka raita),,Indian Food,India,India,56.31,3.98,5.76,2.07,0.85,5.25,188.37,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_252,Cucumber raita (Kheere ka raita),,Indian Food,India,India,59.13,4.04,6.35,2.08,0.86,5.22,189.96,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_253,Carrot and spinach raita (Gajar aur palak ka raita),,Indian Food,India,India,56.83,4.0,5.83,1.99,1.39,4.93,180.79,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_254,Mint raita (Pudinay ka raita),,Indian Food,India,India,77.59,5.64,7.65,2.96,0.34,7.48,274.38,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_255,Potato raita (Aloo ka raita),,Indian Food,India,India,75.38,4.22,10.24,2.04,0.75,5.08,183.37,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_256,Boondi raita,,Indian Food,India,India,687.72,2.19,3.96,73.83,0.46,1.88,99.18,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_257,Sweet raita (Meetha raita),,Indian Food,India,India,99.24,3.24,17.93,1.78,1.02,15.36,42.98,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_258,Dahi vadas/Dahi bhalla,,Indian Food,India,India,667.73,2.96,5.49,70.4,0.97,1.78,79.0,,,,,100 g,100 g,Indian Food Composition Data,South Indian,Vegetarian
+IND_FOOD_259,Gunjia,,Indian Food,India,India,667.34,2.98,5.68,70.28,1.13,2.05,77.9,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_260,Saunth/Sonth chutney with tamarind/imli,,Indian Food,India,India,141.53,1.01,33.55,0.15,0.93,31.31,244.38,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_261,Rice kheer (Chawal ki kheer),,Indian Food,India,India,75.03,2.3,10.05,2.97,0.17,8.02,16.24,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_262,Makhana kheer,,Indian Food,India,India,107.85,3.31,12.88,5.0,0.11,11.54,23.4,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_263,Vermicelli kheer (Semiya/Seviyan ki kheer),,Indian Food,India,India,120.07,3.35,15.87,5.0,0.5,12.79,22.52,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_264,Semolina kheer (Suji/Rava kheer),,Indian Food,India,India,113.21,3.43,15.88,4.2,0.51,12.88,22.66,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_265,Paneer kheer,,Indian Food,India,India,105.31,4.53,10.03,5.37,0.07,9.87,23.81,,,,,100 g,100 g,Indian Food Composition Data,North Indian,Vegetarian
+IND_FOOD_266,Cabbage kheer (Pattagobhi ki kheer),,Indian Food,India,India,83.51,2.87,9.73,3.8,0.51,9.28,22.67,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_267,Carrot kheer (Gajar ki kheer),,Indian Food,India,India,85.35,2.81,10.09,3.85,0.73,9.63,28.54,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_268,Cauliflower kheer (Phoolgobhi ki kheer),,Indian Food,India,India,81.95,3.04,8.78,3.95,0.55,8.49,25.19,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_269,Moong dal kheer,,Indian Food,India,India,77.16,2.95,9.89,2.97,0.4,7.92,16.34,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_270,Phirni,,Indian Food,India,India,116.12,3.49,16.11,4.34,0.36,10.79,22.47,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_271,Semolina halwa (Suji ka halwa),,Indian Food,India,India,225.65,2.16,24.67,13.38,1.86,13.98,1.28,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_272,Shahi suji halwa,,Indian Food,India,India,382.34,3.48,44.44,21.73,2.96,27.21,2.18,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_273,Carrot halwa (Gajar ka halwa),,Indian Food,India,India,172.64,3.11,18.53,9.73,2.65,16.85,39.96,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_274,Egg halwa (Ande ka halwa),,Indian Food,India,India,299.74,7.85,39.59,13.41,0.49,37.85,83.04,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Non-Vegetarian
+IND_FOOD_275,Potato halwa (Aloo ka halwa),,Indian Food,India,India,151.66,1.53,29.18,3.48,1.64,17.42,4.23,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_276,Pumpkin halwa (Kaddu ka halwa),,Indian Food,India,India,190.27,1.33,27.6,8.81,2.97,26.64,8.09,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_277,Moong dal halwa,,Indian Food,India,India,349.8,8.35,40.23,17.68,2.65,25.59,11.19,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_278,Caramel custard (steamed),,Indian Food,India,India,121.58,4.97,15.02,4.87,0.0,14.98,43.57,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_279,Baked custard,,Indian Food,India,India,106.53,5.41,9.45,5.3,0.0,9.42,47.13,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_280,Soft Custard (stirred),,Indian Food,India,India,109.18,5.01,11.19,5.07,0.0,11.15,122.17,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_281,Chocolate ice cream,,Indian Food,India,India,177.7,4.47,15.41,11.25,0.0,15.33,36.79,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_282,Mango ice cream,,Indian Food,India,India,125.69,3.4,11.14,7.62,0.52,11.01,29.13,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_283,Fruit Ice cream (Phalon ka Ice cream),,Indian Food,India,India,171.46,4.37,16.05,10.38,0.33,14.03,38.78,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_284,Caramel ice cream,,Indian Food,India,India,173.52,4.31,14.81,11.15,0.08,14.52,33.47,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_285,Lemon souffle,,Indian Food,India,India,168.51,6.95,13.43,10.02,0.0,11.67,50.73,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_286,Orange souffle,,Indian Food,India,India,168.28,6.8,14.2,9.73,0.22,12.31,49.22,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_287,Vanilla souffle,,Indian Food,India,India,187.85,7.71,14.78,11.19,0.0,12.86,56.73,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_288,Chocolate souffle,,Indian Food,India,India,189.32,7.88,14.74,11.36,0.0,12.69,56.07,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_289,Pineapple souffle,,Indian Food,India,India,196.14,8.06,15.52,11.72,0.0,13.45,59.17,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_290,Apple mousse,,Indian Food,India,India,106.92,4.21,12.77,4.27,1.6,10.56,28.79,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_291,Rich chocolate mousse,,Indian Food,India,India,188.26,7.96,10.84,12.19,0.0,10.3,51.71,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_292,Mango mousse,,Indian Food,India,India,124.98,3.21,9.14,8.47,0.88,8.89,19.62,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_293,Orange and pineapple cream,,Indian Food,India,India,101.18,1.44,11.96,5.43,1.03,11.37,10.17,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_294,Charlotte rousse,,Indian Food,India,India,188.29,3.95,34.08,4.78,1.01,20.48,56.45,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_295,Triffle pudding,,Indian Food,India,India,116.97,2.93,18.24,3.93,0.12,13.89,26.95,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_296,Snow flakes pudding,,Indian Food,India,India,95.21,4.67,8.07,4.97,0.03,8.01,39.6,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_297,Kulfi,,Indian Food,India,India,98.43,3.21,11.3,4.7,0.12,10.39,23.97,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_298,Steamed orange pudding,,Indian Food,India,India,278.03,2.34,41.53,12.04,0.58,26.53,79.1,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_299,Meringue and rice pudding,,Indian Food,India,India,112.93,4.84,14.6,4.05,0.17,10.87,44.16,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_300,Cheese pudding,,Indian Food,India,India,285.01,11.29,19.27,18.37,0.05,18.63,37.83,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_301,Chocolate pudding,,Indian Food,India,India,211.96,3.55,29.59,9.48,0.53,20.68,171.36,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_302,Bread and butter pudding,,Indian Food,India,India,167.94,5.59,19.63,7.88,0.98,11.84,96.3,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_303,Queen of pudding,,Indian Food,India,India,132.92,5.51,16.35,5.38,0.27,11.77,85.59,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_304,Pineapple upside down pudding,,Indian Food,India,India,257.73,3.15,35.73,11.91,0.8,22.16,74.52,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_305,Date and nut pie,,Indian Food,India,India,322.42,3.93,46.86,13.31,4.13,31.18,3.87,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_306,Stewed apple with custard,,Indian Food,India,India,92.87,1.27,18.36,1.82,1.01,15.46,16.66,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_307,Apple snowballs,,Indian Food,India,India,101.51,0.86,24.58,0.31,1.25,19.4,12.8,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_308,Hot orange souffle,,Indian Food,India,India,179.97,6.87,18.77,8.95,0.29,14.93,58.8,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_309,Hot chocolate souffle,,Indian Food,India,India,226.09,6.7,26.21,11.1,0.12,22.88,54.11,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_310,Hot vanilla souffle,,Indian Food,India,India,192.93,6.87,21.77,9.07,0.13,18.17,59.59,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_311,Plain burfi (Burfi),,Indian Food,India,India,408.32,9.82,30.88,27.96,0.17,30.43,31.65,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_312,Coconut burfi (Nariyal ki burfi),,Indian Food,India,India,467.64,8.81,32.15,34.63,3.5,31.5,27.63,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_313,Bottle gourd burfi (Ghiya/Lauki burfi),,Indian Food,India,India,275.96,5.86,24.51,17.68,0.73,23.92,18.15,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_314,Chocolate burfi,,Indian Food,India,India,339.33,13.0,33.15,17.86,0.0,32.38,39.32,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_315,Cashewnut burfi (Kaju burfi/Kaju katli),,Indian Food,India,India,421.74,5.48,37.92,28.46,1.12,31.43,4.23,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_316,Gram flour burfi (Besan burfi),,Indian Food,India,India,421.79,11.19,46.59,22.41,3.41,28.44,13.02,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_317,Semolina ladoo with khoya (Suji/Rava aur khoye ke ladoo ),,Indian Food,India,India,428.71,6.71,52.86,21.86,4.68,33.28,14.4,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_318,Semolina ladoo with coconut (Suji/Rava aur nariyal ke ladoo ),,Indian Food,India,India,464.43,5.68,50.9,27.03,6.69,27.32,9.06,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_319,Gram flour ladoo (Besan ladoo),,Indian Food,India,India,476.91,8.93,62.61,22.76,4.43,37.76,5.48,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_320,Sesame ladoo (Til ke ladoo),,Indian Food,India,India,396.96,10.7,43.5,19.64,7.72,38.63,18.55,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_321,Chenna murki,,Indian Food,India,India,252.69,10.46,36.01,8.2,0.0,35.55,11.4,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_322,Milk cake,,Indian Food,India,India,127.41,3.01,9.13,8.93,0.06,8.9,24.97,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_323,Ghujia/Lavang latika,,Indian Food,India,India,768.98,1.86,13.0,78.93,0.52,6.08,3.28,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_324,Gulab Jamun with khoya,,Indian Food,India,India,586.06,2.03,26.09,53.23,0.07,24.12,15.09,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_325,Mal pua,,Indian Food,India,India,566.68,1.71,17.56,54.64,0.62,11.77,6.35,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_326,Shahi tukre,,Indian Food,India,India,189.81,2.76,41.46,2.54,0.51,34.7,71.04,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_327,Potato pakora/pakoda (Aloo pakoda),,Indian Food,India,India,677.19,1.9,6.04,71.84,1.03,0.22,63.38,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_328,Onion pakora/pakoda (Pyaaz ke pakode),,Indian Food,India,India,674.61,1.9,5.41,71.84,1.11,0.88,63.55,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_329,Cauliflower pakora/pakoda (Phoolgobhi ke pakode),,Indian Food,India,India,671.63,1.98,4.52,71.86,1.26,0.23,66.54,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_330,Mixed vegetable pakora/pakoda,,Indian Food,India,India,673.81,1.94,5.12,71.86,1.13,0.38,65.35,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_331,Spinach pakora/pakoda (Palak pakoda),,Indian Food,India,India,712.62,1.96,4.68,76.38,1.02,0.2,69.54,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_332,Methi pakora/pakoda (Methi ke pakode),,Indian Food,India,India,713.25,2.06,4.68,76.39,1.18,0.25,69.83,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_333,Egg pakora/pakoda (Ande ke pakode),,Indian Food,India,India,710.51,2.83,4.48,75.86,0.86,0.19,75.37,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Non-Vegetarian
+IND_FOOD_334,Bread pakora/pakoda,,Indian Food,India,India,710.99,2.57,8.87,74.2,1.11,0.46,101.49,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_335,Paneer pakora/pakoda,,Indian Food,India,India,718.12,3.27,5.52,76.05,0.89,1.08,131.7,,,,,100 g,100 g,Indian Food Composition Data,North Indian,Vegetarian
+IND_FOOD_336,Potato bonda (Aloo bonda),,Indian Food,India,India,632.84,1.09,4.53,67.8,0.83,0.27,132.53,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_337,Potato samosa (Aloo ka samosa),,Indian Food,India,India,577.39,1.71,9.21,59.19,1.19,0.29,77.1,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_338,Minced meat samosa (Keema ka samosa),,Indian Food,India,India,620.99,4.43,6.14,64.26,0.39,0.5,88.64,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Non-Vegetarian
+IND_FOOD_339,Paneer and pea samosa (Paneer matar ka samosa),,Indian Food,India,India,623.81,4.02,8.55,63.65,1.02,1.69,78.18,,,,,100 g,100 g,Indian Food Composition Data,North Indian,Vegetarian
+IND_FOOD_340,Mathri,,Indian Food,India,India,805.12,1.75,12.32,83.1,0.6,0.29,64.7,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_341,Khasta kachori,,Indian Food,India,India,712.73,2.51,12.81,72.27,0.97,0.34,90.56,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_342,Vegetable cutlet,,Indian Food,India,India,665.45,1.25,4.68,71.33,0.93,0.35,85.38,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_343,Flattened rice cutlet (Chirwa cutlet/Chivda cutlet/Poha cutlet),,Indian Food,India,India,701.71,1.76,7.39,73.89,0.86,0.27,76.65,,,,,100 g,100 g,Indian Food Composition Data,West Indian,Vegetarian
+IND_FOOD_344,Peanut cutlet (Mungfali ke cutlet),,Indian Food,India,India,698.77,2.63,5.68,74.0,1.21,0.51,84.24,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_345,Fish cutlet (Machli ka cutlet),,Indian Food,India,India,654.64,2.77,3.13,70.11,0.54,0.29,75.33,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Non-Vegetarian
+IND_FOOD_346,Paneer potato cutlet (Paneer aloo cutlet),,Indian Food,India,India,672.94,2.47,5.23,71.4,0.41,1.02,85.71,,,,,100 g,100 g,Indian Food Composition Data,North Indian,Vegetarian
+IND_FOOD_347,Spinach chickpeas cutlet (Palak channa dal cutlet),,Indian Food,India,India,688.03,1.44,4.93,73.6,0.93,0.16,79.13,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_348,Cheese toast,,Indian Food,India,India,785.37,1.98,5.49,84.11,0.31,0.53,121.05,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_349,Vegetable burger,,Indian Food,India,India,519.93,3.26,13.69,50.63,1.7,1.88,168.97,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_350,Cheese pizza,,Indian Food,India,India,249.5,5.79,30.62,12.43,1.95,3.42,397.73,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_351,Vegetable seekh kebab,,Indian Food,India,India,690.73,1.57,5.32,73.72,0.59,0.74,83.67,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_352,Masala vada,,Indian Food,India,India,826.02,1.69,4.06,89.15,1.07,0.24,74.53,,,,,100 g,100 g,Indian Food Composition Data,South Indian,Vegetarian
+IND_FOOD_353,Peanut sago vada (Sabudana mungfali vada),,Indian Food,India,India,749.89,1.01,7.14,79.82,0.62,0.19,71.29,,,,,100 g,100 g,Indian Food Composition Data,South Indian,Vegetarian
+IND_FOOD_354,Vegeterian scotch egg,,Indian Food,India,India,681.67,2.16,4.64,72.77,0.58,0.23,93.33,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Non-Vegetarian
+IND_FOOD_355,Paneer shaslik/tikka,,Indian Food,India,India,93.85,5.11,7.98,4.49,1.23,4.61,103.39,,,,,100 g,100 g,Indian Food Composition Data,North Indian,Vegetarian
+IND_FOOD_356,Peanut brittle (Moongfali ki chikki),,Indian Food,India,India,320.46,6.94,47.46,11.13,2.63,43.92,15.99,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_357,Spring roll,,Indian Food,India,India,623.87,1.81,8.56,64.63,0.67,0.6,132.84,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_358,Dry mango chutney (Sookhe aam ki chutney),,Indian Food,India,India,298.13,2.43,69.17,0.7,3.74,61.86,437.91,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_359,Peanut chutney (Mungfali ki chutney),,Indian Food,India,India,258.37,11.8,9.87,19.06,5.73,2.76,475.34,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_360,Coconut chutney (Nariyal ki chutney),,Indian Food,India,India,265.92,3.59,8.29,25.0,6.73,3.79,428.28,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_361,Mint and coriander chutney (Pudinay aur dhaniye ki chutney),,Indian Food,India,India,102.6,2.81,21.18,0.51,4.33,15.88,391.66,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_362,Custard tart,,Indian Food,India,India,225.6,3.72,28.66,10.73,0.91,9.31,59.74,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_363,Lemon tart,,Indian Food,India,India,303.35,6.12,30.68,17.45,0.81,10.68,76.09,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_364,Jam tart,,Indian Food,India,India,360.72,4.42,46.18,17.35,1.14,14.74,70.34,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_365,Orange cream tart,,Indian Food,India,India,197.16,2.58,27.43,8.72,0.64,10.08,36.85,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_366,Pineapple tart,,Indian Food,India,India,195.4,2.29,28.62,8.21,0.87,11.09,37.88,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_367,Cheese and mushroom tart,,Indian Food,India,India,246.1,5.51,21.43,15.28,1.18,3.16,212.42,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_368,Cottage cheese pie,,Indian Food,India,India,238.98,7.45,20.66,13.83,2.21,3.62,103.29,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_369,Minced meat pie,,Indian Food,India,India,221.55,7.38,18.11,13.04,2.33,1.42,127.85,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Non-Vegetarian
+IND_FOOD_370,Apple cinnamon pie,,Indian Food,India,India,258.73,3.35,33.68,12.21,1.77,11.95,60.14,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_371,Lemon meringue pie,,Indian Food,India,India,224.43,3.88,35.11,8.16,0.44,21.17,85.12,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_372,Chocolate meringue pie,,Indian Food,India,India,214.76,4.98,28.8,9.17,0.37,15.03,80.77,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_373,Cream puffs,,Indian Food,India,India,221.33,4.7,16.0,15.48,0.38,5.94,98.76,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_374,Chocolate eclairs,,Indian Food,India,India,239.42,4.24,26.22,13.5,0.33,17.34,85.88,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_375,Cheese balls,,Indian Food,India,India,681.28,2.21,4.81,72.57,0.18,0.63,120.7,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_376,Minced meat patties,,Indian Food,India,India,265.72,6.88,15.25,19.57,0.77,0.88,252.18,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Non-Vegetarian
+IND_FOOD_377,Cheese patties,,Indian Food,India,India,324.01,7.38,22.23,22.67,1.24,3.93,295.22,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_378,Hot cheese souffle,,Indian Food,India,India,177.1,9.18,5.41,13.23,0.12,2.91,286.96,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_379,Hot potato souffle,,Indian Food,India,India,125.64,5.51,8.56,7.64,0.66,1.78,97.2,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_380,Hot fish souffle,,Indian Food,India,India,142.92,11.23,3.69,9.24,0.1,1.68,110.94,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Non-Vegetarian
+IND_FOOD_381,Hot spinach souffle,,Indian Food,India,India,104.25,5.43,4.19,7.24,0.99,1.64,104.69,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_382,Plain cream cake,,Indian Food,India,India,353.94,6.18,47.18,16.17,0.71,27.74,174.0,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_383,Apple cake (Seb ka cake),,Indian Food,India,India,290.08,4.94,39.48,12.87,1.22,23.52,136.95,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_384,Marble cake,,Indian Food,India,India,354.11,6.3,46.88,16.27,0.71,27.56,138.48,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_385,Chocolate cake,,Indian Food,India,India,335.61,6.01,45.14,15.18,0.64,27.58,241.93,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_386,Orange cake,,Indian Food,India,India,357.61,6.1,48.28,16.21,0.83,28.38,105.41,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_387,Fruit Loaf,,Indian Food,India,India,324.19,5.36,46.49,13.31,0.87,24.54,160.6,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_388,Banana cake (Kele ka cake),,Indian Food,India,India,389.51,5.77,40.0,23.31,1.14,23.04,117.81,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_389,Chocolate chiffon cake,,Indian Food,India,India,311.71,5.76,37.87,15.8,0.7,24.25,188.59,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_390,Christmas cake,,Indian Food,India,India,372.95,5.49,48.29,16.88,1.49,27.45,64.84,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_391,Strawberry and vanilla cake with butter icing,,Indian Food,India,India,370.54,3.89,44.25,20.39,0.79,32.43,107.27,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_392,Eggless cake,,Indian Food,India,India,318.08,8.12,46.14,11.75,0.68,27.7,310.5,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Non-Vegetarian
+IND_FOOD_393,Swiss roll,,Indian Food,India,India,251.87,7.3,48.34,3.77,0.55,32.96,51.9,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_394,Pineapple pastry,,Indian Food,India,India,208.21,6.06,29.04,7.87,0.72,18.83,44.3,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_395,Black forest pastry,,Indian Food,India,India,233.55,6.09,34.48,8.46,0.54,21.35,53.43,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_396,Coconut finger,,Indian Food,India,India,274.86,7.09,42.56,8.86,1.87,28.55,46.86,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_397,Pineapple cake,,Indian Food,India,India,195.57,5.01,23.51,9.34,0.76,16.16,37.47,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_398,Chocolate walnut cookies (Chocolate aur akhrot ke cookies),,Indian Food,India,India,424.8,6.56,47.1,23.62,1.54,22.58,280.44,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_399,Chocolate chip cookies,,Indian Food,India,India,425.29,5.79,57.98,19.38,1.05,30.29,278.29,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_400,Sweet plain biscuit,,Indian Food,India,India,380.76,5.86,50.29,17.67,1.07,21.77,132.59,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_401,Chocolate biscuit,,Indian Food,India,India,379.76,5.88,51.56,17.09,1.01,24.16,127.02,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_402,Coconut biscuit (Nariyal ke biscuit),,Indian Food,India,India,434.98,5.78,42.9,27.16,3.64,20.76,105.76,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_403,Sweet and salty biscuit (Meethay aur namkeen biscuit),,Indian Food,India,India,407.96,6.15,45.09,22.39,1.68,7.22,414.7,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_404,Peanut biscuit,,Indian Food,India,India,401.05,8.45,46.72,20.41,2.48,21.26,202.26,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_405,Pin wheel biscuit,,Indian Food,India,India,404.6,5.4,54.56,18.66,1.16,23.25,131.73,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_406,Saffron biscuit (Kesar biscuit),,Indian Food,India,India,458.61,6.05,59.7,22.01,1.9,22.42,5.65,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_407,Masala biscuit,,Indian Food,India,India,393.64,6.06,45.18,20.75,2.14,6.82,714.52,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_408,Ice box cookies,,Indian Food,India,India,374.24,5.7,56.09,14.44,1.28,26.69,449.14,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_409,Ginger bread man,,Indian Food,India,India,365.0,6.61,60.26,11.01,1.6,29.12,477.99,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_410,Danish cookies,,Indian Food,India,India,475.33,5.33,58.0,24.92,1.37,21.73,201.06,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_411,Short bread cookies,,Indian Food,India,India,443.09,6.03,64.82,17.98,1.57,23.31,145.0,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_412,Coffee biscuit,,Indian Food,India,India,416.57,6.9,46.55,23.0,1.59,21.69,112.53,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_413,Melting moments,,Indian Food,India,India,437.91,5.71,55.84,21.78,1.88,25.0,119.09,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_414,Ginger biscuit (Adarak ke biscuit),,Indian Food,India,India,417.91,5.98,58.44,18.31,1.49,27.06,79.68,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_415,Soyabean muthias,,Indian Food,India,India,839.33,2.46,3.7,90.45,1.47,0.17,78.25,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_416,Soyabean tikki,,Indian Food,India,India,698.17,3.53,4.39,74.02,2.2,0.35,88.72,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_417,Soyabean namak paras,,Indian Food,India,India,838.46,2.65,4.65,89.83,1.41,0.22,72.05,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_418,Peanut burfi (Moongfali ki burfi),,Indian Food,India,India,550.99,9.31,48.14,36.84,4.09,43.08,6.78,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_419,Spinach peanut namak paras (Palak moongfali namak paras),,Indian Food,India,India,740.16,1.65,6.62,78.51,0.81,0.28,73.15,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_420,Gram flour and semolina chilla/cheela/savory pancake (Besan suji chilla/cheela),,Indian Food,India,India,758.89,2.08,7.63,80.04,1.39,0.25,74.88,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_421,Rice moong dal cheela (Chawal aur moong dal ka cheela),,Indian Food,India,India,798.26,2.74,11.13,82.44,1.18,0.15,142.82,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_422,Split bengal gram sweet rice (Channa dal sweet rice),,Indian Food,India,India,190.21,4.15,41.07,0.64,2.23,19.41,8.38,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_423,Sweet poori (Meethi poori),,Indian Food,India,India,782.75,2.12,14.26,79.63,1.54,7.15,2.57,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_424,Wheat flour and moong dal burfi (Atta aur moong dal ki burfi),,Indian Food,India,India,441.08,9.84,60.0,18.41,6.02,31.12,5.25,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_425,Spinach burfi (Palak burfi),,Indian Food,India,India,121.17,2.71,12.76,6.81,1.17,12.12,27.77,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_426,Sweet split chickpea roti (Sweet channa dal roti/Puranpoli),,Indian Food,India,India,366.59,9.51,62.66,7.93,8.16,24.73,12.05,,,,,100 g,100 g,Indian Food Composition Data,West Indian,Vegetarian
+IND_FOOD_427,Sprouted moong daliya,,Indian Food,India,India,111.56,2.81,14.77,4.71,3.12,1.67,196.73,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_428,Sprouted moong poha,,Indian Food,India,India,192.6,5.59,26.6,6.89,3.13,1.93,220.82,,,,,100 g,100 g,Indian Food Composition Data,West Indian,Vegetarian
+IND_FOOD_429,Pearl millet ladoo (Bajra ladoo),,Indian Food,India,India,319.66,9.61,50.98,8.06,6.0,27.44,12.26,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_430,Paushtik ladoo,,Indian Food,India,India,485.87,7.65,60.34,24.98,4.57,38.12,6.09,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_431,Paushtik roti,,Indian Food,India,India,149.26,7.17,26.59,1.51,5.74,2.03,170.96,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_432,Semolina carrot vada (Suji gajar vada),,Indian Food,India,India,699.53,1.56,6.52,74.07,1.07,1.21,73.17,,,,,100 g,100 g,Indian Food Composition Data,South Indian,Vegetarian
+IND_FOOD_433,Dhokla,,Indian Food,India,India,216.49,13.45,30.68,5.28,4.95,4.78,376.02,,,,,100 g,100 g,Indian Food Composition Data,West Indian,Vegetarian
+IND_FOOD_434,Kashmiri tea (Kehwa),,Indian Food,India,India,24.9,0.17,5.23,0.51,0.16,5.14,0.29,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_435,Steeped hot coffee,,Indian Food,India,India,15.91,0.39,3.01,0.33,0.0,2.96,2.82,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_436,Hot chocolate,,Indian Food,India,India,90.01,3.43,9.02,4.61,0.0,8.86,36.04,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_437,Cold coffee (with cream),,Indian Food,India,India,82.76,1.93,11.98,3.29,0.0,11.91,15.35,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_438,Banana milkshake with ice cream (Kele ka milkshake ice cream ke saath),,Indian Food,India,India,76.45,2.01,11.15,2.77,0.27,9.94,16.63,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_439,Flavoured milkshake,,Indian Food,India,India,66.78,2.06,8.65,2.83,0.0,8.61,16.34,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_440,Jal jeera,,Indian Food,India,India,30.24,0.44,6.7,0.26,0.95,5.71,215.62,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_441,Gingo,,Indian Food,India,India,48.02,0.14,12.42,0.06,0.17,12.08,21.5,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_442,Mintade,,Indian Food,India,India,40.32,0.03,10.59,0.02,0.03,10.47,26.69,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_443,Canjee,,Indian Food,India,India,6.61,0.24,0.44,0.42,0.36,0.21,43.03,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_444,Cauliflower canjee (Phoolgobhi ki canjee),,Indian Food,India,India,6.9,0.39,0.35,0.42,0.49,0.09,41.45,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_445,Potato canjee (Aloo canjee),,Indian Food,India,India,16.26,0.44,2.69,0.39,0.43,0.1,35.99,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_446,Vermicelli porridge (Semiya/Seviyan porridge),,Indian Food,India,India,78.4,2.5,10.56,2.98,0.48,7.04,65.33,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_447,Semolina upma (Suji/Rava upma),,Indian Food,India,India,147.89,3.3,16.31,7.49,3.24,1.31,101.59,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_448,Vermicelli upma (Semiya/Seviyan upma),,Indian Food,India,India,149.11,3.11,16.88,7.45,3.21,1.4,101.8,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_449,Rice upma,,Indian Food,India,India,151.27,2.63,17.96,7.46,2.12,1.13,101.75,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_450,Bread upma,,Indian Food,India,India,129.51,2.8,12.6,7.75,1.96,1.56,176.44,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_451,Vegetable upma,,Indian Food,India,India,146.47,4.73,16.46,6.63,4.19,1.39,347.02,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_452,Poha,,Indian Food,India,India,294.53,6.09,35.05,14.14,3.72,0.87,377.1,,,,,100 g,100 g,Indian Food Composition Data,West Indian,Vegetarian
+IND_FOOD_453,Vegetable poha,,Indian Food,India,India,180.52,4.89,21.52,8.07,3.76,1.4,418.02,,,,,100 g,100 g,Indian Food Composition Data,West Indian,Vegetarian
+IND_FOOD_454,Moong dal stuffed cheela/chilla (Moong dal ka cheela/chilla),,Indian Food,India,India,154.89,6.97,19.42,5.11,4.25,1.11,267.23,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_455,Paneer stuffed cheela/chilla,,Indian Food,India,India,205.19,11.44,19.16,8.89,4.03,3.81,289.1,,,,,100 g,100 g,Indian Food Composition Data,North Indian,Vegetarian
+IND_FOOD_456,Indian style egg bhujia (Anda bhujia (Indian style)),,Indian Food,India,India,102.83,6.1,3.76,7.02,1.53,1.95,218.05,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Non-Vegetarian
+IND_FOOD_457,French omelette/omlet,,Indian Food,India,India,211.04,10.03,0.41,18.86,0.38,0.1,381.85,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_458,Puffy omelette/omlet,,Indian Food,India,India,188.15,8.82,0.08,16.84,0.0,0.08,340.53,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_459,Orange omelette/omlet,,Indian Food,India,India,194.66,8.93,1.68,16.84,0.0,1.68,340.92,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_460,Cheese and mushroom omelette/omlet,,Indian Food,India,India,205.63,9.69,1.68,17.82,0.93,1.07,400.29,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_461,Spanish omelette/omlet,,Indian Food,India,India,157.45,8.25,5.1,11.44,2.54,1.03,233.87,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_462,Mixed stock,,Indian Food,India,India,25.19,2.06,0.33,1.71,0.15,0.2,9.51,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_463,Meat stock,,Indian Food,India,India,24.48,2.1,0.0,1.78,0.0,0.0,8.62,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Non-Vegetarian
+IND_FOOD_464,White stock,,Indian Food,India,India,6.99,0.07,0.4,0.56,0.17,0.24,1.56,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_465,Meat consomme (with mutton),,Indian Food,India,India,29.76,14.86,0.51,13.68,0.71,0.24,12665.52,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Non-Vegetarian
+IND_FOOD_466,Consomme au julienne,,Indian Food,India,India,27.76,12.49,1.49,10.66,1.38,0.83,10208.47,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_467,Consomme au vermicelli,,Indian Food,India,India,29.94,15.23,1.3,12.98,0.81,0.27,12524.61,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_468,Green pea soup (Matar ka soup),,Indian Food,India,India,39.81,11.06,3.63,12.9,2.49,0.87,10958.11,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_469,Spinach soup (Palak ka soup),,Indian Food,India,India,32.59,10.54,3.03,14.26,1.98,0.29,12088.21,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_470,Mixed vegetable soup,,Indian Food,India,India,35.71,8.22,2.95,11.66,1.64,1.64,9202.27,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_471,Cheese soup,,Indian Food,India,India,41.13,12.39,1.87,17.07,1.8,0.84,13695.35,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_472,Mulligatawny soup,,Indian Food,India,India,54.42,11.26,8.24,13.28,2.6,1.26,11602.5,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_473,Cream of carrot soup,,Indian Food,India,India,59.77,8.27,5.69,12.35,1.98,1.77,8694.79,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_474,Cream of broccoli soup,,Indian Food,India,India,56.14,8.97,3.72,12.75,1.89,1.59,8792.43,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_475,Cream of potato soup,,Indian Food,India,India,60.2,8.1,6.14,12.05,1.51,1.24,8503.99,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_476,Almond soup (Badam ka soup),,Indian Food,India,India,78.65,10.13,3.68,13.8,0.91,1.94,8376.94,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_477,Cold cucumber cream soup,,Indian Food,India,India,11.88,0.34,1.76,0.34,0.73,0.51,207.89,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_478,Cold tomato soup,,Indian Food,India,India,16.9,0.11,0.59,1.56,0.16,0.22,287.15,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_479,Chicken stew,,Indian Food,India,India,127.55,7.19,4.44,8.91,1.82,1.43,79.62,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Non-Vegetarian
+IND_FOOD_480,Veg paneer stew,,Indian Food,India,India,145.55,6.98,10.22,8.41,3.08,4.85,73.15,,,,,100 g,100 g,Indian Food Composition Data,North Indian,Vegetarian
+IND_FOOD_481,Onion-green chilli parantha/paratha (Pyaaz aur hari mirch ka parantha/paratha),,Indian Food,India,India,191.27,4.37,26.37,7.27,5.16,2.71,241.19,,,,,100 g,100 g,Indian Food Composition Data,North Indian,Vegetarian
+IND_FOOD_482,Methi parantha/paratha,,Indian Food,India,India,148.36,4.27,22.19,4.34,5.09,2.44,48.36,,,,,100 g,100 g,Indian Food Composition Data,North Indian,Vegetarian
+IND_FOOD_483,Bathua poori,,Indian Food,India,India,598.79,2.35,13.85,59.14,1.87,0.41,49.71,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_484,Gram flour poori (Besan poori),,Indian Food,India,India,697.66,2.59,10.93,71.51,1.94,0.35,58.33,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_485,Beetroot poori (Chukandar ki poori),,Indian Food,India,India,527.66,1.91,12.29,52.18,1.4,0.54,46.48,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_486,Peas poori (Matar ki poori),,Indian Food,India,India,592.83,3.04,14.92,57.69,2.25,0.48,47.77,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_487,Peas kachori (Matar kachori),,Indian Food,India,India,584.68,3.21,13.25,57.51,2.03,0.5,55.45,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_488,Pizza,,Indian Food,India,India,146.77,6.85,9.94,8.72,1.71,1.38,225.02,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_489,Bacon and mushroom pancake,,Indian Food,India,India,157.67,6.82,8.47,10.6,1.59,1.23,344.23,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Non-Vegetarian
+IND_FOOD_490,Cheese and tomato pancake,,Indian Food,India,India,147.39,5.15,10.66,9.28,1.06,3.48,281.62,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_491,Minced meat pancake (with chicken),,Indian Food,India,India,116.04,12.01,8.18,10.48,0.7,1.29,4942.18,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Non-Vegetarian
+IND_FOOD_492,Eggplant/Brinjal rice (Vangi bhat),,Indian Food,India,India,184.8,5.28,31.74,3.67,4.44,4.36,59.06,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Non-Vegetarian
+IND_FOOD_493,Kashmiri 'tahar',,Indian Food,India,India,98.21,1.95,19.11,1.37,0.98,0.17,61.29,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_494,Cumin pulao (Jeera/Zeera pulao),,Indian Food,India,India,135.24,2.47,23.61,3.2,1.4,0.64,219.73,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_495,Peas pulao (Matar pulao),,Indian Food,India,India,108.87,3.89,18.42,1.9,3.21,1.3,86.18,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_496,Split bengal gram dal and vegetable pulao (Channa dal and vegetable pulao),,Indian Food,India,India,116.53,3.6,19.72,2.3,3.16,1.59,98.07,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_497,Black channa pulao/ Bengal gram pulao (Kale chane ka pulao),,Indian Food,India,India,125.51,3.44,21.55,2.58,2.69,1.99,103.09,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_498,Mutton pulao,,Indian Food,India,India,130.77,6.52,11.26,10.78,1.65,1.0,3115.59,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Non-Vegetarian
+IND_FOOD_499,Chicken pulao,,Indian Food,India,India,108.24,6.07,11.17,8.48,1.64,0.99,3093.47,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Non-Vegetarian
+IND_FOOD_500,Mexican rice,,Indian Food,India,India,120.57,4.62,14.21,4.88,1.64,1.44,93.42,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_501,Plain khitchdi (Plain khichri/khichdi),,Indian Food,India,India,57.03,1.72,10.04,1.01,0.85,0.12,37.14,,,,,100 g,100 g,Indian Food Composition Data,West Indian,Vegetarian
+IND_FOOD_502,Instant idli (with semolina),,Indian Food,India,India,247.29,9.16,43.4,3.61,7.13,3.35,1504.66,,,,,100 g,100 g,Indian Food Composition Data,South Indian,Vegetarian
+IND_FOOD_503,Plain dosa,,Indian Food,India,India,380.91,10.34,64.08,8.43,5.23,0.7,142.98,,,,,100 g,100 g,Indian Food Composition Data,South Indian,Vegetarian
+IND_FOOD_504,Masala dosa mixed vegetable fillings,,Indian Food,India,India,144.53,4.84,23.02,3.26,4.31,1.53,122.08,,,,,100 g,100 g,Indian Food Composition Data,South Indian,Vegetarian
+IND_FOOD_505,Masala dosa paneer fillings,,Indian Food,India,India,243.12,10.31,29.76,8.84,3.11,4.81,160.4,,,,,100 g,100 g,Indian Food Composition Data,South Indian,Vegetarian
+IND_FOOD_506,Uttapam,,Indian Food,India,India,255.95,6.18,36.28,9.03,4.4,1.5,228.69,,,,,100 g,100 g,Indian Food Composition Data,South Indian,Vegetarian
+IND_FOOD_507,Appam,,Indian Food,India,India,267.7,3.12,13.28,22.63,6.19,4.16,26.59,,,,,100 g,100 g,Indian Food Composition Data,South Indian,Vegetarian
+IND_FOOD_508,Beans and macaroni,,Indian Food,India,India,136.08,4.58,14.24,7.01,2.05,1.68,182.79,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_509,Spaghetti bolognese,,Indian Food,India,India,97.43,9.35,10.04,9.51,1.08,1.41,5358.6,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_510,Meat and macaroni casserole,,Indian Food,India,India,161.55,9.15,16.12,10.17,1.19,1.0,2511.99,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Non-Vegetarian
+IND_FOOD_511,Spaghetti with meat balls and tomato sauce,,Indian Food,India,India,158.13,5.61,10.46,10.64,1.11,1.87,189.13,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Non-Vegetarian
+IND_FOOD_512,Spaghetti with paneer balls and tomato sauce,,Indian Food,India,India,158.54,3.95,12.72,10.44,1.25,3.03,199.55,,,,,100 g,100 g,Indian Food Composition Data,North Indian,Vegetarian
+IND_FOOD_513,Lasagne with meat sauce,,Indian Food,India,India,63.38,2.9,5.38,3.43,0.47,1.04,37.08,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Non-Vegetarian
+IND_FOOD_514,Lasagne with vegetables,,Indian Food,India,India,49.23,1.71,5.9,2.16,0.66,1.37,40.78,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_515,Home made egg noodles,,Indian Food,India,India,240.84,6.55,42.92,4.37,1.6,1.03,177.24,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Non-Vegetarian
+IND_FOOD_516,Sour lentils (Khatti dal),,Indian Food,India,India,34.79,2.22,6.04,0.12,1.22,1.25,115.6,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_517,Urad special dehusked,,Indian Food,India,India,69.43,3.14,8.86,2.17,2.5,1.32,109.56,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_518,Arhar with spinach (Arhar dal aur palak),,Indian Food,India,India,52.84,2.05,4.77,2.76,1.3,0.23,109.97,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_519,Moong dal with vadi,,Indian Food,India,India,24.08,0.4,1.0,2.05,0.39,0.45,112.36,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_520,Rasam with tamarind (Puli rasam/ Chintapandu rasam/ Charu/Saaru),,Indian Food,India,India,26.74,1.13,3.37,0.88,1.6,0.83,104.11,,,,,100 g,100 g,Indian Food Composition Data,South Indian,Vegetarian
+IND_FOOD_521,Rasam with lemon (Nimmakaya rasam/Nimmakaya charu/Elumichai rasam/Nimbe hannina saaru),,Indian Food,India,India,24.41,1.11,2.85,0.87,1.54,0.44,102.77,,,,,100 g,100 g,Indian Food Composition Data,South Indian,Vegetarian
+IND_FOOD_522,Green gram whole with baghar (Sabut moong dal with tadka),,Indian Food,India,India,63.43,3.23,6.8,2.48,3.02,0.15,181.69,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_523,Urad sabut special,,Indian Food,India,India,79.39,2.33,5.03,5.46,2.15,0.86,60.09,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_524,Kabuli channa curry,,Indian Food,India,India,68.57,2.92,7.63,3.06,1.12,1.24,122.05,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_525,Besan gatte curry,,Indian Food,India,India,189.38,7.75,16.26,10.72,3.25,4.5,356.27,,,,,100 g,100 g,Indian Food Composition Data,West Indian,Vegetarian
+IND_FOOD_526,Dry masala chops,,Indian Food,India,India,135.07,9.08,3.3,9.54,0.86,2.27,83.47,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_527,Mutton korma,,Indian Food,India,India,115.64,7.09,2.53,8.54,0.78,1.64,56.94,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Non-Vegetarian
+IND_FOOD_528,Shahi keema kofta curry,,Indian Food,India,India,418.13,4.14,1.73,43.83,0.91,0.78,104.53,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Non-Vegetarian
+IND_FOOD_529,Minced meat ball curry,,Indian Food,India,India,109.79,6.82,2.86,7.85,1.49,1.27,170.06,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Non-Vegetarian
+IND_FOOD_530,Boti kebab,,Indian Food,India,India,132.86,9.22,3.06,9.27,0.76,2.09,78.14,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_531,Mutton seekh kebab,,Indian Food,India,India,133.94,11.25,3.11,8.43,1.88,1.4,102.17,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Non-Vegetarian
+IND_FOOD_532,Indian lamb and egg curry (Nargisi kofta),,Indian Food,India,India,335.75,3.84,2.07,34.7,0.6,0.75,57.44,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Non-Vegetarian
+IND_FOOD_533,Soya chunks sweet and sour (Nutrinugget sweet and sour),,Indian Food,India,India,500.94,2.85,3.27,55.99,0.86,1.1,2257.67,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_534,Soya chunks korma (Nutrinugget korma),,Indian Food,India,India,131.43,3.86,7.67,9.5,2.57,4.66,148.98,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_535,Mushroom matar,,Indian Food,India,India,70.77,2.79,5.33,4.11,3.13,1.39,61.63,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_536,Soya chunks and peas (Nutrinugget matar),,Indian Food,India,India,82.62,3.03,5.82,5.11,2.86,1.64,70.97,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_537,Vegetable yakhni,,Indian Food,India,India,406.06,1.18,1.94,43.8,0.61,1.44,38.05,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_538,Spinach mushroom (Palak mushroom),,Indian Food,India,India,47.63,1.94,2.95,2.96,2.27,1.0,70.97,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_539,Vegetarian nargisi kofta curry,,Indian Food,India,India,332.15,2.29,6.58,32.94,0.86,1.65,73.56,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_540,Roast chicken,,Indian Food,India,India,199.9,20.49,0.1,13.06,0.03,0.05,71.71,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Non-Vegetarian
+IND_FOOD_541,Shahi chicken masala,,Indian Food,India,India,163.7,9.82,4.07,12.02,0.96,2.86,142.56,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Non-Vegetarian
+IND_FOOD_542,Tomato chicken,,Indian Food,India,India,111.68,10.57,2.13,6.71,1.42,0.93,104.83,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Non-Vegetarian
+IND_FOOD_543,Creamy chicken,,Indian Food,India,India,152.87,13.52,3.13,9.57,0.69,2.11,97.08,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Non-Vegetarian
+IND_FOOD_544,Broccoli chicken ala king,,Indian Food,India,India,119.56,7.97,5.34,7.57,1.92,2.49,104.01,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Non-Vegetarian
+IND_FOOD_545,Ginger chicken,,Indian Food,India,India,129.17,8.24,5.6,8.24,1.21,1.95,365.86,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Non-Vegetarian
+IND_FOOD_546,Chicken sweet and sour,,Indian Food,India,India,445.09,6.92,2.67,47.59,0.58,0.89,1809.94,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Non-Vegetarian
+IND_FOOD_547,Chicken korma,,Indian Food,India,India,147.96,9.83,5.43,9.67,1.82,3.32,119.21,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Non-Vegetarian
+IND_FOOD_548,Bengal fish curry (Bengali machli curry),,Indian Food,India,India,109.43,7.26,4.42,7.03,1.93,2.39,76.38,,,,,100 g,100 g,Indian Food Composition Data,East Indian,Non-Vegetarian
+IND_FOOD_549,Fish finger,,Indian Food,India,India,542.9,5.66,4.47,55.82,0.34,0.17,103.55,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Non-Vegetarian
+IND_FOOD_550,Fish in coconut milk (Nariyal ke doodh ke saath machli),,Indian Food,India,India,86.21,8.66,2.73,4.43,1.52,1.55,73.93,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Non-Vegetarian
+IND_FOOD_551,Prawn curry (with coconut) (Jhinga curry),,Indian Food,India,India,109.55,8.54,3.1,6.93,1.56,2.03,375.86,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Non-Vegetarian
+IND_FOOD_552,Baked stuffed fish,,Indian Food,India,India,121.96,16.14,2.12,5.43,0.38,0.35,74.36,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Non-Vegetarian
+IND_FOOD_553,Fish pie,,Indian Food,India,India,120.9,9.25,7.74,5.77,0.76,1.13,101.8,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Non-Vegetarian
+IND_FOOD_554,Crispy baked fish,,Indian Food,India,India,138.4,10.95,9.59,6.41,1.21,1.53,192.42,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Non-Vegetarian
+IND_FOOD_555,Fish souffle,,Indian Food,India,India,139.71,10.51,5.14,8.55,0.19,2.09,92.45,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Non-Vegetarian
+IND_FOOD_556,Potato curry (Aloo ki sabzi),,Indian Food,India,India,89.56,1.52,10.42,4.47,2.42,1.58,78.4,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_557,Egg curry (Anda curry),,Indian Food,India,India,117.52,5.38,4.03,8.81,2.09,1.9,142.12,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Non-Vegetarian
+IND_FOOD_558,Vegetable curry with coconut,,Indian Food,India,India,83.07,2.77,7.19,4.66,3.35,1.41,43.4,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_559,Curd with potatoes (Dahi aloo),,Indian Food,India,India,59.9,1.56,7.15,2.72,1.19,1.82,51.99,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_560,Potato kofta curry (Aloo kofta curry),,Indian Food,India,India,455.4,0.56,2.78,49.08,0.56,0.63,30.12,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_561,Yam kofta curry (Zimikand/Suran kofta curry),,Indian Food,India,India,322.88,0.71,3.75,33.84,1.04,0.63,42.22,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_562,Jackfruit kofta curry (Kathal ka kofta curry),,Indian Food,India,India,321.08,0.8,3.17,33.83,0.96,2.4,40.04,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_563,Spinach and potato (Palak aloo),,Indian Food,India,India,57.17,1.63,5.91,2.82,2.04,0.93,62.46,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_564,Mooli bhujia,,Indian Food,India,India,91.2,1.69,4.74,7.25,2.36,1.07,89.73,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_565,Bathua bhujia,,Indian Food,India,India,90.9,2.26,3.63,7.29,3.8,1.08,81.99,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_566,Cabbage rolls (dry) ((Pattagobhi rolls) (dry)),,Indian Food,India,India,142.48,8.21,6.09,9.36,1.84,1.26,118.05,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_567,Cabbage rolls (curry) ((Pattagobhi rolls)(curry)),,Indian Food,India,India,124.63,5.76,7.03,8.17,2.35,3.81,123.98,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_568,Dry arbi (Sookhi arbi),,Indian Food,India,India,134.95,2.12,11.11,8.97,2.47,1.55,81.25,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_569,Masala arbi,,Indian Food,India,India,185.38,3.01,16.16,11.9,3.1,0.81,261.31,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_570,Peas brinjal bhartha (Matar baingan bhartha),,Indian Food,India,India,84.55,2.05,5.02,6.05,3.63,1.57,63.65,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_571,Okra/Lady's fingers fry (Bhindi sabzi/sabji/subji),,Indian Food,India,India,110.81,1.83,4.5,9.27,3.57,1.42,92.78,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_572,Crispy okra/Crispy lady's fingers (Karare bhindi),,Indian Food,India,India,657.76,1.91,4.35,70.4,1.75,0.26,40.42,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_573,Beans foogath,,Indian Food,India,India,105.06,2.03,3.26,9.22,4.15,1.7,81.22,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_574,Stuffed bittergourd (wet) (Bharwa karele),,Indian Food,India,India,162.36,1.36,4.68,15.24,2.86,1.95,360.09,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_575,Jackfruit/Kathal (dry),,Indian Food,India,India,488.97,0.93,4.56,51.78,1.33,3.55,33.68,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_576,Yam fried (Zimikand/Suran fried),,Indian Food,India,India,491.76,0.79,5.47,51.79,1.44,0.8,37.07,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_577,"Cauliflower, pea and potato bhujia (Phoolgobhi, matar aur aloo bhujia)",,Indian Food,India,India,95.67,2.75,8.23,5.54,3.26,1.47,86.29,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_578,Vegetable jalfrezi,,Indian Food,India,India,68.48,1.4,5.43,4.38,2.97,1.79,79.46,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_579,Vegetables stir fry,,Indian Food,India,India,30.78,1.04,3.19,1.47,1.37,0.86,55.0,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_580,Broccoli delight,,Indian Food,India,India,40.7,2.49,2.34,2.48,2.83,1.08,59.26,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_581,Dhansak (vegetarian),,Indian Food,India,India,82.8,3.32,7.28,4.18,4.17,0.91,34.18,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_582,Cauliflower basket,,Indian Food,India,India,90.95,5.21,3.97,5.88,2.4,1.47,194.22,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_583,Stuffed bottle gourd (Stuffed ghiya/lauki),,Indian Food,India,India,93.19,5.84,4.36,5.8,1.18,1.52,106.99,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_584,Ducheese potato,,Indian Food,India,India,140.54,3.6,10.94,9.01,1.29,0.29,103.85,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_585,Roast potatoes,,Indian Food,India,India,87.32,1.53,14.52,2.35,1.71,0.33,90.67,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_586,Stuffed baked potatoes,,Indian Food,India,India,100.2,3.82,11.03,4.39,1.31,0.4,92.09,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_587,Potato nests,,Indian Food,India,India,111.62,5.71,11.05,4.77,2.49,1.41,182.12,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_588,Parsley potato,,Indian Food,India,India,119.51,1.49,13.81,6.28,1.59,0.34,4.62,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_589,Creamed spinach and mushroom,,Indian Food,India,India,419.62,2.28,3.17,44.14,1.02,1.17,90.21,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_590,Fricassee of Mushroom,,Indian Food,India,India,106.66,3.65,8.13,6.63,1.23,2.51,118.98,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_591,Cauliflower au gratin,,Indian Food,India,India,145.9,4.45,9.13,10.2,1.44,3.01,164.96,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_592,Vegetable and cheese pie,,Indian Food,India,India,126.88,4.03,8.76,8.28,1.91,2.69,117.99,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_593,Spinach souffle,,Indian Food,India,India,150.18,7.36,6.27,10.52,1.44,0.89,244.07,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_594,Beetroot and egg salad (Chukandar aur ande ka salad),,Indian Food,India,India,84.92,3.36,3.4,6.45,0.55,1.97,110.12,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Non-Vegetarian
+IND_FOOD_595,Sour cream potato salad,,Indian Food,India,India,121.9,2.89,9.05,8.13,1.21,0.84,102.66,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_596,Tossed green salad,,Indian Food,India,India,49.88,1.33,3.82,3.24,1.33,1.9,65.09,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_597,Spring basket salad,,Indian Food,India,India,160.46,3.36,11.61,11.3,3.09,1.46,26.02,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_598,Cucumber and yogurt salad (Kheere aur dahi ka salad),,Indian Food,India,India,36.13,2.09,4.72,0.93,1.66,2.28,141.73,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_599,Chicken and tomato towers,,Indian Food,India,India,100.55,6.9,2.36,6.99,1.14,1.21,76.02,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Non-Vegetarian
+IND_FOOD_600,Jellied sunshine fruit salad,,Indian Food,India,India,48.86,5.85,4.21,0.85,1.8,2.86,74.2,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_601,Tomato aspic,,Indian Food,India,India,50.37,6.87,5.02,0.26,1.58,3.21,98.17,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_602,Frozen frosty fruit salad (Phalon ka salaad),,Indian Food,India,India,103.51,1.68,15.61,4.17,0.26,14.38,13.23,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_603,French dressing,,Indian Food,India,India,733.77,0.32,3.68,79.65,0.22,3.01,261.13,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_604,Mayonnaise without eggs,,Indian Food,India,India,329.05,2.13,3.98,33.84,0.04,3.68,193.58,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Non-Vegetarian
+IND_FOOD_605,Curd dressing,,Indian Food,India,India,78.8,5.59,8.03,2.9,0.22,7.57,204.62,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_606,Carrot raita (Gajar ka raita),,Indian Food,India,India,64.78,4.14,7.19,2.19,1.69,5.99,274.46,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_607,Pumpkin raita (Kaddu ka raita),,Indian Food,India,India,55.6,3.74,6.02,1.88,1.04,5.48,129.14,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_608,Mint and peanut raita (Pudinay aur moongfali ka raita),,Indian Food,India,India,112.05,7.05,7.31,6.19,1.79,6.17,223.01,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_609,Spinach raita (Palak ka raita),,Indian Food,India,India,52.75,3.95,5.06,1.86,1.39,3.97,126.57,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_610,Bathua raita,,Indian Food,India,India,54.4,4.13,5.31,1.76,2.19,4.11,110.92,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_611,Pineapple raita (Ananas ka raita),,Indian Food,India,India,67.74,3.9,8.62,2.02,1.39,8.12,135.48,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_612,Banana raita (Kele ka raita),,Indian Food,India,India,89.03,4.13,13.51,2.07,1.0,10.11,135.43,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_613,Mango raita (Aam ka raita),,Indian Food,India,India,67.37,3.9,8.23,2.14,0.89,7.87,135.46,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_614,Guava raita (Amarood ka raita),,Indian Food,India,India,64.36,4.19,7.27,2.07,3.0,6.71,135.94,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_615,Grapes raita (Angoor ka raita),,Indian Food,India,India,72.59,3.98,9.66,2.07,0.71,8.51,135.64,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_616,Bottle gourd kheer (Ghiya/Lauki kheer),,Indian Food,India,India,84.07,2.7,10.0,3.86,0.55,9.63,19.62,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_617,Pumpkin kheer (Kaddu ki kheer),,Indian Food,India,India,86.35,2.76,10.44,3.86,0.63,10.12,20.99,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_618,Apple kheer (Seb ki kheer),,Indian Food,India,India,81.3,2.14,11.34,3.18,0.51,10.71,15.86,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_619,Caramel custard (baked),,Indian Food,India,India,122.7,5.11,14.95,5.01,0.0,14.92,44.78,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_620,Vanilla ice cream without egg,,Indian Food,India,India,228.67,2.69,14.21,18.15,0.0,13.45,23.97,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Non-Vegetarian
+IND_FOOD_621,Vanilla ice cream with egg,,Indian Food,India,India,214.85,4.16,11.71,17.02,0.0,11.69,37.72,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Non-Vegetarian
+IND_FOOD_622,Strawberry ice cream,,Indian Food,India,India,215.61,4.15,12.26,16.96,0.0,11.6,37.62,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_623,Chocochip ice cream,,Indian Food,India,India,241.45,4.23,16.75,17.93,0.0,16.08,34.84,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_624,Choconut ice cream,,Indian Food,India,India,273.96,5.04,23.13,18.49,0.51,21.02,29.83,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_625,Pear chocholate sunday,,Indian Food,India,India,183.49,2.08,15.02,13.11,0.07,14.41,16.26,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_626,Chocolate sauce,,Indian Food,India,India,263.2,1.91,43.21,10.39,0.0,42.06,2.8,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_627,Coffee ice cream,,Indian Food,India,India,150.62,3.15,14.09,9.43,0.0,13.35,42.09,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_628,Coffee pear alaska,,Indian Food,India,India,203.99,2.88,19.36,13.22,0.15,16.88,51.11,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_629,Crunchy butterscotch,,Indian Food,India,India,277.32,3.11,19.92,20.99,0.47,17.73,22.24,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_630,Peach melba ice cream,,Indian Food,India,India,200.85,2.06,16.31,14.51,0.06,13.35,17.92,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_631,Vanilla ice cream with apples in hot cherry sauce,,Indian Food,India,India,196.32,1.73,22.75,11.45,0.26,14.19,31.54,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_632,Grape and orange whip,,Indian Food,India,India,57.39,1.41,6.72,2.62,0.97,5.66,14.36,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_633,Honey banana cream,,Indian Food,India,India,125.49,2.78,13.64,6.68,0.7,10.51,15.65,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_634,Raspberry bavarian cream,,Indian Food,India,India,150.1,3.34,17.82,7.88,2.19,15.3,24.59,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_635,Fruit delight,,Indian Food,India,India,107.09,2.09,9.11,7.09,0.09,9.03,17.27,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_636,Creamy chocolate mousse,,Indian Food,India,India,230.52,6.85,9.53,18.16,0.0,8.99,48.64,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_637,Cold lemon souffle,,Indian Food,India,India,169.87,5.89,15.62,9.78,0.0,13.88,46.35,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_638,Cold orange souffle,,Indian Food,India,India,173.19,5.94,16.27,9.82,0.11,14.42,46.53,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_639,Cold pineapple souffle,,Indian Food,India,India,181.22,6.23,16.85,10.39,0.0,14.99,49.38,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_640,Cold vanilla souffle,,Indian Food,India,India,179.54,6.22,16.29,10.32,0.0,14.49,49.09,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_641,Cold chocolate souffle,,Indian Food,India,India,187.53,6.37,17.22,10.86,0.0,15.31,47.77,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_642,Stewed fruit (with pear),,Indian Food,India,India,74.32,0.25,18.22,0.32,2.84,17.67,1.7,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_643,Apricot fool,,Indian Food,India,India,240.79,1.54,33.64,11.35,1.0,21.29,8.28,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_644,Pavlova,,Indian Food,India,India,200.6,1.84,21.84,12.29,0.06,20.37,26.34,,,,,100 g,100 g,Indian Food Composition Data,West Indian,Vegetarian
+IND_FOOD_645,Apple crumb pudding,,Indian Food,India,India,220.85,1.54,35.17,8.87,1.33,27.69,59.36,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_646,Steamed cake with chocolate sauce,,Indian Food,India,India,301.91,4.49,29.06,19.01,0.29,19.72,100.32,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_647,Hot lemon souffle,,Indian Food,India,India,155.25,5.29,16.31,7.93,0.14,12.07,47.75,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_648,Gulab jamun with milk powder,,Indian Food,India,India,471.15,0.85,28.24,40.15,0.05,27.04,67.28,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_649,Chum chum,,Indian Food,India,India,130.05,1.52,28.27,1.92,0.02,27.84,16.65,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_650,Dil bahar,,Indian Food,India,India,130.05,1.52,28.27,1.92,0.02,27.84,16.65,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_651,Rasbhari,,Indian Food,India,India,130.05,1.52,28.27,1.92,0.02,27.84,16.65,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_652,Rajbogh,,Indian Food,India,India,133.7,1.71,28.16,2.28,0.11,27.66,16.57,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_653,Rasgulla,,Indian Food,India,India,118.64,1.38,25.79,1.75,0.01,25.4,15.19,,,,,100 g,100 g,Indian Food Composition Data,East Indian,Vegetarian
+IND_FOOD_654,Rasmalai,,Indian Food,India,India,135.55,1.61,29.17,2.11,0.07,28.71,16.46,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_655,Khoa coconut burfi,,Indian Food,India,India,411.45,9.98,36.55,26.01,4.07,35.6,31.14,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_656,Danedar burfi,,Indian Food,India,India,102.68,3.24,12.33,4.72,0.09,11.98,23.31,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_657,Semolina burfi (Suji/Rava burfi),,Indian Food,India,India,348.67,3.47,47.1,16.86,2.8,28.67,8.33,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_658,Pumpkin coconut burfi (Kaddu aur nariyal ki burfi),,Indian Food,India,India,186.18,1.75,17.02,12.66,4.29,16.11,8.95,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_659,Khoa ladoo,,Indian Food,India,India,396.02,12.21,34.43,24.09,3.08,33.37,31.71,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_660,Wheat and gram flour ladoo (Atta besan ladoo),,Indian Food,India,India,501.7,9.38,50.5,29.86,6.01,18.46,27.06,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_661,Semolina ladoo with nuts (Suji/Rava ladoo with nuts),,Indian Food,India,India,441.84,5.44,48.02,25.45,4.27,19.79,3.93,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_662,Sesame chickpeas brittle (Til aur channe ki chikki),,Indian Food,India,India,282.74,8.5,50.49,4.66,5.54,36.48,17.93,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_663,Murmura chikki,,Indian Food,India,India,253.82,2.12,59.59,0.32,0.37,48.27,15.03,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_664,Masala onion pakora/pakoda (Pyaaz ke pakode),,Indian Food,India,India,551.64,2.05,6.48,57.61,1.44,1.58,99.22,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_665,Masala green chilli pakora/pakoda (Hari mirch kay pakode),,Indian Food,India,India,668.76,2.22,5.55,71.01,1.34,0.27,120.9,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_666,Chicken pakora/pakoda,,Indian Food,India,India,590.09,6.03,4.55,60.98,0.96,0.22,103.23,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Non-Vegetarian
+IND_FOOD_667,Fish pakora/pakoda,,Indian Food,India,India,577.03,5.97,4.55,59.52,0.96,0.22,112.24,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Non-Vegetarian
+IND_FOOD_668,Paneer cutlet,,Indian Food,India,India,672.2,4.59,7.62,69.38,0.39,2.52,91.45,,,,,100 g,100 g,Indian Food Composition Data,North Indian,Vegetarian
+IND_FOOD_669,Sago cutlet/vadas (Sabudana cutlet/vadas),,Indian Food,India,India,558.76,0.56,11.23,56.97,0.54,0.1,48.17,,,,,100 g,100 g,Indian Food Composition Data,South Indian,Vegetarian
+IND_FOOD_670,Poshtik cutlet,,Indian Food,India,India,496.45,2.0,7.39,50.94,1.35,0.32,57.11,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_671,Egg cutlet (Anda cutlet),,Indian Food,India,India,575.02,2.45,5.77,60.25,0.58,0.2,79.4,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Non-Vegetarian
+IND_FOOD_672,Minced meat cutlet,,Indian Food,India,India,531.86,5.1,5.61,54.47,0.4,0.31,95.81,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Non-Vegetarian
+IND_FOOD_673,Vegetable samosa,,Indian Food,India,India,443.11,2.21,13.22,42.22,1.52,0.74,107.7,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_674,Plain urad dal vada (Uzunne vada/Minapa garelu/Ulundu vadai/Medu vada),,Indian Food,India,India,745.5,4.39,9.7,76.32,2.27,0.16,65.87,,,,,100 g,100 g,Indian Food Composition Data,South Indian,Vegetarian
+IND_FOOD_675,Masala urad dal vada,,Indian Food,India,India,703.78,4.32,9.93,71.62,2.71,0.7,61.49,,,,,100 g,100 g,Indian Food Composition Data,South Indian,Vegetarian
+IND_FOOD_676,Khaman (dhokla),,Indian Food,India,India,54.73,1.92,5.36,2.8,1.49,1.36,124.1,,,,,100 g,100 g,Indian Food Composition Data,West Indian,Vegetarian
+IND_FOOD_677,Instant dhokla,,Indian Food,India,India,207.11,7.66,24.11,9.37,3.57,6.86,763.98,,,,,100 g,100 g,Indian Food Composition Data,West Indian,Vegetarian
+IND_FOOD_678,Tomato ginger chutney (Tamatar adarak ki chutney),,Indian Food,India,India,44.66,1.05,9.11,0.32,2.14,6.31,209.42,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_679,Mint tomato chutney (Pudinay aur tamatar ki chutney),,Indian Food,India,India,43.65,1.53,8.22,0.36,2.63,5.48,183.98,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_680,Coriander chutney (Hare dhaniye ki chutney),,Indian Food,India,India,42.86,1.38,8.16,0.37,2.47,5.5,186.64,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_681,Gooseberry chutney (Amla chutney),,Indian Food,India,India,43.02,1.44,8.83,0.62,4.58,0.06,215.09,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_682,Walnut chutney (Akhrot ki chutney),,Indian Food,India,India,370.43,9.44,8.91,33.46,3.04,4.4,160.0,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_683,Saunth/Sonth chutney with ginger,,Indian Food,India,India,84.22,0.28,20.62,0.11,0.31,19.04,222.53,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_684,Gun powder chutney,,Indian Food,India,India,312.34,21.55,47.65,2.67,13.95,1.16,195.67,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_685,Dessicated coconut chutney (Sookhe kase nariyal ki chutney),,Indian Food,India,India,346.36,12.88,36.72,15.88,13.16,10.41,321.07,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_686,Curd mint dip,,Indian Food,India,India,76.13,4.82,9.11,2.44,0.77,7.83,222.77,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_687,Curd vegetable dip,,Indian Food,India,India,56.21,3.88,6.04,1.94,0.63,5.42,132.48,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_688,Mayonnaise vegetable dip,,Indian Food,India,India,241.27,3.01,4.8,23.44,0.41,4.39,119.58,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_689,Tomato and cucumber sandwich (Tamatar aur kheere ka sandwich),,Indian Food,India,India,150.68,4.03,20.51,6.31,2.1,1.79,222.22,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_690,Tomato sandwich (grilled),,Indian Food,India,India,189.92,6.26,21.29,9.39,1.91,2.58,420.6,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_691,French sandwich (toasted),,Indian Food,India,India,186.75,6.82,14.82,11.51,1.37,1.82,274.68,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_692,Peanut butter cucumber sandwich,,Indian Food,India,India,243.33,9.04,29.76,10.56,3.35,2.91,460.09,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_693,Mint and peanut sandwich,,Indian Food,India,India,273.59,7.18,31.83,13.88,3.67,2.78,453.3,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_694,Spicy chutney sandwich,,Indian Food,India,India,249.58,8.74,34.03,9.58,3.73,3.96,315.4,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_695,Chicken walnut sandwich (Chicken aur akhrot ke sandwich),,Indian Food,India,India,285.78,12.58,22.62,16.77,1.53,1.77,287.39,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Non-Vegetarian
+IND_FOOD_696,Rolled sandwich,,Indian Food,India,India,293.07,6.45,34.69,15.29,2.07,2.7,321.57,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_697,Ribbon sandwich,,Indian Food,India,India,239.26,6.26,24.76,13.37,2.92,4.66,382.11,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_698,Checker board sandwich,,Indian Food,India,India,348.37,7.37,25.94,24.65,2.22,2.9,358.25,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_699,Submarine sandwich,,Indian Food,India,India,216.92,6.09,13.6,15.32,1.24,2.5,254.28,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_700,Cheese open sandwich,,Indian Food,India,India,274.07,9.84,28.42,14.24,1.74,3.24,504.41,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_701,Sunset and sunrise open sandwich,,Indian Food,India,India,241.31,8.58,18.89,15.14,1.39,1.95,381.29,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_702,Danish luncheon sandwich,,Indian Food,India,India,193.82,9.03,17.77,10.1,1.52,1.13,365.63,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_703,Chicken and corn open sandwich,,Indian Food,India,India,188.16,8.63,19.21,8.83,1.67,2.48,226.72,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Non-Vegetarian
+IND_FOOD_704,Chocolate sponge cake,,Indian Food,India,India,239.86,9.13,39.54,5.51,0.52,25.0,61.47,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_705,Chocolate swiss roll,,Indian Food,India,India,306.08,6.01,26.97,19.76,0.29,18.83,44.53,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_706,Lemon curd filling,,Indian Food,India,India,225.62,3.43,26.41,12.58,0.0,26.13,34.9,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_707,Jam filling,,Indian Food,India,India,184.62,0.0,46.15,0.0,0.0,41.54,0.0,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_708,Chocolate pastry,,Indian Food,India,India,243.37,7.05,32.24,10.12,0.32,22.34,46.54,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_709,Assorted pastry,,Indian Food,India,India,230.74,6.78,31.99,8.91,0.43,19.7,49.99,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_710,Orange gateau,,Indian Food,India,India,178.05,4.78,27.01,6.02,0.68,18.33,80.41,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_711,Black forest gateau,,Indian Food,India,India,217.82,5.94,30.57,8.58,0.28,21.97,79.37,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_712,Lemon cake,,Indian Food,India,India,373.85,5.29,43.1,20.63,0.62,25.84,151.29,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_713,Dundee cake,,Indian Food,India,India,396.62,7.78,41.4,22.7,1.81,21.3,182.74,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_714,Victorian sandwich cake,,Indian Food,India,India,373.09,5.18,44.74,19.83,0.59,28.18,145.28,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_715,Chocolate eggless cake,,Indian Food,India,India,312.01,6.66,43.45,13.19,0.32,34.2,196.61,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Non-Vegetarian
+IND_FOOD_716,Orange eggless cake,,Indian Food,India,India,355.62,7.16,52.65,13.82,0.56,37.87,226.28,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Non-Vegetarian
+IND_FOOD_717,Chocolate glace icing,,Indian Food,India,India,436.29,3.22,62.43,20.8,0.0,59.88,8.66,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_718,Butter icing,,Indian Food,India,India,500.72,0.19,71.64,25.37,0.0,71.64,5.98,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_719,Chocolate butter icing,,Indian Food,India,India,469.59,3.21,61.72,24.77,0.0,59.82,4.99,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_720,Almond biscuit (Badam ke biscuit),,Indian Food,India,India,407.74,6.25,52.14,19.7,1.5,22.19,151.76,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_721,Orange biscuit,,Indian Food,India,India,354.78,3.63,62.11,11.01,0.75,42.63,259.14,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_722,Gingerman biscuit,,Indian Food,India,India,357.43,6.26,55.24,12.73,2.0,21.64,918.57,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_723,Coffee drops,,Indian Food,India,India,443.07,7.57,43.06,27.16,1.88,18.27,88.17,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_724,Christmas biscuit,,Indian Food,India,India,406.07,5.67,60.97,15.88,2.17,26.01,127.36,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_725,Christmas wreath biscuit,,Indian Food,India,India,386.05,5.43,58.07,15.01,2.28,24.89,120.2,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_726,Christmas bell biscuit,,Indian Food,India,India,404.85,5.66,60.79,15.84,2.33,25.94,127.01,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_727,Christmas star biscuit,,Indian Food,India,India,392.03,3.54,74.54,10.04,1.47,53.05,76.09,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_728,Christmas tree biscuit,,Indian Food,India,India,385.63,5.43,58.41,15.0,2.65,24.77,120.45,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_729,Chocolate cream shells,,Indian Food,India,India,427.17,5.1,59.26,19.34,0.9,34.72,126.84,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_730,Jelly biscuit,,Indian Food,India,India,404.61,4.23,55.24,19.33,2.02,29.76,110.57,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_731,Cherry and walnut cookies,,Indian Food,India,India,422.6,5.63,59.35,18.75,1.3,30.37,114.62,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_732,Cheese straws,,Indian Food,India,India,382.0,9.83,30.61,24.28,1.29,1.79,587.42,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_733,Butterfly biscuit,,Indian Food,India,India,341.45,9.98,25.33,22.11,1.02,2.44,572.05,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_734,Flan pastry,,Indian Food,India,India,445.8,6.72,47.84,25.04,1.58,6.22,193.23,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_735,Fruit flan,,Indian Food,India,India,261.35,3.3,34.71,12.48,0.71,9.52,110.04,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_736,Orange cream flan,,Indian Food,India,India,280.28,4.73,36.16,13.59,0.63,25.27,82.41,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_737,Fruit puree tart,,Indian Food,India,India,286.5,3.35,30.42,16.83,1.31,9.79,49.65,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_738,Apple banana pie,,Indian Food,India,India,243.99,3.13,32.12,11.39,1.89,12.96,384.43,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_739,Lemon chiffon pie,,Indian Food,India,India,259.31,4.88,27.63,14.52,0.66,11.39,94.95,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_740,Orange chiffon pie,,Indian Food,India,India,207.57,3.89,23.14,11.16,0.7,10.46,73.23,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_741,Cream buns,,Indian Food,India,India,215.74,4.45,14.16,15.81,0.31,5.95,45.49,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_742,Savoury puffs,,Indian Food,India,India,190.79,9.51,10.8,15.24,0.33,4.51,2274.24,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_743,Choux swans,,Indian Food,India,India,216.34,4.35,14.92,15.6,0.35,6.13,145.08,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_744,Potato aigrettes,,Indian Food,India,India,530.03,2.35,8.01,54.24,0.45,0.73,112.45,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_745,Cream horns,,Indian Food,India,India,408.23,3.42,23.12,33.55,0.6,7.12,57.11,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_746,Savoury cheese horns,,Indian Food,India,India,295.15,5.66,21.38,20.71,0.73,2.74,212.28,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_747,Paneer patties,,Indian Food,India,India,338.58,7.6,22.79,23.96,1.18,4.04,158.44,,,,,100 g,100 g,Indian Food Composition Data,North Indian,Vegetarian
+IND_FOOD_748,Vegetable patties,,Indian Food,India,India,261.92,4.01,20.98,17.74,2.62,1.49,139.52,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_749,Pearl millet infant food (Bajra shishu aahaar),,Indian Food,India,India,362.44,11.98,62.1,6.62,7.84,26.06,12.67,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_750,Sajina,,Indian Food,India,India,345.26,10.81,66.87,3.03,7.62,25.89,11.7,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_751,Cereal mix,,Indian Food,India,India,120.81,3.32,21.84,2.02,2.03,10.68,9.29,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_752,Pulse mix,,Indian Food,India,India,83.29,3.16,16.0,0.54,2.25,6.59,3.88,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_753,Shishu ahar,,Indian Food,India,India,93.37,2.61,17.42,1.43,1.02,6.61,2.68,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_754,Cereal pulse mix with amylase rice flour,,Indian Food,India,India,151.57,4.27,27.8,2.74,3.47,8.84,1.03,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_755,Banana groundnut paste/puree,,Indian Food,India,India,213.19,4.27,36.15,5.45,1.7,31.67,16.85,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_756,Rice dal porridge (Chawal dal ki khichdi/khichri),,Indian Food,India,India,383.33,10.8,65.04,8.33,4.51,26.54,12.33,,,,,100 g,100 g,Indian Food Composition Data,West Indian,Vegetarian
+IND_FOOD_757,Lentils and semolina porridge (Dal suji porridge/daliya),,Indian Food,India,India,117.29,3.26,23.19,1.06,1.44,13.84,9.64,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_758,Spinach khichri (Palak khichri/khichdi),,Indian Food,India,India,102.18,3.43,17.35,1.91,1.56,0.21,69.59,,,,,100 g,100 g,Indian Food Composition Data,West Indian,Vegetarian
+IND_FOOD_759,Vegetable mix,,Indian Food,India,India,174.21,4.7,36.02,0.94,1.93,27.36,34.94,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_760,Lentils and wheat porridge (Dal wheat porridge/daliya ),,Indian Food,India,India,52.54,2.71,8.36,0.94,1.28,0.92,62.79,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_761,Maize porridge,,Indian Food,India,India,89.57,2.14,15.64,1.89,1.68,7.69,5.59,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_762,Spinach peanut burfi (Palak aur mungfali ki burfi),,Indian Food,India,India,105.37,3.36,13.59,4.39,2.07,11.5,19.52,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_763,Split bengal gram burfi/fudge (Channa dal burfi),,Indian Food,India,India,287.36,4.65,54.63,7.09,2.06,43.38,2.53,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_764,Chickpea flour cookies (Sweet besan rounds/cookies),,Indian Food,India,India,207.01,4.29,39.64,3.42,2.56,30.66,22.29,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_765,Pearl millet mathri (Bajra mathri),,Indian Food,India,India,785.08,1.82,7.42,83.12,1.36,0.16,33.17,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_766,Sesame biscuit (Til ke biscuit),,Indian Food,India,India,424.03,8.27,53.65,19.34,6.83,29.73,182.26,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_767,Fermented bengal gram vada (Khameerikrit/Ufna hua channa dal ka vada),,Indian Food,India,India,657.57,4.05,8.68,67.19,2.65,0.35,63.87,,,,,100 g,100 g,Indian Food Composition Data,South Indian,Vegetarian
+IND_FOOD_768,Poshtik namak paras,,Indian Food,India,India,613.39,6.49,19.52,56.58,4.55,0.87,44.01,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_769,Soya chikki,,Indian Food,India,India,423.7,7.18,62.89,15.51,3.55,45.47,17.24,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_770,Besan bathua chilla/cheela,,Indian Food,India,India,373.82,11.48,40.65,18.57,7.79,1.45,166.36,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_771,Wheat flour and nuts ladoos (Atta nuts ladoos),,Indian Food,India,India,391.9,9.46,44.31,19.19,7.3,15.94,8.07,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_772,Gram flour and semolina dhokla (Besan suji dhokla),,Indian Food,India,India,198.91,8.52,25.92,7.1,4.59,2.58,196.59,,,,,100 g,100 g,Indian Food Composition Data,West Indian,Vegetarian
+IND_FOOD_773,Atta dal burfi,,Indian Food,India,India,298.8,6.66,40.64,12.47,4.08,21.08,3.56,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_774,Soya roti,,Indian Food,India,India,283.96,9.18,40.03,9.23,8.71,1.58,155.93,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_775,Poshtik khichdi/khichri,,Indian Food,India,India,93.37,3.04,15.64,1.88,2.0,0.26,41.67,,,,,100 g,100 g,Indian Food Composition Data,West Indian,Vegetarian
+IND_FOOD_776,Namkeen daliya,,Indian Food,India,India,295.11,8.29,49.32,7.99,8.57,0.82,149.63,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_777,Sprouts upma,,Indian Food,India,India,316.25,9.5,44.96,10.44,7.16,1.67,147.82,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_778,Semolina idli (Suji/Rava idli),,Indian Food,India,India,206.39,9.34,33.67,3.47,5.85,3.42,185.02,,,,,100 g,100 g,Indian Food Composition Data,South Indian,Vegetarian
+IND_FOOD_779,Poshtik chilla/cheela,,Indian Food,India,India,159.53,4.85,27.47,3.04,4.91,1.22,97.18,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_780,Stuffed bittergourd (dry) (Bharwa karela),,Indian Food,India,India,217.65,1.29,2.49,22.38,3.0,0.07,519.29,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_781,Cauliflower potato canjee,,Indian Food,India,India,16.79,0.57,2.63,0.39,0.69,0.13,35.58,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_782,Creamed spinach,,Indian Food,India,India,96.91,5.18,4.44,6.39,1.33,1.59,156.02,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_783,Mango milkshake with ice cream (Aam milkshake ice cream ke saath),,Indian Food,India,India,68.35,1.93,9.18,2.8,0.23,9.11,16.64,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_784,Pineapple milkshake with ice cream (Ananas milkshake ice cream ke saath),,Indian Food,India,India,68.49,1.93,9.33,2.75,0.42,9.2,16.65,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_785,Orange milkshake with ice cream (Narangi milkshake ice cream ke saath),,Indian Food,India,India,67.82,1.95,9.15,2.75,0.16,9.0,16.65,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_786,Woodapple juice (Bel ka sharbat),,Indian Food,India,India,34.18,0.63,6.51,0.7,1.03,5.75,127.45,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_787,Sattu drink,,Indian Food,India,India,23.38,0.56,5.16,0.14,0.4,3.96,12.65,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_788,Apple and honey sorbet (Seb aur shehad ka sharbat),,Indian Food,India,India,121.3,0.15,30.74,0.29,1.13,29.18,1.97,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_789,Thandai,,Indian Food,India,India,101.18,3.59,9.13,5.89,0.8,8.21,22.69,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_790,Cucumber sharbat (Kheere ka sharbat),,Indian Food,India,India,27.28,0.26,6.64,0.06,0.78,5.46,2.57,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_791,Apple oats chia seed smoothie,,Indian Food,India,India,85.64,3.49,13.07,2.48,1.44,5.76,32.02,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_792,Nannari sharbat,,Indian Food,India,India,88.79,0.01,23.62,0.01,0.0,23.58,1.16,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_793,Semolina milk drink (Thari kanji),,Indian Food,India,India,44.16,0.98,6.93,1.36,0.72,3.88,11.95,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_794,Saffron milk (Kesariya doodh),,Indian Food,India,India,102.18,3.17,12.64,4.57,0.14,12.5,23.69,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_795,Black rice kheer (Chak-hao kheer),,Indian Food,India,India,147.94,4.37,22.93,4.91,0.76,12.57,25.77,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_796,Coconut kheer (Nariyal ki kheer),,Indian Food,India,India,162.61,3.4,14.42,10.55,1.53,13.73,45.97,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_797,Apple sago payasam (Seb aur sabudana ki kheer),,Indian Food,India,India,136.5,3.13,14.4,7.66,0.38,10.63,39.45,,,,,100 g,100 g,Indian Food Composition Data,South Indian,Vegetarian
+IND_FOOD_798,Kesari bath,,Indian Food,India,India,244.57,2.4,31.38,12.59,1.65,20.16,1.7,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_799,Putharekulu,,Indian Food,India,India,318.3,3.66,59.61,7.55,1.75,23.86,2.67,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_800,Mango malpua,,Indian Food,India,India,334.64,1.65,12.84,30.67,2.08,4.96,1.89,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_801,Mango vanilla custard,,Indian Food,India,India,147.63,3.43,18.41,7.04,0.99,14.62,30.12,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_802,Kiwi granola pudding,,Indian Food,India,India,280.99,5.6,32.33,15.36,3.71,15.08,59.21,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_803,Oats burfi,,Indian Food,India,India,425.19,8.89,62.47,17.27,4.96,32.93,8.15,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_804,Lotus seed halwa (Kamal gattay ka halwa),,Indian Food,India,India,370.55,7.79,39.56,20.69,0.42,9.8,3.06,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_805,Amaranth ladoo (Rajgira ladoo),,Indian Food,India,India,454.15,10.12,51.33,22.7,5.11,19.92,7.51,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_806,Chhena poda,,Indian Food,India,India,344.57,13.68,33.64,17.94,1.4,30.65,13.0,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_807,Sweet couscous dessert,,Indian Food,India,India,196.2,3.81,29.69,7.69,2.18,15.89,4.22,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_808,Sweetened yogurt (Shrikhand),,Indian Food,India,India,107.18,5.27,16.02,2.89,0.08,15.81,73.61,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_809,Thickened sweetened milk (Rabri),,Indian Food,India,India,102.79,3.52,10.55,5.35,0.19,10.09,23.92,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_810,Gram flour halwa (Besan halwa),,Indian Food,India,India,276.79,5.88,25.78,17.3,1.82,15.83,15.4,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_811,Prawn sandwich,,Indian Food,India,India,169.65,10.36,11.89,9.27,1.55,1.21,213.38,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Non-Vegetarian
+IND_FOOD_812,Watercress sandwich,,Indian Food,India,India,229.42,5.17,28.03,11.47,2.26,1.81,407.44,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_813,Fish sandwich,,Indian Food,India,India,150.2,4.72,10.09,10.37,1.23,1.04,161.88,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Non-Vegetarian
+IND_FOOD_814,Kidney bean sandwich with cottage cheese,,Indian Food,India,India,176.64,9.85,18.86,6.84,3.66,3.69,97.97,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_815,Finger millet biscuit (Ragi biscuit),,Indian Food,India,India,458.56,4.03,52.69,25.79,5.97,16.9,98.24,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_816,Buttermilk biscuit,,Indian Food,India,India,322.54,5.76,34.93,17.5,1.18,3.44,323.74,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_817,Lemon cookies,,Indian Food,India,India,394.48,5.63,42.19,23.02,0.78,23.47,84.71,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_818,Sweet potato biscuit (Shakarkand ke biscuit),,Indian Food,India,India,296.4,5.14,38.13,13.31,2.27,2.53,339.58,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_819,Raspberry shortbread cookies,,Indian Food,India,India,441.12,3.0,61.25,21.25,0.75,40.86,6.06,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_820,Pumpkin cookies,,Indian Food,India,India,218.4,2.51,44.69,3.93,1.06,31.62,51.49,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_821,Greenpea cookies,,Indian Food,India,India,159.42,6.53,23.07,4.24,5.32,14.45,229.9,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_822,Sunflower cookies,,Indian Food,India,India,520.62,9.49,40.06,36.28,3.95,24.28,181.68,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_823,Cardamom cookies (Elaichi cookies),,Indian Food,India,India,400.49,5.1,53.99,19.12,2.79,38.99,98.45,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_824,Hazelnut cookies,,Indian Food,India,India,493.32,6.25,39.44,34.97,2.45,22.01,81.06,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_825,Milk cookies,,Indian Food,India,India,459.43,10.49,48.43,24.96,0.99,22.06,156.53,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_826,Cranberry cookies,,Indian Food,India,India,272.48,3.92,36.39,12.66,1.13,19.96,58.25,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_827,Olive biscuit,,Indian Food,India,India,438.29,3.2,55.01,23.75,0.82,32.27,120.1,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_828,Tutti fruitti biscuit,,Indian Food,India,India,420.78,5.21,53.12,17.9,5.43,15.75,93.11,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_829,Peach blueberry preserves,,Indian Food,India,India,177.38,0.53,45.76,0.2,1.14,45.33,2.81,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_830,Pear preserves (Naashpati ka murabba),,Indian Food,India,India,101.24,0.25,25.67,0.19,3.06,25.19,2.1,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_831,Starfruit preserves,,Indian Food,India,India,128.93,0.24,33.62,0.12,0.78,33.47,2.06,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_832,Gooseberry pickle (Amla ka achaar),,Indian Food,India,India,278.58,1.55,7.61,27.61,3.7,0.36,86.38,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_833,Lotus stem pickle (Kamal kakdi ka achar),,Indian Food,India,India,102.69,1.44,20.07,1.6,8.58,2.53,181.83,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_834,Date pickle (Khajoor ka achaar),,Indian Food,India,India,182.29,1.68,34.66,4.21,5.2,30.47,138.86,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_835,Garlic pickle (Lahasun ka achar),,Indian Food,India,India,413.62,3.72,9.75,39.88,5.13,2.32,269.12,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_836,Fermented bamboo shoot pickle (Mesu pickle),,Indian Food,India,India,59.83,1.58,1.73,5.59,2.24,0.29,161.31,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_837,Sweet peach pickle (Aadoo ka achaar),,Indian Food,India,India,144.64,0.46,37.01,0.2,1.32,36.46,33.04,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_838,Pickled mustard greens,,Indian Food,India,India,13.12,1.51,1.05,0.22,1.7,0.02,242.36,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_839,Small onion pickle,,Indian Food,India,India,16.86,1.65,2.76,0.64,1.09,2.99,249.48,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_840,Green tomato pickle (Haray tamatar ka achaar),,Indian Food,India,India,193.26,1.23,2.87,19.67,1.74,0.77,159.18,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_841,Pickled cabbage,,Indian Food,India,India,13.69,0.39,2.56,0.14,0.61,2.08,121.39,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_842,Coconut pickle (Nariyal ka aachar),,Indian Food,India,India,517.26,3.02,11.53,51.71,6.35,8.98,176.54,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_843,Potato pickle (Aloo ka achaar),,Indian Food,India,India,369.14,2.07,7.87,36.46,2.21,0.82,213.73,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_844,Mango murabba candy,,Indian Food,India,India,293.35,0.27,77.32,0.05,0.95,74.73,13.71,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_845,Afghani chicken,,Indian Food,India,India,151.51,15.66,1.95,9.07,0.31,0.83,87.02,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Non-Vegetarian
+IND_FOOD_846,Fish orly,,Indian Food,India,India,563.7,5.87,4.27,58.18,0.33,0.24,136.37,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Non-Vegetarian
+IND_FOOD_847,Hariyali Fish Tikka,,Indian Food,India,India,150.24,14.01,2.21,9.41,0.99,0.83,100.45,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Non-Vegetarian
+IND_FOOD_848,Chicken manchurian,,Indian Food,India,India,142.34,9.53,6.06,11.96,0.41,0.9,2414.77,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Non-Vegetarian
+IND_FOOD_849,Handi chicken,,Indian Food,India,India,166.02,12.32,1.49,12.46,0.67,0.75,75.64,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Non-Vegetarian
+IND_FOOD_850,Lemon chicken,,Indian Food,India,India,169.79,20.2,0.55,9.66,0.16,0.16,79.93,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Non-Vegetarian
+IND_FOOD_851,Lemon butter fish,,Indian Food,India,India,160.25,16.38,0.75,10.26,0.36,0.23,187.72,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Non-Vegetarian
+IND_FOOD_852,Baked eggs in tomato sauce,,Indian Food,India,India,80.05,4.92,3.78,5.22,0.01,2.03,188.21,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Non-Vegetarian
+IND_FOOD_853,Egg in a pepper,,Indian Food,India,India,128.78,12.64,0.17,8.68,0.17,0.05,183.89,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Non-Vegetarian
+IND_FOOD_854,Spinach mushroom scrambled egg (Palak mushroom bhurji),,Indian Food,India,India,158.85,13.28,0.59,11.51,0.39,0.1,227.97,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Non-Vegetarian
+IND_FOOD_855,Corn omelette/omlet,,Indian Food,India,India,166.93,11.37,1.57,12.89,0.02,0.41,166.42,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_856,Cajun chicken,,Indian Food,India,India,184.94,12.69,1.94,13.99,0.89,1.1,1740.13,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Non-Vegetarian
+IND_FOOD_857,Paaner do pyaza,,Indian Food,India,India,127.7,4.22,3.41,10.87,0.84,2.2,160.66,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_858,Cabbage manchurian (Pattagobhi manchurian),,Indian Food,India,India,224.26,0.64,4.85,22.48,0.37,0.33,75.02,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_859,Gobi 65,,Indian Food,India,India,278.29,0.56,3.59,29.11,0.57,0.29,69.22,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_860,Paneer lababdar,,Indian Food,India,India,105.48,3.98,3.37,8.46,1.16,1.96,142.45,,,,,100 g,100 g,Indian Food Composition Data,North Indian,Vegetarian
+IND_FOOD_861,Roasted cauliflower steak,,Indian Food,India,India,78.68,2.05,2.02,6.7,3.53,0.44,120.19,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_862,Sauteed radishes with green beans,,Indian Food,India,India,94.32,2.41,6.04,6.61,3.52,1.78,65.1,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_863,Garlic chutney/Poondu chutney (Lahasun ki chutney),,Indian Food,India,India,255.51,3.34,20.44,17.55,5.15,13.36,177.62,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_864,Schezwan chutney,,Indian Food,India,India,205.19,3.33,10.79,17.72,5.72,5.66,486.27,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_865,Onion chutney (Pyaaz ki chutney/Vengaya chutney),,Indian Food,India,India,143.94,2.97,13.52,8.38,4.6,6.8,256.89,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_866,Dates chutney (Khajoor ki chutney),,Indian Food,India,India,103.57,1.07,21.69,1.12,3.41,18.68,76.77,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_867,Chicken salad,,Indian Food,India,India,338.19,15.33,1.3,30.26,2.0,0.96,50.62,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Non-Vegetarian
+IND_FOOD_868,Macaroni salad,,Indian Food,India,India,262.19,5.02,21.63,17.78,0.56,3.73,163.99,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_869,Cabbage raita (Pattagobhi raita),,Indian Food,India,India,84.84,3.24,5.25,5.76,0.93,4.21,125.31,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_870,Pomegranate raita (Anaar ka raita),,Indian Food,India,India,72.64,4.05,7.15,3.24,0.6,7.01,195.18,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_871,Onion raita (Pyaaz ka raita),,Indian Food,India,India,71.56,4.86,7.86,2.43,0.65,7.07,189.96,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_872,Green chilli raita (Hari mirch ka raita),,Indian Food,India,India,77.13,5.58,7.66,2.92,0.26,7.49,161.31,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_873,Kale salad,,Indian Food,India,India,177.71,4.86,5.01,15.33,1.36,3.31,292.04,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_874,Spinach and paneer souffle,,Indian Food,India,India,186.19,7.56,9.64,13.49,1.07,2.81,434.68,,,,,100 g,100 g,Indian Food Composition Data,North Indian,Vegetarian
+IND_FOOD_875,Masala souffle,,Indian Food,India,India,123.51,6.38,8.02,7.37,1.24,1.84,131.14,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_876,Chicken and cheese souffle,,Indian Food,India,India,182.35,9.07,3.47,14.74,0.26,2.46,120.93,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Non-Vegetarian
+IND_FOOD_877,Tamarind chutney (Chintapandu pachadi/Puli chutney),,Indian Food,India,India,109.15,0.88,25.07,0.48,1.65,22.85,75.61,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_878,Pav bhaji masala,,Indian Food,India,India,230.47,9.13,29.15,10.96,24.3,1.48,1814.66,,,,,100 g,100 g,Indian Food Composition Data,West Indian,Vegetarian
+IND_FOOD_879,Green chutney,,Indian Food,India,India,79.42,5.42,10.01,1.6,5.84,0.92,262.81,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_880,Sago khitchdi/khichri (Sabudana khitchdi/khichri),,Indian Food,India,India,187.16,2.72,22.41,10.1,1.82,1.03,100.26,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_881,Gram flour chilla/cheela (Besan chilla/cheela),,Indian Food,India,India,135.93,7.8,21.03,2.85,4.25,1.87,135.57,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_882,Vegetable namkeen jave,,Indian Food,India,India,112.23,2.93,18.98,2.51,2.86,1.04,32.13,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_883,Khakhra,,Indian Food,India,India,178.5,4.78,27.66,5.32,5.43,0.88,184.16,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_884,Moong bean dosa (Pesarattu),,Indian Food,India,India,285.96,12.32,31.91,11.67,6.04,2.9,61.36,,,,,100 g,100 g,Indian Food Composition Data,South Indian,Vegetarian
+IND_FOOD_885,Methi thepla,,Indian Food,India,India,346.16,8.98,41.34,15.95,7.56,2.98,543.27,,,,,100 g,100 g,Indian Food Composition Data,West Indian,Vegetarian
+IND_FOOD_886,Rice puttu (Ari puttu),,Indian Food,India,India,81.98,1.26,11.82,3.13,0.76,0.33,48.28,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_887,Buckwheat pancake (Khura),,Indian Food,India,India,263.3,2.91,27.28,16.43,0.56,0.64,69.97,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_888,Quinoa khichdi/khichri,,Indian Food,India,India,64.01,3.18,8.83,1.59,2.58,0.69,69.64,,,,,100 g,100 g,Indian Food Composition Data,West Indian,Vegetarian
+IND_FOOD_889,Khakhra chaat,,Indian Food,India,India,358.66,4.52,16.64,30.65,3.04,3.26,102.78,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_890,Banana appam,,Indian Food,India,India,469.81,1.17,20.06,42.53,0.67,9.95,20.14,,,,,100 g,100 g,Indian Food Composition Data,South Indian,Vegetarian
+IND_FOOD_891,Veg manchurian,,Indian Food,India,India,585.64,0.89,6.82,61.65,1.16,0.76,65.31,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_892,Pav bhaji,,Indian Food,India,India,96.53,2.66,11.99,4.32,1.98,2.06,163.89,,,,,100 g,100 g,Indian Food Composition Data,West Indian,Vegetarian
+IND_FOOD_893,Rice murukku,,Indian Food,India,India,593.99,5.41,33.29,48.22,2.18,0.17,63.31,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_894,Bhel puri,,Indian Food,India,India,509.89,3.52,16.47,47.91,2.24,3.41,93.98,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_895,Semolina dhokla (Suji/Rava dhokla),,Indian Food,India,India,194.91,5.44,30.86,5.2,5.12,1.85,443.39,,,,,100 g,100 g,Indian Food Composition Data,West Indian,Vegetarian
+IND_FOOD_896,Spicy corn chaat,,Indian Food,India,India,479.8,4.61,11.45,46.55,2.17,0.95,86.5,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_897,Jackfruit fritters (Ponsa mulik/Kathal ka pakora),,Indian Food,India,India,597.79,2.34,24.0,54.41,1.5,11.48,46.39,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_898,Banana chips (Kele ke chips),,Indian Food,India,India,665.67,0.37,7.32,70.46,0.65,4.37,86.87,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_899,Wheat cake,,Indian Food,India,India,314.63,4.79,41.13,14.95,2.76,25.79,82.96,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_900,Mango cheesecake,,Indian Food,India,India,152.46,2.39,20.06,7.3,1.14,15.36,107.12,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_901,Carrot cake (Gajar ka cake),,Indian Food,India,India,255.59,5.6,35.98,10.27,2.93,23.96,158.74,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_902,Semolina cake (Suji/Rava cake),,Indian Food,India,India,374.14,6.58,31.32,25.18,5.37,18.86,91.36,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_903,Finger millet cake (Ragi cake),,Indian Food,India,India,279.46,3.96,38.93,12.27,2.35,24.76,98.26,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_904,Honey cake,,Indian Food,India,India,333.59,3.08,49.04,14.7,0.51,33.43,72.55,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_905,Almond cardamom cake (Badam elaichi cake),,Indian Food,India,India,356.35,7.18,34.53,21.36,2.35,18.06,155.37,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_906,Tutti frutti cake,,Indian Food,India,India,347.72,4.49,52.94,12.68,0.85,28.08,106.36,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_907,Ham and Bean soup,,Indian Food,India,India,96.04,10.61,4.18,4.15,0.54,1.43,378.14,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_908,Whey soup,,Indian Food,India,India,68.91,3.45,6.26,3.34,0.84,5.87,87.08,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_909,Bottle gourd soup (Ghiya/Lauki soup),,Indian Food,India,India,23.05,0.45,1.16,1.79,0.96,0.39,53.81,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_910,Baked potato soup,,Indian Food,India,India,147.05,5.73,5.85,11.21,0.3,3.44,268.69,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_911,Pumpkin soup,,Indian Food,India,India,40.05,0.47,2.08,3.2,1.19,1.47,45.5,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_912,Sweet corn soup,,Indian Food,India,India,32.25,0.99,3.56,1.63,0.31,0.9,22.35,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_913,Paneer soup,,Indian Food,India,India,47.85,3.22,2.42,2.8,0.28,1.98,68.03,,,,,100 g,100 g,Indian Food Composition Data,North Indian,Vegetarian
+IND_FOOD_914,Curried Cauliflower soup,,Indian Food,India,India,37.32,6.72,3.12,9.77,2.34,1.79,7311.44,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_915,Millet soup,,Indian Food,India,India,55.99,11.26,8.22,12.57,2.82,1.45,10918.83,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_916,Lemon coriander soup,,Indian Food,India,India,108.06,2.27,10.32,6.26,6.77,2.2,219.17,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_917,Garlic soup,,Indian Food,India,India,194.86,2.38,6.99,17.62,1.66,2.39,179.26,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_918,Dal makhani,,Indian Food,India,India,74.04,3.32,7.96,3.06,2.27,0.8,41.85,,,,,100 g,100 g,Indian Food Composition Data,North Indian,Vegetarian
+IND_FOOD_919,Dalma,,Indian Food,India,India,118.93,4.91,15.04,4.58,2.16,3.1,49.35,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_920,Split bengal gram dal (Channa dal),,Indian Food,India,India,99.67,4.15,9.99,4.62,3.72,0.98,46.4,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_921,Horsegram dal (Kulthi dal),,Indian Food,India,India,55.65,2.91,8.21,1.13,1.52,0.72,63.63,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_922,Panchmel dal,,Indian Food,India,India,111.22,4.63,10.71,5.36,3.2,0.75,79.46,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_923,Dal dhokli,,Indian Food,India,India,68.74,2.96,8.55,2.47,1.86,1.12,37.53,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_924,Gujarati handvo,,Indian Food,India,India,207.09,8.24,31.86,4.8,4.95,2.51,308.55,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_925,Sev (Omapodi/Karapusa),,Indian Food,India,India,609.14,5.12,12.87,60.08,2.35,0.53,53.19,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_926,Papdi,,Indian Food,India,India,708.96,1.83,12.89,72.11,0.56,0.31,28.91,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_927,Jowar dosa,,Indian Food,India,India,294.35,8.5,40.53,10.28,5.56,0.59,97.25,,,,,100 g,100 g,Indian Food Composition Data,South Indian,Vegetarian
+IND_FOOD_928,Bread roll,,Indian Food,India,India,435.46,2.85,16.12,40.25,1.45,0.94,139.34,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_929,Soya seekh kebab,,Indian Food,India,India,115.05,5.4,10.0,5.88,2.24,0.51,92.25,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_930,Classic seasoned black beans,,Indian Food,India,India,28.78,8.01,7.66,8.28,3.51,0.44,7989.07,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_931,Maa chaane ki dal,,Indian Food,India,India,344.67,19.8,43.11,9.5,13.45,1.05,43.31,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_932,Garlic chickpea soup (Lahasun aur chane ka shoraba),,Indian Food,India,India,89.53,4.45,13.92,2.01,2.84,2.65,79.73,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_933,White sauce (thin),,Indian Food,India,India,115.17,3.31,6.58,8.41,0.07,4.58,23.91,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_934,White sauce (medium),,Indian Food,India,India,151.27,3.36,7.98,11.76,0.14,4.32,22.59,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_935,White sauce (thick),,Indian Food,India,India,209.69,3.43,10.24,17.19,0.24,3.9,20.45,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_936,Cheese sauce,,Indian Food,India,India,194.76,7.68,7.08,15.12,0.12,4.53,317.38,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_937,Egg sauce,,Indian Food,India,India,146.85,5.97,5.88,11.08,0.12,3.19,51.54,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Non-Vegetarian
+IND_FOOD_938,Mushroom sauce,,Indian Food,India,India,137.56,3.39,7.31,10.51,0.47,3.86,20.94,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_939,Mustard sauce,,Indian Food,India,India,158.58,3.98,8.29,12.17,0.13,4.22,22.16,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_940,Brown sauce,,Indian Food,India,India,109.18,11.92,5.38,23.67,1.69,0.13,14174.59,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_941,Classic italian pasta,,Indian Food,India,India,42.12,0.57,4.4,2.45,1.36,2.94,49.04,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_942,Pasta spinach sauce,,Indian Food,India,India,85.46,1.76,1.76,7.9,0.86,1.04,115.79,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_943,Pasta cheese sauce,,Indian Food,India,India,149.26,4.33,9.0,10.84,0.14,4.22,255.95,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_944,Mayonnaise,,Indian Food,India,India,774.86,1.86,1.65,84.52,0.11,1.44,272.89,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_945,Low calorie quick mayonnaise,,Indian Food,India,India,242.89,1.41,4.71,24.35,0.06,0.83,165.94,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_946,Thousand island dressing,,Indian Food,India,India,407.87,1.37,4.49,42.87,0.46,3.1,946.1,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_947,Curd dip,,Indian Food,India,India,79.95,5.04,7.95,3.36,0.1,7.12,301.07,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_948,Short crust pastry,,Indian Food,India,India,422.1,6.11,44.72,23.98,1.58,3.18,97.2,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_949,Choux pastry,,Indian Food,India,India,222.37,5.55,16.2,14.96,0.56,1.5,132.28,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_950,Flaky pastry,,Indian Food,India,India,443.94,4.69,33.61,31.99,1.25,0.81,178.52,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_951,Sponge cake,,Indian Food,India,India,253.77,9.18,44.63,4.74,0.69,26.33,64.61,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_952,Glace icing,,Indian Food,India,India,323.51,0.01,86.31,0.01,0.0,85.35,9.88,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_953,Royal icing,,Indian Food,India,India,332.58,1.74,86.53,0.02,0.0,85.57,36.5,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_954,American frosting,,Indian Food,India,India,257.57,1.05,67.48,0.01,0.0,67.46,19.33,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_955,Gum icing,,Indian Food,India,India,223.07,5.94,53.19,0.0,0.0,52.63,29.32,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_956,Channa murmura premix,,Indian Food,India,India,339.09,10.59,72.59,3.28,8.21,1.52,206.28,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_957,Cracked wheat and green gram dal premix (Dalia moong dal premix),,Indian Food,India,India,362.16,15.89,64.75,5.11,11.66,0.63,3.25,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_958,Rice flakes and roasted channa,,Indian Food,India,India,333.4,10.57,71.94,2.94,8.84,1.31,205.51,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_959,Spinach soup in milk,,Indian Food,India,India,56.72,2.89,3.98,3.2,0.79,3.34,31.16,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_960,Vegetable soup,,Indian Food,India,India,55.21,2.22,7.6,1.55,3.01,1.61,170.68,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_961,Mashed banana with milk,,Indian Food,India,India,95.43,2.51,14.62,2.99,0.71,11.35,16.99,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_962,Poha with curd (Poha aur dahi),,Indian Food,India,India,173.32,6.01,26.72,4.65,1.09,5.46,325.07,,,,,100 g,100 g,Indian Food Composition Data,West Indian,Vegetarian
+IND_FOOD_963,Potato with curd,,Indian Food,India,India,73.18,3.19,12.01,1.33,1.02,3.3,190.9,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_964,Sweet wheat porridge (Sweet dalia),,Indian Food,India,India,140.66,5.11,23.77,2.79,2.37,12.23,24.63,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_965,Vegetable khichdi/khichri,,Indian Food,India,India,143.17,5.61,19.57,4.53,2.45,3.71,193.55,,,,,100 g,100 g,Indian Food Composition Data,West Indian,Vegetarian
+IND_FOOD_966,Moong dal mixture,,Indian Food,India,India,158.84,4.62,33.93,1.0,1.9,24.68,29.6,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_967,Cracked wheat khichri/khichdi (Dalia khichri/khichdi),,Indian Food,India,India,167.45,7.56,22.35,5.52,3.74,3.79,224.95,,,,,100 g,100 g,Indian Food Composition Data,West Indian,Vegetarian
+IND_FOOD_968,Stewed apple,,Indian Food,India,India,91.93,0.17,22.49,0.37,1.48,20.45,1.53,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_969,Lemon squash (Nimbu ka squash),,Indian Food,India,India,184.56,0.15,48.88,0.06,0.0,48.88,15.01,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_970,Orange squash (Santre ka squash),,Indian Food,India,India,193.26,0.22,50.88,0.04,0.4,50.56,14.85,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_971,Lichi squash,,Indian Food,India,India,198.33,0.3,51.96,0.08,0.41,51.31,14.56,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_972,Mango squash (Aam ka squash),,Indian Food,India,India,194.66,0.17,50.96,0.17,0.58,50.84,14.81,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_973,Pineapple squash (Ananas ka squash),,Indian Food,India,India,195.02,0.16,51.34,0.05,1.06,51.08,14.84,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_974,Lemon and ginger squash (Nimbu aur adrak ka squash),,Indian Food,India,India,170.34,0.54,44.06,0.21,1.07,42.53,16.19,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_975,Apple jam (Seb ka murabba),,Indian Food,India,India,188.79,0.14,48.56,0.32,1.29,46.76,2.71,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_976,Plum jam (Aloo bukhara jam),,Indian Food,India,India,178.89,0.31,46.2,0.19,1.0,45.25,2.67,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_977,Pineapple jam,,Indian Food,India,India,149.18,0.32,38.27,0.15,2.2,37.44,2.45,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_978,Guava jelly (Amrood ki jelly),,Indian Food,India,India,115.74,1.11,28.18,0.25,6.61,27.38,3.36,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_979,Orange marmalade (Santray ka murabba),,Indian Food,India,India,104.17,0.66,25.94,0.13,1.97,25.09,2.31,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_980,Carrot murabba (Gajar ka murabba),,Indian Food,India,India,175.24,0.32,45.6,0.16,1.39,44.83,19.53,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_981,Gooseberry marmalade (Amla murabba),,Indian Food,India,India,123.16,0.14,32.34,0.03,0.0,28.61,216.89,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_982,Ginger candy (Adrak ki candy),,Indian Food,India,India,195.71,0.69,50.38,0.27,1.67,47.99,5.4,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_983,Mango pickle (Aam ka achaar),,Indian Food,India,India,192.12,1.6,8.11,17.89,3.68,1.79,3429.94,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_984,Mixed vegetable pickle (Sabziyoon ka achaar),,Indian Food,India,India,211.2,1.9,7.48,19.68,2.76,2.77,2488.32,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_985,Sweet lemon pickle (Neembu ka meetha achaar),,Indian Food,India,India,69.54,1.22,16.87,0.21,2.13,14.63,6415.9,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_986,Plum chutney (Aloo bukhara ki chutney),,Indian Food,India,India,177.11,0.47,44.95,0.29,1.37,43.9,216.81,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_987,Raw mango chutney (Kachhe aam/Kairi ki chutney),,Indian Food,India,India,193.13,0.51,49.94,0.16,2.17,45.22,480.68,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_988,Tomato sauce,,Indian Food,India,India,34.33,0.81,7.23,0.27,1.79,5.69,174.79,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_989,Tomato puree,,Indian Food,India,India,20.62,0.75,3.68,0.25,1.56,2.32,244.99,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_990,Garam masala,,Indian Food,India,India,254.21,9.89,26.2,10.97,35.56,1.79,58.33,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_991,Chat masala,,Indian Food,India,India,222.58,8.19,23.87,9.91,18.62,0.79,11873.64,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_992,Kashmiri masala,,Indian Food,India,India,389.02,8.26,23.16,31.03,12.12,2.41,3106.14,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_993,Rasam powder (Rasam masala),,Indian Food,India,India,267.96,12.04,25.19,11.8,35.71,1.91,38.78,,,,,100 g,100 g,Indian Food Composition Data,South Indian,Vegetarian
+IND_FOOD_994,Sambar powder (Sambar masala),,Indian Food,India,India,297.46,12.5,23.38,15.58,34.56,1.87,27.66,,,,,100 g,100 g,Indian Food Composition Data,South Indian,Vegetarian
+IND_FOOD_995,Tartare sauce,,Indian Food,India,India,610.93,1.44,2.96,66.12,0.42,2.18,256.95,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_996,Barbeque sauce,,Indian Food,India,India,121.93,0.96,20.46,4.51,0.69,18.88,504.95,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_997,Bread sauce,,Indian Food,India,India,111.04,3.46,8.69,7.05,0.56,4.63,88.84,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_998,Green chilli sauce,,Indian Food,India,India,46.06,1.25,7.36,0.27,1.77,5.36,1037.04,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_999,Home made plain noodles,,Indian Food,India,India,238.78,6.21,44.5,3.56,1.65,1.07,182.07,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_1000,Dal moong,,Indian Food,India,India,43.69,2.2,4.92,1.62,1.08,0.13,117.74,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_1001,Cumin seeds baghar (Jeera baghar/tadka),,Indian Food,India,India,736.81,3.34,5.22,78.77,6.01,0.49,177.58,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_1002,Onion tomato baghar (Pyaaz tamatar ka tadka),,Indian Food,India,India,137.52,1.26,6.17,11.98,2.12,3.51,31.33,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_1003,Mustard seeds baghar (Mustard seed tadka),,Indian Food,India,India,552.59,4.73,10.45,54.3,9.74,1.14,8.9,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_1004,Hot cherry sauce,,Indian Food,India,India,252.74,0.13,67.95,0.07,0.0,17.65,105.81,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_1005,Apple jelly (Seb ki jelly),,Indian Food,India,India,152.13,0.1,39.37,0.21,0.86,38.18,2.14,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_1006,Marmalade (Murabba),,Indian Food,India,India,143.76,0.23,37.64,0.04,0.43,37.29,2.16,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_1007,Plum squash (Aloo bukhara squash),,Indian Food,India,India,211.17,0.16,55.51,0.1,0.52,55.02,12.71,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_1008,Lemon green chilli pickle (Nimboo aur hari mirch ka achaar),,Indian Food,India,India,14.07,0.85,2.14,0.24,1.07,1.0,7559.38,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_1009,Brinjal pickle (Baingan ka achaar),,Indian Food,India,India,139.01,2.24,4.23,12.98,4.62,1.07,3507.59,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_1010,Sweet and sour tomato pickle (Khatta meetha tamatar ka achaar),,Indian Food,India,India,60.88,1.26,6.55,3.24,2.2,4.31,1281.94,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_1011,Jhatpat achar with carrot (Jhatpat achaar gajar ke saath),,Indian Food,India,India,91.21,1.98,6.32,6.55,5.08,3.04,2067.33,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_1012,Tomato chutney (Tamatar ki chutney),,Indian Food,India,India,176.07,0.97,31.85,6.01,1.49,30.02,823.65,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_1013,Tomato ketchup,,Indian Food,India,India,33.07,0.91,6.48,0.3,1.9,4.68,177.97,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian
+IND_FOOD_1014,Bengal 5 Spice Blend (Panch Phoran),,Indian Food,India,India,289.79,18.26,20.0,22.16,18.4,1.4,51.43,,,,,100 g,100 g,Indian Food Composition Data,Pan-Indian,Vegetarian

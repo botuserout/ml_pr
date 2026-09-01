@@ -1,0 +1,6 @@
+food_name,collection_location,calories_kcal,protein_g,fat_g,carbohydrate_g,fiber_g,sugar_g,sodium_mg,quality_label,similarity,why_recommended
+Dhokla,India,216.49,13.45,5.28,30.68,4.95,4.78,376.02,High,0.9764,"Similarity: 0.98 | 216.49 kcal, 13.45g protein. Satisfies specified target constraints."
+Moong bean dosa (Pesarattu),India,285.96,12.32,11.67,31.91,6.04,2.9,61.36,High,0.9719,"Similarity: 0.97 | 285.96 kcal, 12.32g protein. Satisfies specified target constraints."
+Lentil and Pea Cakes with Beetroot and Balsamic Flavour Seasoning,UK,400.0,25.0,12.0,51.0,6.0,3.6,0.433,High,0.9607,"Similarity: 0.96 | 400.0 kcal, 25.0g protein. Satisfies specified target constraints."
+Paneer stuffed cheela/chilla,India,205.19,11.44,8.89,19.16,4.03,3.81,289.1,Medium,0.959,"Similarity: 0.96 | 205.19 kcal, 11.44g protein. Satisfies specified target constraints."
+Gun powder chutney,India,312.34,21.55,2.67,47.65,13.95,1.16,195.67,High,0.9567,"Similarity: 0.96 | 312.34 kcal, 21.55g protein. Satisfies specified target constraints."
