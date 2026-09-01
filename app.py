@@ -245,18 +245,66 @@ def load_datasets():
     return food_df, meals_df
 
 @st.cache_resource
-def load_models():
+def load_models(df):
     reg_model, cls_model, rec_scaler = None, None, None
-    if os.path.exists("models/protein_regressor.joblib"):
-        reg_model = joblib.load("models/protein_regressor.joblib")
-    if os.path.exists("models/quality_classifier.joblib"):
-        cls_model = joblib.load("models/quality_classifier.joblib")
-    if os.path.exists("models/recommender_scaler.joblib"):
-        rec_scaler = joblib.load("models/recommender_scaler.joblib")
+    
+    # Try loading pre-saved joblib models
+    try:
+        if os.path.exists("models/protein_regressor.joblib"):
+            reg_model = joblib.load("models/protein_regressor.joblib")
+    except Exception:
+        reg_model = None
+
+    try:
+        if os.path.exists("models/quality_classifier.joblib"):
+            cls_model = joblib.load("models/quality_classifier.joblib")
+    except Exception:
+        cls_model = None
+
+    try:
+        if os.path.exists("models/recommender_scaler.joblib"):
+            rec_scaler = joblib.load("models/recommender_scaler.joblib")
+    except Exception:
+        rec_scaler = None
+
+    # Cloud Fallback: Train/fit models on the fly if unpickling failed due to Python/scikit-learn version mismatch
+    if not df.empty:
+        from sklearn.preprocessing import StandardScaler
+        from sklearn.impute import SimpleImputer
+        from sklearn.pipeline import Pipeline
+        from sklearn.ensemble import RandomForestRegressor, GradientBoostingClassifier
+        
+        rec_feats = ["calories_kcal", "protein_g", "fat_g", "carbohydrate_g", "fiber_g", "sugar_g", "sodium_mg"]
+        
+        if rec_scaler is None:
+            rec_scaler = StandardScaler()
+            valid_f = df.dropna(subset=rec_feats)
+            if not valid_f.empty:
+                rec_scaler.fit(valid_f[rec_feats])
+                
+        if reg_model is None:
+            reg_feats = ["calories_kcal", "fat_g", "carbohydrate_g", "fiber_g", "sugar_g", "sodium_mg"]
+            reg_df = df.dropna(subset=["protein_g"] + reg_feats)
+            if not reg_df.empty:
+                reg_model = Pipeline([
+                    ("imp", SimpleImputer(strategy="median")),
+                    ("m", RandomForestRegressor(n_estimators=50, random_state=42, n_jobs=-1))
+                ])
+                reg_model.fit(reg_df[reg_feats], reg_df["protein_g"])
+                
+        if cls_model is None and "quality_label" in df.columns:
+            cls_df = df.dropna(subset=["quality_label"] + rec_feats)
+            if not cls_df.empty:
+                cls_model = Pipeline([
+                    ("imp", SimpleImputer(strategy="median")),
+                    ("m", GradientBoostingClassifier(random_state=42))
+                ])
+                cls_model.fit(cls_df[rec_feats], cls_df["quality_label"].astype(str))
+
     return reg_model, cls_model, rec_scaler
 
 food_df, meals_df = load_datasets()
-reg_model, cls_model, rec_scaler = load_models()
+reg_model, cls_model, rec_scaler = load_models(food_df)
 
 # Hero Header Banner
 st.markdown("""
