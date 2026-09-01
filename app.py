@@ -9,216 +9,169 @@ from sklearn.metrics.pairwise import cosine_similarity
 
 # Page Configuration
 st.set_page_config(
-    page_title="NutriML — Premium Indian Food ML & Recommendation System",
+    page_title="NutriML — Indian Food Machine Learning System",
     page_icon="🥗",
     layout="wide",
     initial_sidebar_state="expanded"
 )
 
-# Custom Ultra-Premium Dark Glassmorphism CSS
+# Clean, Professional Editorial UI CSS (No AI Slop / No Broken Gradients)
 st.markdown("""
 <style>
-    @import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@300;400;500;600;700;800&display=swap');
+    @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap');
 
-    /* Global Dark Theme Settings */
     html, body, [class*="css"] {
-        font-family: 'Plus Jakarta Sans', sans-serif;
-        background-color: #090d16;
-        color: #e2e8f0;
+        font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
     }
     
     .stApp {
-        background: radial-gradient(circle at 50% 0%, #131c31 0%, #080c14 100%);
+        background-color: #0c0e14;
+        color: #f1f5f9;
     }
 
-    /* Hero Banner with Animated Gradient Border */
-    .hero-banner {
-        position: relative;
-        background: linear-gradient(135deg, rgba(16, 185, 129, 0.15) 0%, rgba(37, 99, 235, 0.15) 50%, rgba(139, 92, 246, 0.15) 100%);
-        border: 1px solid rgba(255, 255, 255, 0.12);
-        backdrop-filter: blur(16px);
-        -webkit-backdrop-filter: blur(16px);
-        border-radius: 24px;
-        padding: 2.5rem 3rem;
-        margin-bottom: 2rem;
-        box-shadow: 0 20px 40px rgba(0, 0, 0, 0.4);
-        overflow: hidden;
+    /* Clean Brand Header */
+    .brand-container {
+        padding: 1.8rem 2rem;
+        background: #121722;
+        border: 1px solid #1e293b;
+        border-radius: 14px;
+        margin-bottom: 1.75rem;
     }
     
-    .hero-banner::before {
-        content: '';
-        position: absolute;
-        top: -50%;
-        left: -50%;
-        width: 200%;
-        height: 200%;
-        background: radial-gradient(circle, rgba(16, 185, 129, 0.1) 0%, transparent 60%);
-        pointer-events: none;
-    }
-    
-    .hero-title {
-        font-size: 2.8rem;
-        font-weight: 800;
-        background: linear-gradient(90deg, #34d399 0%, #60a5fa 50%, #a78bfa 100%);
-        -webkit-background-clip: text;
-        -webkit-text-fill-color: transparent;
-        margin-bottom: 0.5rem;
-        letter-spacing: -0.02em;
-    }
-
-    .hero-subtitle {
-        font-size: 1.15rem;
-        color: #94a3b8;
-        font-weight: 400;
-        max-width: 800px;
-    }
-
-    /* Glassmorphism Metric Cards */
-    .glass-metric {
-        background: rgba(255, 255, 255, 0.03);
-        border: 1px solid rgba(255, 255, 255, 0.08);
-        backdrop-filter: blur(12px);
-        border-radius: 18px;
-        padding: 1.25rem 1.5rem;
-        text-align: center;
-        transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
-    }
-    
-    .glass-metric:hover {
-        transform: translateY(-4px);
-        background: rgba(255, 255, 255, 0.06);
-        border-color: rgba(52, 211, 153, 0.4);
-        box-shadow: 0 12px 25px rgba(16, 185, 129, 0.15);
-    }
-    
-    .metric-value {
+    .brand-logo {
         font-size: 2.2rem;
         font-weight: 800;
-        background: linear-gradient(90deg, #f8fafc, #cbd5e1);
-        -webkit-background-clip: text;
-        -webkit-text-fill-color: transparent;
+        letter-spacing: -0.03em;
+        line-height: 1.2;
+        margin-bottom: 0.4rem;
     }
     
-    .metric-lbl {
-        font-size: 0.85rem;
+    .brand-logo .brand-green {
+        color: #10b981;
+    }
+    
+    .brand-logo .brand-white {
+        color: #ffffff;
+    }
+    
+    .brand-subtitle {
+        font-size: 1.05rem;
+        color: #94a3b8;
+        font-weight: 400;
+        margin: 0;
+    }
+
+    /* Stat Box Grid */
+    .stat-tile {
+        background: #121722;
+        border: 1px solid #1e293b;
+        border-radius: 12px;
+        padding: 1.2rem;
+        text-align: left;
+    }
+    
+    .stat-num {
+        font-size: 1.8rem;
+        font-weight: 800;
+        color: #ffffff;
+        line-height: 1.1;
+    }
+    
+    .stat-label {
+        font-size: 0.82rem;
         font-weight: 600;
+        color: #64748b;
         text-transform: uppercase;
         letter-spacing: 0.05em;
-        color: #64748b;
-        margin-top: 0.25rem;
+        margin-top: 0.35rem;
     }
 
-    /* Beautiful Food Cards */
-    .food-glass-card {
-        background: rgba(15, 23, 42, 0.6);
-        border: 1px solid rgba(255, 255, 255, 0.08);
-        backdrop-filter: blur(16px);
-        border-radius: 20px;
-        padding: 1.5rem;
-        margin-bottom: 1.25rem;
-        transition: all 0.3s ease;
-        position: relative;
+    /* Refined Food Card Design */
+    .food-card-v2 {
+        background: #121722;
+        border: 1px solid #1e293b;
+        border-radius: 14px;
+        padding: 1.4rem;
+        margin-bottom: 1.1rem;
+        transition: border-color 0.2s ease, transform 0.2s ease;
     }
     
-    .food-glass-card:hover {
-        border-color: rgba(52, 211, 153, 0.5);
-        transform: translateY(-3px);
-        box-shadow: 0 16px 32px rgba(0, 0, 0, 0.4), 0 0 20px rgba(16, 185, 129, 0.15);
+    .food-card-v2:hover {
+        border-color: #3b82f6;
+        transform: translateY(-2px);
     }
     
-    .card-title {
-        font-size: 1.3rem;
-        font-weight: 700;
-        color: #f8fafc;
-        margin: 0 0 0.5rem 0;
-    }
-    
-    .pill-badge {
-        display: inline-block;
-        padding: 0.3rem 0.8rem;
-        border-radius: 9999px;
-        font-size: 0.78rem;
-        font-weight: 700;
-        letter-spacing: 0.02em;
-    }
-    
-    .badge-high-val {
-        background: rgba(16, 185, 129, 0.15);
-        color: #34d399;
-        border: 1px solid rgba(52, 211, 153, 0.3);
-    }
-    
-    .badge-med-val {
-        background: rgba(245, 158, 11, 0.15);
-        color: #fbbf24;
-        border: 1px solid rgba(251, 191, 36, 0.3);
-    }
-    
-    .badge-low-val {
-        background: rgba(239, 68, 68, 0.15);
-        color: #f87171;
-        border: 1px solid rgba(248, 113, 113, 0.3);
-    }
-    
-    .sim-tag {
-        background: linear-gradient(135deg, #2563eb, #3b82f6);
-        color: #ffffff;
-        font-weight: 700;
-        padding: 0.35rem 0.85rem;
-        border-radius: 12px;
-        font-size: 0.85rem;
-        float: right;
-        box-shadow: 0 4px 12px rgba(37, 99, 235, 0.3);
-    }
-
-    .macro-bar-container {
+    .card-header-flex {
         display: flex;
-        gap: 0.75rem;
-        margin-top: 1rem;
-        flex-wrap: wrap;
+        justify-content: space-between;
+        align-items: center;
+        margin-bottom: 0.6rem;
     }
     
-    .macro-chip {
-        background: rgba(255, 255, 255, 0.04);
-        border: 1px solid rgba(255, 255, 255, 0.06);
-        padding: 0.5rem 0.85rem;
-        border-radius: 12px;
-        font-size: 0.85rem;
-        color: #cbd5e1;
-        font-weight: 500;
-    }
-    .macro-chip strong {
-        color: #f8fafc;
+    .food-title-v2 {
+        font-size: 1.25rem;
+        font-weight: 700;
+        color: #ffffff;
+        margin: 0;
     }
     
-    /* Streamlit UI Overrides */
-    .stTabs [data-baseweb="tab-list"] {
-        gap: 8px;
-        background-color: rgba(255, 255, 255, 0.03);
-        padding: 8px;
-        border-radius: 16px;
-        border: 1px solid rgba(255, 255, 255, 0.08);
+    .sim-score-badge {
+        background: #1e3a8a;
+        color: #93c5fd;
+        font-size: 0.82rem;
+        font-weight: 700;
+        padding: 0.25rem 0.65rem;
+        border-radius: 6px;
+        border: 1px solid #1d4ed8;
     }
 
-    .stTabs [data-baseweb="tab"] {
-        height: 48px;
-        border-radius: 12px;
+    .meta-line {
+        font-size: 0.88rem;
         color: #94a3b8;
-        font-weight: 600;
-        font-size: 0.95rem;
-        padding: 0 20px;
+        margin-bottom: 0.85rem;
+        display: flex;
+        align-items: center;
+        gap: 0.75rem;
     }
 
-    .stTabs [aria-selected="true"] {
-        background: linear-gradient(135deg, #10b981 0%, #059669 100%) !important;
-        color: #ffffff !important;
-        box-shadow: 0 4px 15px rgba(16, 185, 129, 0.3);
+    .tag-pill {
+        display: inline-block;
+        padding: 0.2rem 0.6rem;
+        border-radius: 6px;
+        font-size: 0.78rem;
+        font-weight: 600;
     }
     
-    /* Sidebar Styling */
-    section[data-testid="stSidebar"] {
-        background-color: #0d1322;
-        border-right: 1px solid rgba(255, 255, 255, 0.08);
+    .tag-high { background: #064e3b; color: #6ee7b7; border: 1px solid #047857; }
+    .tag-med  { background: #78350f; color: #fde047; border: 1px solid #b45309; }
+    .tag-low  { background: #7f1d1d; color: #fca5a5; border: 1px solid #b91c1c; }
+
+    .macro-grid-v2 {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(110px, 1fr));
+        gap: 0.6rem;
+        background: #090c13;
+        padding: 0.85rem;
+        border-radius: 10px;
+        border: 1px solid #182030;
+    }
+    
+    .macro-item {
+        font-size: 0.82rem;
+        color: #94a3b8;
+    }
+    
+    .macro-item strong {
+        color: #f1f5f9;
+        font-weight: 700;
+        font-size: 0.95rem;
+        display: block;
+    }
+
+    /* Streamlit Input Enhancements */
+    div[data-baseweb="select"] > div {
+        background-color: #121722 !important;
+        border-color: #1e293b !important;
     }
 </style>
 """, unsafe_allow_html=True)
@@ -248,7 +201,6 @@ def load_datasets():
 def load_models(df):
     reg_model, cls_model, rec_scaler = None, None, None
     
-    # Try loading pre-saved joblib models
     try:
         if os.path.exists("models/protein_regressor.joblib"):
             reg_model = joblib.load("models/protein_regressor.joblib")
@@ -267,7 +219,7 @@ def load_models(df):
     except Exception:
         rec_scaler = None
 
-    # Cloud Fallback: Train/fit models on the fly if unpickling failed due to Python/scikit-learn version mismatch
+    # Cloud Fallback if unpickling failed
     if not df.empty:
         from sklearn.preprocessing import StandardScaler
         from sklearn.impute import SimpleImputer
@@ -306,29 +258,29 @@ def load_models(df):
 food_df, meals_df = load_datasets()
 reg_model, cls_model, rec_scaler = load_models(food_df)
 
-# Hero Header Banner
+# Clean Brand Header (No broken gradients / No clipped emojis)
 st.markdown("""
-<div class="hero-banner">
-    <div class="hero-title">🥗 NutriML — Indian Food Intelligence</div>
-    <div class="hero-subtitle">Advanced Multi-Source Machine Learning Pipeline for Nutritional Quality Classification, Nutrient Prediction & Cosine-Similarity Recommendation</div>
+<div class="brand-container">
+    <div class="brand-logo"><span class="brand-green">Nutri</span><span class="brand-white">ML</span> — Indian Food Intelligence</div>
+    <div class="brand-subtitle">Multi-Source Nutritional Machine Learning System, Quality Classifier & Recommendation Engine</div>
 </div>
 """, unsafe_allow_html=True)
 
-# Top Metrics Row
-k1, k2, k3, k4 = st.columns(4)
-with k1:
-    st.markdown(f'<div class="glass-metric"><div class="metric-value">{len(food_df):,}</div><div class="metric-lbl">Unified Foods</div></div>', unsafe_allow_html=True)
-with k2:
+# Clean Key Stats Row
+s1, s2, s3, s4 = st.columns(4)
+with s1:
+    st.markdown(f'<div class="stat-tile"><div class="stat-num">{len(food_df):,}</div><div class="stat-label">Unified Food Records</div></div>', unsafe_allow_html=True)
+with s2:
     ind_cnt = len(food_df[food_df["source"] == "Indian Food Composition Data"]) if not food_df.empty and "source" in food_df.columns else 1014
-    st.markdown(f'<div class="glass-metric"><div class="metric-value">{ind_cnt:,}</div><div class="metric-lbl">Indian Dishes</div></div>', unsafe_allow_html=True)
-with k3:
-    st.markdown(f'<div class="glass-metric"><div class="metric-value">{len(meals_df):,}</div><div class="metric-lbl">Composite Meals</div></div>', unsafe_allow_html=True)
-with k4:
-    st.markdown('<div class="glass-metric"><div class="metric-value">96.8%</div><div class="metric-lbl">Classifier F1-Score</div></div>', unsafe_allow_html=True)
+    st.markdown(f'<div class="stat-tile"><div class="stat-num">{ind_cnt:,}</div><div class="stat-label">Indian Food Dishes</div></div>', unsafe_allow_html=True)
+with s3:
+    st.markdown(f'<div class="stat-tile"><div class="stat-num">{len(meals_df):,}</div><div class="stat-label">Calculated Meals</div></div>', unsafe_allow_html=True)
+with s4:
+    st.markdown('<div class="stat-tile"><div class="stat-num">96.8%</div><div class="stat-label">Classifier F1-Score</div></div>', unsafe_allow_html=True)
 
 st.markdown("<br>", unsafe_allow_html=True)
 
-# Tabs Navigation
+# Navigation Tabs
 tab1, tab2, tab3, tab4 = st.tabs([
     "🥗 Food Recommender", 
     "🍱 Indian Meal Suggester", 
@@ -338,71 +290,59 @@ tab1, tab2, tab3, tab4 = st.tabs([
 
 rec_features = ["calories_kcal", "protein_g", "fat_g", "carbohydrate_g", "fiber_g", "sugar_g", "sodium_mg"]
 
-# Initialize Session State Presets
-if "target_preset" not in st.session_state:
-    st.session_state["target_preset"] = "balanced"
-
 # ==============================================================================
 # TAB 1: FOOD RECOMMENDER
 # ==============================================================================
 with tab1:
-    st.markdown("### 🎯 Interactive Food Recommender")
-    st.write("Customize your nutritional target profile and apply hard constraints to find the top similarity-ranked foods.")
+    st.subheader("🎯 Nutrition-Aware Food Recommender")
+    st.caption("Specify your target nutritional profile per 100g to rank food items using cosine similarity.")
     
-    c_left, c_right = st.columns([1, 2.2])
+    col_left, col_right = st.columns([1, 2.2])
     
-    with c_left:
-        st.markdown("#### Quick Target Presets")
-        pr_col1, pr_col2, pr_col3 = st.columns(3)
-        if pr_col1.button("⚡ High Protein"):
+    with col_left:
+        st.markdown("##### Target Presets")
+        pr1, pr2, pr3 = st.columns(3)
+        if pr1.button("High Protein"):
             st.session_state["cal"] = 300
             st.session_state["prot"] = 30.0
             st.session_state["fib"] = 8.0
-        if pr_col2.button("🔥 Low Calorie"):
+        if pr2.button("Low Calorie"):
             st.session_state["cal"] = 150
             st.session_state["prot"] = 15.0
             st.session_state["fib"] = 5.0
-        if pr_col3.button("🌾 High Fiber"):
+        if pr3.button("High Fiber"):
             st.session_state["cal"] = 250
             st.session_state["prot"] = 15.0
             st.session_state["fib"] = 15.0
             
-        st.markdown("#### 1. Target Nutrient Dial (per 100g)")
-        t_cal = st.slider("Calories (kcal)", 0, 900, st.session_state.get("cal", 300), step=10, key="cal_slider")
-        t_prot = st.slider("Protein (g)", 0.0, 50.0, st.session_state.get("prot", 20.0), step=0.5, key="prot_slider")
-        t_fib = st.slider("Dietary Fiber (g)", 0.0, 30.0, st.session_state.get("fib", 8.0), step=0.5, key="fib_slider")
+        st.markdown("##### Nutrient Profile Targets")
+        t_cal = st.slider("Calories (kcal)", 0, 900, st.session_state.get("cal", 300), step=10, key="cal_s")
+        t_prot = st.slider("Protein (g)", 0.0, 50.0, st.session_state.get("prot", 20.0), step=0.5, key="prot_s")
+        t_fib = st.slider("Fiber (g)", 0.0, 30.0, st.session_state.get("fib", 8.0), step=0.5, key="fib_s")
         t_carb = st.slider("Carbohydrates (g)", 0, 100, 30, step=2)
         t_fat = st.slider("Fat (g)", 0.0, 50.0, 10.0, step=1.0)
         t_sug = st.slider("Sugar (g)", 0.0, 50.0, 5.0, step=0.5)
         t_sod = st.slider("Sodium (mg)", 0, 2000, 300, step=25)
         
-        st.markdown("#### 2. Filtering Options")
-        quality_filter = st.selectbox("Quality Filter", ["All", "High", "Medium", "Low"])
-        location_filter = st.selectbox("Source Location", ["All", "India", "USA", "UK", "USDA reference"])
-        top_k = st.slider("Max Results", 3, 20, 6)
+        st.markdown("##### Filter Rules")
+        quality_filter = st.selectbox("Nutritional Quality Filter", ["All", "High", "Medium", "Low"])
+        location_filter = st.selectbox("Data Source Location", ["All", "India", "USA", "UK", "USDA reference"])
+        top_k = st.slider("Number of Recommendations", 3, 20, 6)
         
-        use_constraints = st.checkbox("Enable Hard Constraint Filtering", value=False)
-        max_cal = None
-        min_prot = None
+        use_constraints = st.checkbox("Apply Numerical Threshold Constraints", value=False)
+        max_cal, min_prot = None, None
         if use_constraints:
-            max_cal = st.number_input("Max Calories Limit", value=400)
-            min_prot = st.number_input("Min Protein Requirement", value=10.0)
-            if max_cal < min_prot * 4:
-                st.caption("⚠️ Note: Low calorie limit relative to high protein requirement.")
+            max_cal = st.number_input("Maximum Calories Limit", value=400)
+            min_prot = st.number_input("Minimum Protein Target (g)", value=10.0)
 
-    with c_right:
-        st.markdown("#### 3. Recommended Food Results")
+    with col_right:
+        st.markdown("##### Recommended Food Results")
         
         target_sum = t_cal + t_prot + t_fib + t_carb + t_fat + t_sug + t_sod
         
-        # Edge Case 1: All Zero Parameters
         if target_sum == 0:
-            st.info("ℹ️ All target nutrient sliders are set to 0. Please adjust at least one nutrient slider (e.g. Protein, Calories, or Fiber) above to receive personalized recommendations!")
-        # Edge Case 2: Extreme / Maximum Values Selected
-        elif t_cal >= 850 and t_prot >= 45 and t_fib >= 25:
-            st.caption("🔥 High Macro Density Target Selected: Finding foods with peak nutrient concentration.")
-            
-        if target_sum > 0 and not food_df.empty and rec_scaler is not None:
+            st.info("ℹ️ All target sliders are set to 0. Adjust at least one nutrient slider on the left to receive recommendations.")
+        elif target_sum > 0 and not food_df.empty and rec_scaler is not None:
             target_dict = {
                 "calories_kcal": t_cal, "protein_g": t_prot, "fat_g": t_fat,
                 "carbohydrate_g": t_carb, "fiber_g": t_fib, "sugar_g": t_sug, "sodium_mg": t_sod
@@ -426,10 +366,8 @@ with tab1:
                 if min_prot is not None:
                     filtered = filtered[filtered["protein_g"] >= min_prot]
             
-            fallback = False
             if filtered.empty:
-                fallback = True
-                st.warning("⚠️ No food item satisfied all exact constraints. Showing closest similarity matches instead.")
+                st.warning("⚠️ No exact matches satisfied all hard constraints. Showing closest cosine similarity matches.")
                 filtered = valid_foods.copy()
                 if quality_filter != "All":
                     filtered = filtered[filtered["quality_label"].astype(str).str.lower() == quality_filter.lower()]
@@ -438,48 +376,50 @@ with tab1:
             
             for idx, r in recs.iterrows():
                 q_label = str(r.get("quality_label", "Medium"))
-                badge_cls = "badge-high-val" if q_label == "High" else ("badge-med-val" if q_label == "Medium" else "badge-low-val")
+                badge_cls = "tag-high" if q_label == "High" else ("tag-med" if q_label == "Medium" else "tag-low")
                 
                 st.markdown(f"""
-                <div class="food-glass-card">
-                    <span class="sim-tag">★ {r['similarity']*100:.1f}% Match</span>
-                    <div class="card-title">{r['food_name']}</div>
-                    <div style="margin-bottom: 0.75rem;">
-                        <span class="pill-badge {badge_cls}">{q_label} Quality</span>
-                        <span style="color: #64748b; font-size: 0.85rem; margin-left: 0.5rem;">Source: <strong>{r.get('source', 'General')}</strong> ({r.get('collection_location', 'Global')})</span>
+                <div class="food-card-v2">
+                    <div class="card-header-flex">
+                        <div class="food-title-v2">{r['food_name']}</div>
+                        <span class="sim-score-badge">{r['similarity']*100:.1f}% Match</span>
                     </div>
-                    <div class="macro-bar-container">
-                        <div class="macro-chip">⚡ Calories: <strong>{r['calories_kcal']} kcal</strong></div>
-                        <div class="macro-chip">🥩 Protein: <strong>{r['protein_g']}g</strong></div>
-                        <div class="macro-chip">🌾 Fiber: <strong>{r['fiber_g']}g</strong></div>
-                        <div class="macro-chip">🍞 Carb: <strong>{r['carbohydrate_g']}g</strong></div>
-                        <div class="macro-chip">🥑 Fat: <strong>{r['fat_g']}g</strong></div>
+                    <div class="meta-line">
+                        <span class="tag-pill {badge_cls}">{q_label} Quality</span>
+                        <span>Source: <strong>{r.get('source', 'General')}</strong> ({r.get('collection_location', 'Global')})</span>
+                    </div>
+                    <div class="macro-grid-v2">
+                        <div class="macro-item">Calories<strong>{r['calories_kcal']} kcal</strong></div>
+                        <div class="macro-item">Protein<strong>{r['protein_g']} g</strong></div>
+                        <div class="macro-item">Fiber<strong>{r['fiber_g']} g</strong></div>
+                        <div class="macro-item">Carbs<strong>{r['carbohydrate_g']} g</strong></div>
+                        <div class="macro-item">Fat<strong>{r['fat_g']} g</strong></div>
                     </div>
                 </div>
                 """, unsafe_allow_html=True)
                 
             display_cols = [c for c in ["food_name", "collection_location", "calories_kcal", "protein_g", "fiber_g", "quality_label", "similarity"] if c in recs.columns]
-            with st.expander("🔍 View Raw Recommendation Data Table"):
+            with st.expander("🔍 View Raw Recommendation Table"):
                 st.dataframe(recs[display_cols], use_container_width=True)
 
 # ==============================================================================
 # TAB 2: INDIAN MEAL SUGGESTER
 # ==============================================================================
 with tab2:
-    st.markdown("### 🍱 Composite Indian Meal Suggester")
-    st.write("Calculated meal combinations derived from dish weight compositions with ingredient breakdowns.")
+    st.subheader("🍱 Composite Indian Meal Suggester")
+    st.caption("Composite meal combinations calculated from dish ingredients and weight contributions.")
     
     col_m1, col_m2 = st.columns([1, 2.2])
     
     with col_m1:
-        st.markdown("#### Filter Criteria")
-        m_type_filter = st.selectbox("Course / Meal Type", ["All", "Breakfast", "Lunch", "Dinner", "Snack", "Beverage", "Dessert"])
+        st.markdown("##### Meal Filters")
+        m_type_filter = st.selectbox("Course Type", ["All", "Breakfast", "Lunch", "Dinner", "Snack", "Beverage", "Dessert"])
         diet_type_filter = st.selectbox("Diet Preference", ["All", "Vegetarian", "Non-Vegetarian"])
         region_filter = st.selectbox("Regional Cuisine", ["All", "North Indian", "South Indian", "West Indian", "East Indian", "Pan-Indian"])
-        top_m_k = st.slider("Number of Meal Suggestions", 3, 10, 5)
+        top_m_k = st.slider("Number of Suggestions", 3, 10, 5)
         
     with col_m2:
-        st.markdown("#### Suggested Indian Meals")
+        st.markdown("##### Suggested Meals")
         if not meals_df.empty:
             m_filtered = meals_df.copy()
             if m_type_filter != "All":
@@ -490,28 +430,30 @@ with tab2:
                 m_filtered = m_filtered[m_filtered["region"].str.lower() == region_filter.lower()]
                 
             if m_filtered.empty:
-                st.info("No meals matched all criteria. Showing general Indian meal suggestions.")
+                st.info("No meals matched all active filters. Displaying general Indian meal suggestions.")
                 m_filtered = meals_df.copy()
                 
             display_meals = m_filtered.head(top_m_k)
             for idx, r in display_meals.iterrows():
-                diet_cls = "badge-high-val" if r['diet_type'] == "Vegetarian" else "badge-low-val"
+                diet_cls = "tag-high" if r['diet_type'] == "Vegetarian" else "tag-low"
                 st.markdown(f"""
-                <div class="food-glass-card" style="border-left: 4px solid #f59e0b;">
-                    <span class="sim-tag" style="background: linear-gradient(135deg, #f59e0b, #d97706);">{r['region']}</span>
-                    <div class="card-title">{r['meal_name']}</div>
-                    <div style="margin-bottom: 0.75rem;">
-                        <span class="pill-badge {diet_cls}">{r['diet_type']}</span>
-                        <span style="color: #94a3b8; font-size: 0.85rem; margin-left: 0.5rem;">Course: <strong>{r['meal_type']}</strong> | Serving Weight: {r.get('serving_size_g', 250)}g</span>
+                <div class="food-card-v2" style="border-left: 4px solid #f59e0b;">
+                    <div class="card-header-flex">
+                        <div class="food-title-v2">{r['meal_name']}</div>
+                        <span class="sim-score-badge" style="background:#451a03; color:#fde047; border-color:#854d0e;">{r['region']}</span>
                     </div>
-                    <div style="background: rgba(255, 255, 255, 0.03); border-radius: 12px; padding: 0.75rem; margin-bottom: 0.75rem; color: #cbd5e1; font-size: 0.88rem;">
+                    <div class="meta-line">
+                        <span class="tag-pill {diet_cls}">{r['diet_type']}</span>
+                        <span>Course: <strong>{r['meal_type']}</strong> | Serving: {r.get('serving_size_g', 250)}g</span>
+                    </div>
+                    <div style="background: #090c13; padding: 0.75rem; border-radius: 8px; border: 1px solid #182030; margin-bottom: 0.75rem; font-size: 0.88rem; color: #cbd5e1;">
                         🛒 <strong>Recipe Ingredients:</strong> {r['ingredients']}
                     </div>
-                    <div class="macro-bar-container">
-                        <div class="macro-chip">⚡ Total: <strong>{r['calories_kcal']} kcal</strong></div>
-                        <div class="macro-chip">🥩 Protein: <strong>{r['protein_g']}g</strong></div>
-                        <div class="macro-chip">🌾 Fiber: <strong>{r['fiber_g']}g</strong></div>
-                        <div class="macro-chip">🍞 Carb: <strong>{r['carbohydrate_g']}g</strong></div>
+                    <div class="macro-grid-v2">
+                        <div class="macro-item">Total Energy<strong>{r['calories_kcal']} kcal</strong></div>
+                        <div class="macro-item">Protein<strong>{r['protein_g']} g</strong></div>
+                        <div class="macro-item">Fiber<strong>{r['fiber_g']} g</strong></div>
+                        <div class="macro-item">Carbs<strong>{r['carbohydrate_g']} g</strong></div>
                     </div>
                 </div>
                 """, unsafe_allow_html=True)
@@ -522,12 +464,12 @@ with tab2:
 # TAB 3: ML PREDICTOR STUDIO
 # ==============================================================================
 with tab3:
-    st.markdown("### 🔮 Machine Learning Prediction Studio")
-    st.write("Enter custom nutritional parameters to predict **Protein content** and classify **Nutritional Quality Grade**.")
+    st.subheader("🔮 Machine Learning Prediction Studio")
+    st.caption("Predict continuous Protein level and classify Nutritional Quality Grade.")
     
     cp1, cp2 = st.columns(2)
     with cp1:
-        st.markdown("#### Input Dish Parameters")
+        st.markdown("##### Dish Nutritional Inputs")
         p_cal = st.number_input("Calories (kcal)", value=250.0, min_value=0.0, step=10.0)
         p_fat = st.number_input("Fat (g)", value=8.0, min_value=0.0, step=0.5)
         p_carb = st.number_input("Carbohydrates (g)", value=35.0, min_value=0.0, step=1.0)
@@ -536,10 +478,10 @@ with tab3:
         p_sod = st.number_input("Sodium (mg)", value=250.0, min_value=0.0, step=10.0)
         
     with cp2:
-        st.markdown("#### Real-time ML Evaluation")
-        if st.button("✨ Compute Predictions", type="primary", use_container_width=True):
+        st.markdown("##### ML Inference Results")
+        if st.button("Run ML Evaluation", type="primary", use_container_width=True):
             if p_cal == 0 and p_fat == 0 and p_carb == 0 and p_fib == 0 and p_sug == 0 and p_sod == 0:
-                st.warning("⚠️ All parameters are 0. Please enter non-zero nutrient values for meaningful prediction.")
+                st.warning("⚠️ All inputs are set to 0. Please enter non-zero nutrient values for inference.")
             else:
                 input_features = pd.DataFrame([{
                     "calories_kcal": p_cal, "fat_g": p_fat, "carbohydrate_g": p_carb,
@@ -551,14 +493,14 @@ with tab3:
                     pred_prot = reg_model.predict(input_features)[0]
                     pred_prot = float(np.clip(pred_prot, 0.0, 100.0))
                     st.markdown(f"""
-                    <div style="background: rgba(16, 185, 129, 0.1); border: 1px solid rgba(52, 211, 153, 0.3); border-radius: 16px; padding: 1.25rem; margin-bottom: 1rem;">
-                        <div style="color: #34d399; font-weight: 600; font-size: 0.9rem;">REGRESSION MODEL OUTPUT</div>
-                        <div style="font-size: 2rem; font-weight: 800; color: #f8fafc;">{pred_prot:.2f} g Protein</div>
-                        <div style="color: #94a3b8; font-size: 0.8rem;">Predicted by Random Forest Regressor ($R^2$ = 0.7976)</div>
+                    <div style="background: #121722; border: 1px solid #10b981; border-radius: 12px; padding: 1.2rem; margin-bottom: 1rem;">
+                        <div style="color: #64748b; font-size: 0.8rem; font-weight: 600; text-transform: uppercase;">REGRESSION PREDICTION</div>
+                        <div style="font-size: 2.2rem; font-weight: 800; color: #10b981; margin: 0.2rem 0;">{pred_prot:.2f} g Protein</div>
+                        <div style="color: #94a3b8; font-size: 0.82rem;">Predicted by Random Forest Regressor ($R^2$ = 0.7976)</div>
                     </div>
                     """, unsafe_allow_html=True)
                 else:
-                    st.warning("Protein Regressor joblib model not loaded.")
+                    st.warning("Protein Regressor model not available.")
                     
                 # Classify Quality Grade
                 if cls_model is not None:
@@ -569,26 +511,26 @@ with tab3:
                     }])
                     pred_label = cls_model.predict(cls_input)[0]
                     
-                    label_color = "#34d399" if pred_label == "High" else ("#fbbf24" if pred_label == "Medium" else "#f87171")
+                    label_clr = "#10b981" if pred_label == "High" else ("#f59e0b" if pred_label == "Medium" else "#ef4444")
                     st.markdown(f"""
-                    <div style="background: rgba(15, 23, 42, 0.8); border: 2px solid {label_color}; border-radius: 16px; padding: 1.5rem; text-align: center;">
-                        <div style="color: #94a3b8; font-weight: 600; font-size: 0.9rem;">CLASSIFICATION MODEL GRADE</div>
-                        <div style="font-size: 2.8rem; font-weight: 800; color: {label_color}; margin: 0.25rem 0;">{pred_label} Quality</div>
-                        <div style="color: #64748b; font-size: 0.85rem;">Gradient Boosting Classifier (96.77% Accuracy)</div>
+                    <div style="background: #121722; border: 1px solid {label_clr}; border-radius: 12px; padding: 1.4rem; text-align: center;">
+                        <div style="color: #64748b; font-size: 0.8rem; font-weight: 600; text-transform: uppercase;">QUALITY CLASSIFICATION GRADE</div>
+                        <div style="font-size: 2.5rem; font-weight: 800; color: {label_clr}; margin: 0.3rem 0;">{pred_label} Quality</div>
+                        <div style="color: #94a3b8; font-size: 0.82rem;">Gradient Boosting Classifier (96.77% Accuracy)</div>
                     </div>
                     """, unsafe_allow_html=True)
                 else:
-                    st.warning("Quality Classifier joblib model not loaded.")
+                    st.warning("Quality Classifier model not available.")
 
 # ==============================================================================
 # TAB 4: RESEARCH ANALYTICS
 # ==============================================================================
 with tab4:
-    st.markdown("### 📊 Research & Dataset Analytics")
+    st.subheader("📊 Research & Experiment Evaluation")
     
     ca1, ca2 = st.columns(2)
     with ca1:
-        st.markdown("#### Baseline vs. Expanded Regression Metrics")
+        st.markdown("##### Regression Performance Comparison")
         if os.path.exists("results/regression_results.csv"):
             reg_res_df = pd.read_csv("results/regression_results.csv")
             st.dataframe(reg_res_df, use_container_width=True)
@@ -597,13 +539,13 @@ with tab4:
             st.image("results/figures/regression_actual_vs_predicted.png", caption="Actual vs Predicted Protein Scatter Plot")
             
     with ca2:
-        st.markdown("#### Baseline vs. Expanded Classification Metrics")
+        st.markdown("##### Classification Performance Comparison")
         if os.path.exists("results/classification_results.csv"):
             cls_res_df = pd.read_csv("results/classification_results.csv")
             st.dataframe(cls_res_df, use_container_width=True)
             
         if os.path.exists("results/figures/classification_confusion_matrix.png"):
-            st.image("results/figures/classification_confusion_matrix.png", caption="Confusion Matrix — Gradient Boosting")
+            st.image("results/figures/classification_confusion_matrix.png", caption="Confusion Matrix — Gradient Boosting Classifier")
 
-st.markdown("<br><hr>", unsafe_allow_html=True)
-st.markdown("<p style='text-align: center; color: #64748b; font-size: 0.85rem;'>Educational ML System — Built with Streamlit, Scikit-Learn & Pandas</p>", unsafe_allow_html=True)
+st.markdown("<br><hr style='border-color: #1e293b;'>", unsafe_allow_html=True)
+st.markdown("<p style='text-align: center; color: #64748b; font-size: 0.82rem;'>NutriML Pipeline — Machine Learning & Food Nutrition Research System</p>", unsafe_allow_html=True)
